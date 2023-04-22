@@ -1,6 +1,6 @@
-setwd("/Users/ericfrey/Documents/thesis/")
+# setwd("/Users/ericfrey/Documents/thesis/")
 # read data
-data = read.csv("data.csv")
+data = read.csv("../data/data.csv")
 data = data[!duplicated(data[c('Country_o', 'Country_d', 'year')]),]
 
 map_to_region <- function(country_column) {
