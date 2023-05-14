@@ -55,4 +55,14 @@ def get_iso2_country_code(country_name):
         return None
 
 
+def file_counter(folder_path:str):
+    file_count = 0
+    # Iterate over each item in the folder
+    for item in os.listdir(folder_path):
+        item_path = os.path.join(folder_path, item)
+        # Check if the item is a file
+        if os.path.isfile(item_path):
+            file_count += 1
+
+    return file_count
 
