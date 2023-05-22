@@ -11,6 +11,14 @@ import itertools
 from googletrans import LANGCODES
 import swifter
 import requests
+import numpy as np
+
+import plotly.express as px
+import ipywidgets as widgets
+from IPython.display import display, clear_output
+from ipywidgets.embed import embed_minimal_html
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 def translate_keywords_series(series, lang):
 
@@ -65,4 +73,46 @@ def file_counter(folder_path:str):
             file_count += 1
 
     return file_count
+
+
+def get_min_max(row, data_frame, group_column1, group_column2, value_column):
+    subgroup1 = row[group_column1]
+    subgroup2 = row[group_column2]
+    
+    subgroup_data = data_frame[(data_frame[group_column1] == subgroup1) & (data_frame[group_column2] == subgroup2)]
+    
+    min_value = np.nanmin(subgroup_data[value_column])
+    max_value = np.nanmax(subgroup_data[value_column])
+    
+    return min_value, max_value
+
+
+def adjust_trend(df, columns_to_adjust:list, start_date=None, end_date=None):
+    '''
+    start and end date must be entered in the format: YYYY-MM-DD
+    if dates are not imputed, the function assumes the data is already properly filtered 
+    '''
+    dataset = df.copy()
+    if start_date is not None and end_date is not None:
+        dataset['date'] = pd.to_datetime(dataset['date'])
+        dataset = dataset[(dataset['date'] > start_date) & (dataset["date"] < end_date)]
+
+    elif start_date is not None:
+        dataset['date'] = pd.to_datetime(dataset['date'])
+        dataset = dataset[dataset['date'] > start_date]
+
+    elif end_date is not None:
+        dataset['date'] = pd.to_datetime(dataset['date'])
+        dataset = dataset[dataset['date'] < start_date]
+        
+
+    for i in columns_to_adjust:
+        dataset[['Min', 'Max']] = dataset.apply(get_min_max, axis=1, args=(dataset, 'keyword', 'country', i), result_type='expand')
+        column_name = str(i) + "_adjusted"
+        # Adjust values of 'trends_index' between 0 and 100
+        dataset[column_name] = (dataset[i] - dataset["Min"]) * 100 / (dataset["Max"] - dataset["Min"])
+        dataset = dataset.drop(['Min', 'Max'], axis=1)
+
+    return dataset
+
 
