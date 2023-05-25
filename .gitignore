@@ -1,4 +1,5 @@
-data/data.csv
+data/raw/data.csv
+data/clean/unhcr.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
