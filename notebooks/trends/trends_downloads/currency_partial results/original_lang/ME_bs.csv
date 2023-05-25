@@ -1,0 +1,4775 @@
+date,trends_index,keyword,region,keyword_en
+2005-01-01,0,rand,ME,Rand
+2005-02-01,0,rand,ME,Rand
+2005-03-01,0,rand,ME,Rand
+2005-04-01,0,rand,ME,Rand
+2005-05-01,0,rand,ME,Rand
+2005-06-01,67,rand,ME,Rand
+2005-07-01,100,rand,ME,Rand
+2005-08-01,0,rand,ME,Rand
+2005-09-01,0,rand,ME,Rand
+2005-10-01,0,rand,ME,Rand
+2005-11-01,0,rand,ME,Rand
+2005-12-01,0,rand,ME,Rand
+2006-01-01,0,rand,ME,Rand
+2006-02-01,0,rand,ME,Rand
+2006-03-01,0,rand,ME,Rand
+2006-04-01,39,rand,ME,Rand
+2006-05-01,0,rand,ME,Rand
+2006-06-01,0,rand,ME,Rand
+2006-07-01,92,rand,ME,Rand
+2006-08-01,0,rand,ME,Rand
+2006-09-01,0,rand,ME,Rand
+2006-10-01,54,rand,ME,Rand
+2006-11-01,39,rand,ME,Rand
+2006-12-01,0,rand,ME,Rand
+2007-01-01,39,rand,ME,Rand
+2007-02-01,20,rand,ME,Rand
+2007-03-01,54,rand,ME,Rand
+2007-04-01,59,rand,ME,Rand
+2007-05-01,0,rand,ME,Rand
+2007-06-01,0,rand,ME,Rand
+2007-07-01,21,rand,ME,Rand
+2007-08-01,23,rand,ME,Rand
+2007-09-01,21,rand,ME,Rand
+2007-10-01,0,rand,ME,Rand
+2007-11-01,0,rand,ME,Rand
+2007-12-01,0,rand,ME,Rand
+2008-01-01,0,rand,ME,Rand
+2008-02-01,18,rand,ME,Rand
+2008-03-01,0,rand,ME,Rand
+2008-04-01,0,rand,ME,Rand
+2008-05-01,0,rand,ME,Rand
+2008-06-01,31,rand,ME,Rand
+2008-07-01,0,rand,ME,Rand
+2008-08-01,0,rand,ME,Rand
+2008-09-01,33,rand,ME,Rand
+2008-10-01,0,rand,ME,Rand
+2008-11-01,0,rand,ME,Rand
+2008-12-01,0,rand,ME,Rand
+2009-01-01,0,rand,ME,Rand
+2009-02-01,0,rand,ME,Rand
+2009-03-01,0,rand,ME,Rand
+2009-04-01,0,rand,ME,Rand
+2009-05-01,22,rand,ME,Rand
+2009-06-01,0,rand,ME,Rand
+2009-07-01,0,rand,ME,Rand
+2009-08-01,0,rand,ME,Rand
+2009-09-01,0,rand,ME,Rand
+2009-10-01,0,rand,ME,Rand
+2009-11-01,0,rand,ME,Rand
+2009-12-01,0,rand,ME,Rand
+2010-01-01,0,rand,ME,Rand
+2010-02-01,0,rand,ME,Rand
+2010-03-01,0,rand,ME,Rand
+2010-04-01,0,rand,ME,Rand
+2010-05-01,0,rand,ME,Rand
+2010-06-01,0,rand,ME,Rand
+2010-07-01,0,rand,ME,Rand
+2010-08-01,0,rand,ME,Rand
+2010-09-01,0,rand,ME,Rand
+2010-10-01,0,rand,ME,Rand
+2010-11-01,27,rand,ME,Rand
+2010-12-01,0,rand,ME,Rand
+2011-01-01,0,rand,ME,Rand
+2011-02-01,0,rand,ME,Rand
+2011-03-01,0,rand,ME,Rand
+2011-04-01,0,rand,ME,Rand
+2011-05-01,0,rand,ME,Rand
+2011-06-01,3,rand,ME,Rand
+2011-07-01,3,rand,ME,Rand
+2011-08-01,0,rand,ME,Rand
+2011-09-01,0,rand,ME,Rand
+2011-10-01,0,rand,ME,Rand
+2011-11-01,0,rand,ME,Rand
+2011-12-01,0,rand,ME,Rand
+2012-01-01,3,rand,ME,Rand
+2012-02-01,0,rand,ME,Rand
+2012-03-01,2,rand,ME,Rand
+2012-04-01,3,rand,ME,Rand
+2012-05-01,1,rand,ME,Rand
+2012-06-01,0,rand,ME,Rand
+2012-07-01,0,rand,ME,Rand
+2012-08-01,0,rand,ME,Rand
+2012-09-01,0,rand,ME,Rand
+2012-10-01,1,rand,ME,Rand
+2012-11-01,0,rand,ME,Rand
+2012-12-01,0,rand,ME,Rand
+2013-01-01,1,rand,ME,Rand
+2013-02-01,0,rand,ME,Rand
+2013-03-01,0,rand,ME,Rand
+2013-04-01,1,rand,ME,Rand
+2013-05-01,0,rand,ME,Rand
+2013-06-01,0,rand,ME,Rand
+2013-07-01,3,rand,ME,Rand
+2013-08-01,0,rand,ME,Rand
+2013-09-01,0,rand,ME,Rand
+2013-10-01,1,rand,ME,Rand
+2013-11-01,0,rand,ME,Rand
+2013-12-01,2,rand,ME,Rand
+2014-01-01,0,rand,ME,Rand
+2014-02-01,0,rand,ME,Rand
+2014-03-01,0,rand,ME,Rand
+2014-04-01,0,rand,ME,Rand
+2014-05-01,1,rand,ME,Rand
+2014-06-01,0,rand,ME,Rand
+2014-07-01,0,rand,ME,Rand
+2014-08-01,0,rand,ME,Rand
+2014-09-01,1,rand,ME,Rand
+2014-10-01,1,rand,ME,Rand
+2014-11-01,0,rand,ME,Rand
+2014-12-01,0,rand,ME,Rand
+2015-01-01,0,rand,ME,Rand
+2015-02-01,0,rand,ME,Rand
+2015-03-01,0,rand,ME,Rand
+2015-04-01,0,rand,ME,Rand
+2015-05-01,1,rand,ME,Rand
+2015-06-01,0,rand,ME,Rand
+2015-07-01,0,rand,ME,Rand
+2015-08-01,2,rand,ME,Rand
+2015-09-01,0,rand,ME,Rand
+2015-10-01,0,rand,ME,Rand
+2015-11-01,0,rand,ME,Rand
+2015-12-01,1,rand,ME,Rand
+2016-01-01,0,rand,ME,Rand
+2016-02-01,1,rand,ME,Rand
+2016-03-01,0,rand,ME,Rand
+2016-04-01,2,rand,ME,Rand
+2016-05-01,1,rand,ME,Rand
+2016-06-01,0,rand,ME,Rand
+2016-07-01,0,rand,ME,Rand
+2016-08-01,1,rand,ME,Rand
+2016-09-01,0,rand,ME,Rand
+2016-10-01,0,rand,ME,Rand
+2016-11-01,0,rand,ME,Rand
+2016-12-01,1,rand,ME,Rand
+2017-01-01,0,rand,ME,Rand
+2017-02-01,1,rand,ME,Rand
+2017-03-01,2,rand,ME,Rand
+2017-04-01,2,rand,ME,Rand
+2017-05-01,0,rand,ME,Rand
+2017-06-01,3,rand,ME,Rand
+2017-07-01,0,rand,ME,Rand
+2017-08-01,0,rand,ME,Rand
+2017-09-01,0,rand,ME,Rand
+2017-10-01,0,rand,ME,Rand
+2017-11-01,0,rand,ME,Rand
+2017-12-01,0,rand,ME,Rand
+2018-01-01,0,rand,ME,Rand
+2018-02-01,1,rand,ME,Rand
+2018-03-01,0,rand,ME,Rand
+2018-04-01,1,rand,ME,Rand
+2018-05-01,0,rand,ME,Rand
+2018-06-01,1,rand,ME,Rand
+2018-07-01,1,rand,ME,Rand
+2018-08-01,1,rand,ME,Rand
+2018-09-01,0,rand,ME,Rand
+2018-10-01,0,rand,ME,Rand
+2018-11-01,0,rand,ME,Rand
+2018-12-01,0,rand,ME,Rand
+2019-01-01,0,rand,ME,Rand
+2019-02-01,0,rand,ME,Rand
+2019-03-01,1,rand,ME,Rand
+2019-04-01,0,rand,ME,Rand
+2019-05-01,2,rand,ME,Rand
+2019-06-01,3,rand,ME,Rand
+2019-07-01,0,rand,ME,Rand
+2019-08-01,0,rand,ME,Rand
+2019-09-01,2,rand,ME,Rand
+2019-10-01,0,rand,ME,Rand
+2019-11-01,0,rand,ME,Rand
+2019-12-01,2,rand,ME,Rand
+2020-01-01,0,rand,ME,Rand
+2020-02-01,0,rand,ME,Rand
+2020-03-01,1,rand,ME,Rand
+2020-04-01,0,rand,ME,Rand
+2020-05-01,0,rand,ME,Rand
+2020-06-01,1,rand,ME,Rand
+2020-07-01,0,rand,ME,Rand
+2020-08-01,0,rand,ME,Rand
+2020-09-01,1,rand,ME,Rand
+2020-10-01,1,rand,ME,Rand
+2020-11-01,0,rand,ME,Rand
+2020-12-01,0,rand,ME,Rand
+2021-01-01,0,rand,ME,Rand
+2021-02-01,0,rand,ME,Rand
+2021-03-01,0,rand,ME,Rand
+2021-04-01,0,rand,ME,Rand
+2021-05-01,0,rand,ME,Rand
+2021-06-01,0,rand,ME,Rand
+2021-07-01,0,rand,ME,Rand
+2021-08-01,1,rand,ME,Rand
+2021-09-01,1,rand,ME,Rand
+2021-10-01,0,rand,ME,Rand
+2021-11-01,1,rand,ME,Rand
+2021-12-01,0,rand,ME,Rand
+2022-01-01,1,rand,ME,Rand
+2022-02-01,0,rand,ME,Rand
+2022-03-01,0,rand,ME,Rand
+2022-04-01,0,rand,ME,Rand
+2022-05-01,0,rand,ME,Rand
+2022-06-01,0,rand,ME,Rand
+2022-07-01,1,rand,ME,Rand
+2022-08-01,0,rand,ME,Rand
+2022-09-01,0,rand,ME,Rand
+2022-10-01,1,rand,ME,Rand
+2022-11-01,0,rand,ME,Rand
+2022-12-01,2,rand,ME,Rand
+2023-01-01,0,rand,ME,Rand
+2005-01-01,0,rail,ME,Riel
+2005-02-01,68,rail,ME,Riel
+2005-03-01,0,rail,ME,Riel
+2005-04-01,100,rail,ME,Riel
+2005-05-01,36,rail,ME,Riel
+2005-06-01,53,rail,ME,Riel
+2005-07-01,39,rail,ME,Riel
+2005-08-01,0,rail,ME,Riel
+2005-09-01,25,rail,ME,Riel
+2005-10-01,0,rail,ME,Riel
+2005-11-01,0,rail,ME,Riel
+2005-12-01,0,rail,ME,Riel
+2006-01-01,0,rail,ME,Riel
+2006-02-01,36,rail,ME,Riel
+2006-03-01,0,rail,ME,Riel
+2006-04-01,0,rail,ME,Riel
+2006-05-01,0,rail,ME,Riel
+2006-06-01,0,rail,ME,Riel
+2006-07-01,0,rail,ME,Riel
+2006-08-01,0,rail,ME,Riel
+2006-09-01,0,rail,ME,Riel
+2006-10-01,14,rail,ME,Riel
+2006-11-01,0,rail,ME,Riel
+2006-12-01,0,rail,ME,Riel
+2007-01-01,0,rail,ME,Riel
+2007-02-01,0,rail,ME,Riel
+2007-03-01,0,rail,ME,Riel
+2007-04-01,0,rail,ME,Riel
+2007-05-01,11,rail,ME,Riel
+2007-06-01,14,rail,ME,Riel
+2007-07-01,0,rail,ME,Riel
+2007-08-01,13,rail,ME,Riel
+2007-09-01,0,rail,ME,Riel
+2007-10-01,0,rail,ME,Riel
+2007-11-01,10,rail,ME,Riel
+2007-12-01,0,rail,ME,Riel
+2008-01-01,0,rail,ME,Riel
+2008-02-01,0,rail,ME,Riel
+2008-03-01,0,rail,ME,Riel
+2008-04-01,14,rail,ME,Riel
+2008-05-01,0,rail,ME,Riel
+2008-06-01,0,rail,ME,Riel
+2008-07-01,12,rail,ME,Riel
+2008-08-01,0,rail,ME,Riel
+2008-09-01,0,rail,ME,Riel
+2008-10-01,0,rail,ME,Riel
+2008-11-01,0,rail,ME,Riel
+2008-12-01,15,rail,ME,Riel
+2009-01-01,0,rail,ME,Riel
+2009-02-01,31,rail,ME,Riel
+2009-03-01,0,rail,ME,Riel
+2009-04-01,0,rail,ME,Riel
+2009-05-01,0,rail,ME,Riel
+2009-06-01,0,rail,ME,Riel
+2009-07-01,0,rail,ME,Riel
+2009-08-01,0,rail,ME,Riel
+2009-09-01,16,rail,ME,Riel
+2009-10-01,0,rail,ME,Riel
+2009-11-01,16,rail,ME,Riel
+2009-12-01,0,rail,ME,Riel
+2010-01-01,12,rail,ME,Riel
+2010-02-01,0,rail,ME,Riel
+2010-03-01,0,rail,ME,Riel
+2010-04-01,35,rail,ME,Riel
+2010-05-01,14,rail,ME,Riel
+2010-06-01,0,rail,ME,Riel
+2010-07-01,0,rail,ME,Riel
+2010-08-01,0,rail,ME,Riel
+2010-09-01,43,rail,ME,Riel
+2010-10-01,0,rail,ME,Riel
+2010-11-01,0,rail,ME,Riel
+2010-12-01,0,rail,ME,Riel
+2011-01-01,0,rail,ME,Riel
+2011-02-01,0,rail,ME,Riel
+2011-03-01,0,rail,ME,Riel
+2011-04-01,0,rail,ME,Riel
+2011-05-01,1,rail,ME,Riel
+2011-06-01,1,rail,ME,Riel
+2011-07-01,2,rail,ME,Riel
+2011-08-01,1,rail,ME,Riel
+2011-09-01,2,rail,ME,Riel
+2011-10-01,1,rail,ME,Riel
+2011-11-01,2,rail,ME,Riel
+2011-12-01,0,rail,ME,Riel
+2012-01-01,0,rail,ME,Riel
+2012-02-01,0,rail,ME,Riel
+2012-03-01,1,rail,ME,Riel
+2012-04-01,0,rail,ME,Riel
+2012-05-01,0,rail,ME,Riel
+2012-06-01,1,rail,ME,Riel
+2012-07-01,0,rail,ME,Riel
+2012-08-01,1,rail,ME,Riel
+2012-09-01,1,rail,ME,Riel
+2012-10-01,1,rail,ME,Riel
+2012-11-01,0,rail,ME,Riel
+2012-12-01,1,rail,ME,Riel
+2013-01-01,2,rail,ME,Riel
+2013-02-01,0,rail,ME,Riel
+2013-03-01,0,rail,ME,Riel
+2013-04-01,1,rail,ME,Riel
+2013-05-01,1,rail,ME,Riel
+2013-06-01,2,rail,ME,Riel
+2013-07-01,2,rail,ME,Riel
+2013-08-01,0,rail,ME,Riel
+2013-09-01,0,rail,ME,Riel
+2013-10-01,0,rail,ME,Riel
+2013-11-01,2,rail,ME,Riel
+2013-12-01,2,rail,ME,Riel
+2014-01-01,1,rail,ME,Riel
+2014-02-01,1,rail,ME,Riel
+2014-03-01,1,rail,ME,Riel
+2014-04-01,0,rail,ME,Riel
+2014-05-01,1,rail,ME,Riel
+2014-06-01,0,rail,ME,Riel
+2014-07-01,0,rail,ME,Riel
+2014-08-01,1,rail,ME,Riel
+2014-09-01,1,rail,ME,Riel
+2014-10-01,0,rail,ME,Riel
+2014-11-01,1,rail,ME,Riel
+2014-12-01,0,rail,ME,Riel
+2015-01-01,0,rail,ME,Riel
+2015-02-01,1,rail,ME,Riel
+2015-03-01,0,rail,ME,Riel
+2015-04-01,0,rail,ME,Riel
+2015-05-01,1,rail,ME,Riel
+2015-06-01,0,rail,ME,Riel
+2015-07-01,0,rail,ME,Riel
+2015-08-01,0,rail,ME,Riel
+2015-09-01,0,rail,ME,Riel
+2015-10-01,1,rail,ME,Riel
+2015-11-01,0,rail,ME,Riel
+2015-12-01,0,rail,ME,Riel
+2016-01-01,0,rail,ME,Riel
+2016-02-01,1,rail,ME,Riel
+2016-03-01,0,rail,ME,Riel
+2016-04-01,0,rail,ME,Riel
+2016-05-01,0,rail,ME,Riel
+2016-06-01,0,rail,ME,Riel
+2016-07-01,0,rail,ME,Riel
+2016-08-01,0,rail,ME,Riel
+2016-09-01,0,rail,ME,Riel
+2016-10-01,0,rail,ME,Riel
+2016-11-01,0,rail,ME,Riel
+2016-12-01,0,rail,ME,Riel
+2017-01-01,1,rail,ME,Riel
+2017-02-01,0,rail,ME,Riel
+2017-03-01,1,rail,ME,Riel
+2017-04-01,0,rail,ME,Riel
+2017-05-01,0,rail,ME,Riel
+2017-06-01,1,rail,ME,Riel
+2017-07-01,0,rail,ME,Riel
+2017-08-01,0,rail,ME,Riel
+2017-09-01,0,rail,ME,Riel
+2017-10-01,0,rail,ME,Riel
+2017-11-01,0,rail,ME,Riel
+2017-12-01,1,rail,ME,Riel
+2018-01-01,0,rail,ME,Riel
+2018-02-01,1,rail,ME,Riel
+2018-03-01,0,rail,ME,Riel
+2018-04-01,0,rail,ME,Riel
+2018-05-01,0,rail,ME,Riel
+2018-06-01,1,rail,ME,Riel
+2018-07-01,1,rail,ME,Riel
+2018-08-01,0,rail,ME,Riel
+2018-09-01,1,rail,ME,Riel
+2018-10-01,1,rail,ME,Riel
+2018-11-01,0,rail,ME,Riel
+2018-12-01,2,rail,ME,Riel
+2019-01-01,1,rail,ME,Riel
+2019-02-01,1,rail,ME,Riel
+2019-03-01,0,rail,ME,Riel
+2019-04-01,0,rail,ME,Riel
+2019-05-01,1,rail,ME,Riel
+2019-06-01,1,rail,ME,Riel
+2019-07-01,1,rail,ME,Riel
+2019-08-01,0,rail,ME,Riel
+2019-09-01,0,rail,ME,Riel
+2019-10-01,1,rail,ME,Riel
+2019-11-01,1,rail,ME,Riel
+2019-12-01,1,rail,ME,Riel
+2020-01-01,1,rail,ME,Riel
+2020-02-01,0,rail,ME,Riel
+2020-03-01,0,rail,ME,Riel
+2020-04-01,1,rail,ME,Riel
+2020-05-01,0,rail,ME,Riel
+2020-06-01,0,rail,ME,Riel
+2020-07-01,1,rail,ME,Riel
+2020-08-01,1,rail,ME,Riel
+2020-09-01,0,rail,ME,Riel
+2020-10-01,0,rail,ME,Riel
+2020-11-01,1,rail,ME,Riel
+2020-12-01,0,rail,ME,Riel
+2021-01-01,1,rail,ME,Riel
+2021-02-01,1,rail,ME,Riel
+2021-03-01,1,rail,ME,Riel
+2021-04-01,0,rail,ME,Riel
+2021-05-01,0,rail,ME,Riel
+2021-06-01,1,rail,ME,Riel
+2021-07-01,0,rail,ME,Riel
+2021-08-01,0,rail,ME,Riel
+2021-09-01,0,rail,ME,Riel
+2021-10-01,0,rail,ME,Riel
+2021-11-01,0,rail,ME,Riel
+2021-12-01,0,rail,ME,Riel
+2022-01-01,1,rail,ME,Riel
+2022-02-01,0,rail,ME,Riel
+2022-03-01,0,rail,ME,Riel
+2022-04-01,0,rail,ME,Riel
+2022-05-01,1,rail,ME,Riel
+2022-06-01,0,rail,ME,Riel
+2022-07-01,0,rail,ME,Riel
+2022-08-01,1,rail,ME,Riel
+2022-09-01,0,rail,ME,Riel
+2022-10-01,0,rail,ME,Riel
+2022-11-01,0,rail,ME,Riel
+2022-12-01,1,rail,ME,Riel
+2023-01-01,1,rail,ME,Riel
+2005-01-01,0,ljudi,ME,Vatu
+2005-02-01,98,ljudi,ME,Vatu
+2005-03-01,0,ljudi,ME,Vatu
+2005-04-01,0,ljudi,ME,Vatu
+2005-05-01,0,ljudi,ME,Vatu
+2005-06-01,63,ljudi,ME,Vatu
+2005-07-01,88,ljudi,ME,Vatu
+2005-08-01,0,ljudi,ME,Vatu
+2005-09-01,41,ljudi,ME,Vatu
+2005-10-01,0,ljudi,ME,Vatu
+2005-11-01,0,ljudi,ME,Vatu
+2005-12-01,0,ljudi,ME,Vatu
+2006-01-01,0,ljudi,ME,Vatu
+2006-02-01,0,ljudi,ME,Vatu
+2006-03-01,0,ljudi,ME,Vatu
+2006-04-01,0,ljudi,ME,Vatu
+2006-05-01,0,ljudi,ME,Vatu
+2006-06-01,0,ljudi,ME,Vatu
+2006-07-01,0,ljudi,ME,Vatu
+2006-08-01,100,ljudi,ME,Vatu
+2006-09-01,0,ljudi,ME,Vatu
+2006-10-01,19,ljudi,ME,Vatu
+2006-11-01,0,ljudi,ME,Vatu
+2006-12-01,0,ljudi,ME,Vatu
+2007-01-01,23,ljudi,ME,Vatu
+2007-02-01,0,ljudi,ME,Vatu
+2007-03-01,0,ljudi,ME,Vatu
+2007-04-01,0,ljudi,ME,Vatu
+2007-05-01,0,ljudi,ME,Vatu
+2007-06-01,18,ljudi,ME,Vatu
+2007-07-01,25,ljudi,ME,Vatu
+2007-08-01,0,ljudi,ME,Vatu
+2007-09-01,0,ljudi,ME,Vatu
+2007-10-01,0,ljudi,ME,Vatu
+2007-11-01,0,ljudi,ME,Vatu
+2007-12-01,0,ljudi,ME,Vatu
+2008-01-01,9,ljudi,ME,Vatu
+2008-02-01,11,ljudi,ME,Vatu
+2008-03-01,41,ljudi,ME,Vatu
+2008-04-01,39,ljudi,ME,Vatu
+2008-05-01,0,ljudi,ME,Vatu
+2008-06-01,0,ljudi,ME,Vatu
+2008-07-01,0,ljudi,ME,Vatu
+2008-08-01,0,ljudi,ME,Vatu
+2008-09-01,0,ljudi,ME,Vatu
+2008-10-01,0,ljudi,ME,Vatu
+2008-11-01,0,ljudi,ME,Vatu
+2008-12-01,13,ljudi,ME,Vatu
+2009-01-01,21,ljudi,ME,Vatu
+2009-02-01,14,ljudi,ME,Vatu
+2009-03-01,28,ljudi,ME,Vatu
+2009-04-01,23,ljudi,ME,Vatu
+2009-05-01,0,ljudi,ME,Vatu
+2009-06-01,24,ljudi,ME,Vatu
+2009-07-01,12,ljudi,ME,Vatu
+2009-08-01,0,ljudi,ME,Vatu
+2009-09-01,0,ljudi,ME,Vatu
+2009-10-01,22,ljudi,ME,Vatu
+2009-11-01,52,ljudi,ME,Vatu
+2009-12-01,0,ljudi,ME,Vatu
+2010-01-01,19,ljudi,ME,Vatu
+2010-02-01,11,ljudi,ME,Vatu
+2010-03-01,0,ljudi,ME,Vatu
+2010-04-01,45,ljudi,ME,Vatu
+2010-05-01,24,ljudi,ME,Vatu
+2010-06-01,0,ljudi,ME,Vatu
+2010-07-01,59,ljudi,ME,Vatu
+2010-08-01,0,ljudi,ME,Vatu
+2010-09-01,41,ljudi,ME,Vatu
+2010-10-01,10,ljudi,ME,Vatu
+2010-11-01,14,ljudi,ME,Vatu
+2010-12-01,15,ljudi,ME,Vatu
+2011-01-01,13,ljudi,ME,Vatu
+2011-02-01,10,ljudi,ME,Vatu
+2011-03-01,9,ljudi,ME,Vatu
+2011-04-01,9,ljudi,ME,Vatu
+2011-05-01,12,ljudi,ME,Vatu
+2011-06-01,8,ljudi,ME,Vatu
+2011-07-01,10,ljudi,ME,Vatu
+2011-08-01,10,ljudi,ME,Vatu
+2011-09-01,10,ljudi,ME,Vatu
+2011-10-01,15,ljudi,ME,Vatu
+2011-11-01,20,ljudi,ME,Vatu
+2011-12-01,23,ljudi,ME,Vatu
+2012-01-01,26,ljudi,ME,Vatu
+2012-02-01,19,ljudi,ME,Vatu
+2012-03-01,13,ljudi,ME,Vatu
+2012-04-01,15,ljudi,ME,Vatu
+2012-05-01,13,ljudi,ME,Vatu
+2012-06-01,11,ljudi,ME,Vatu
+2012-07-01,7,ljudi,ME,Vatu
+2012-08-01,10,ljudi,ME,Vatu
+2012-09-01,17,ljudi,ME,Vatu
+2012-10-01,9,ljudi,ME,Vatu
+2012-11-01,8,ljudi,ME,Vatu
+2012-12-01,8,ljudi,ME,Vatu
+2013-01-01,9,ljudi,ME,Vatu
+2013-02-01,15,ljudi,ME,Vatu
+2013-03-01,10,ljudi,ME,Vatu
+2013-04-01,11,ljudi,ME,Vatu
+2013-05-01,11,ljudi,ME,Vatu
+2013-06-01,10,ljudi,ME,Vatu
+2013-07-01,7,ljudi,ME,Vatu
+2013-08-01,9,ljudi,ME,Vatu
+2013-09-01,9,ljudi,ME,Vatu
+2013-10-01,14,ljudi,ME,Vatu
+2013-11-01,11,ljudi,ME,Vatu
+2013-12-01,11,ljudi,ME,Vatu
+2014-01-01,14,ljudi,ME,Vatu
+2014-02-01,11,ljudi,ME,Vatu
+2014-03-01,9,ljudi,ME,Vatu
+2014-04-01,10,ljudi,ME,Vatu
+2014-05-01,12,ljudi,ME,Vatu
+2014-06-01,11,ljudi,ME,Vatu
+2014-07-01,9,ljudi,ME,Vatu
+2014-08-01,11,ljudi,ME,Vatu
+2014-09-01,14,ljudi,ME,Vatu
+2014-10-01,14,ljudi,ME,Vatu
+2014-11-01,11,ljudi,ME,Vatu
+2014-12-01,12,ljudi,ME,Vatu
+2015-01-01,9,ljudi,ME,Vatu
+2015-02-01,10,ljudi,ME,Vatu
+2015-03-01,12,ljudi,ME,Vatu
+2015-04-01,10,ljudi,ME,Vatu
+2015-05-01,10,ljudi,ME,Vatu
+2015-06-01,9,ljudi,ME,Vatu
+2015-07-01,10,ljudi,ME,Vatu
+2015-08-01,8,ljudi,ME,Vatu
+2015-09-01,11,ljudi,ME,Vatu
+2015-10-01,12,ljudi,ME,Vatu
+2015-11-01,15,ljudi,ME,Vatu
+2015-12-01,10,ljudi,ME,Vatu
+2016-01-01,10,ljudi,ME,Vatu
+2016-02-01,11,ljudi,ME,Vatu
+2016-03-01,11,ljudi,ME,Vatu
+2016-04-01,8,ljudi,ME,Vatu
+2016-05-01,9,ljudi,ME,Vatu
+2016-06-01,9,ljudi,ME,Vatu
+2016-07-01,10,ljudi,ME,Vatu
+2016-08-01,10,ljudi,ME,Vatu
+2016-09-01,10,ljudi,ME,Vatu
+2016-10-01,12,ljudi,ME,Vatu
+2016-11-01,10,ljudi,ME,Vatu
+2016-12-01,14,ljudi,ME,Vatu
+2017-01-01,11,ljudi,ME,Vatu
+2017-02-01,13,ljudi,ME,Vatu
+2017-03-01,13,ljudi,ME,Vatu
+2017-04-01,21,ljudi,ME,Vatu
+2017-05-01,17,ljudi,ME,Vatu
+2017-06-01,14,ljudi,ME,Vatu
+2017-07-01,7,ljudi,ME,Vatu
+2017-08-01,9,ljudi,ME,Vatu
+2017-09-01,9,ljudi,ME,Vatu
+2017-10-01,10,ljudi,ME,Vatu
+2017-11-01,13,ljudi,ME,Vatu
+2017-12-01,11,ljudi,ME,Vatu
+2018-01-01,9,ljudi,ME,Vatu
+2018-02-01,13,ljudi,ME,Vatu
+2018-03-01,11,ljudi,ME,Vatu
+2018-04-01,11,ljudi,ME,Vatu
+2018-05-01,10,ljudi,ME,Vatu
+2018-06-01,10,ljudi,ME,Vatu
+2018-07-01,9,ljudi,ME,Vatu
+2018-08-01,11,ljudi,ME,Vatu
+2018-09-01,9,ljudi,ME,Vatu
+2018-10-01,13,ljudi,ME,Vatu
+2018-11-01,11,ljudi,ME,Vatu
+2018-12-01,10,ljudi,ME,Vatu
+2019-01-01,11,ljudi,ME,Vatu
+2019-02-01,12,ljudi,ME,Vatu
+2019-03-01,10,ljudi,ME,Vatu
+2019-04-01,10,ljudi,ME,Vatu
+2019-05-01,10,ljudi,ME,Vatu
+2019-06-01,9,ljudi,ME,Vatu
+2019-07-01,8,ljudi,ME,Vatu
+2019-08-01,7,ljudi,ME,Vatu
+2019-09-01,9,ljudi,ME,Vatu
+2019-10-01,13,ljudi,ME,Vatu
+2019-11-01,9,ljudi,ME,Vatu
+2019-12-01,10,ljudi,ME,Vatu
+2020-01-01,13,ljudi,ME,Vatu
+2020-02-01,13,ljudi,ME,Vatu
+2020-03-01,31,ljudi,ME,Vatu
+2020-04-01,19,ljudi,ME,Vatu
+2020-05-01,15,ljudi,ME,Vatu
+2020-06-01,10,ljudi,ME,Vatu
+2020-07-01,11,ljudi,ME,Vatu
+2020-08-01,10,ljudi,ME,Vatu
+2020-09-01,9,ljudi,ME,Vatu
+2020-10-01,11,ljudi,ME,Vatu
+2020-11-01,12,ljudi,ME,Vatu
+2020-12-01,10,ljudi,ME,Vatu
+2021-01-01,11,ljudi,ME,Vatu
+2021-02-01,10,ljudi,ME,Vatu
+2021-03-01,10,ljudi,ME,Vatu
+2021-04-01,11,ljudi,ME,Vatu
+2021-05-01,8,ljudi,ME,Vatu
+2021-06-01,6,ljudi,ME,Vatu
+2021-07-01,7,ljudi,ME,Vatu
+2021-08-01,7,ljudi,ME,Vatu
+2021-09-01,8,ljudi,ME,Vatu
+2021-10-01,11,ljudi,ME,Vatu
+2021-11-01,14,ljudi,ME,Vatu
+2021-12-01,10,ljudi,ME,Vatu
+2022-01-01,11,ljudi,ME,Vatu
+2022-02-01,11,ljudi,ME,Vatu
+2022-03-01,10,ljudi,ME,Vatu
+2022-04-01,9,ljudi,ME,Vatu
+2022-05-01,7,ljudi,ME,Vatu
+2022-06-01,7,ljudi,ME,Vatu
+2022-07-01,8,ljudi,ME,Vatu
+2022-08-01,6,ljudi,ME,Vatu
+2022-09-01,8,ljudi,ME,Vatu
+2022-10-01,12,ljudi,ME,Vatu
+2022-11-01,8,ljudi,ME,Vatu
+2022-12-01,10,ljudi,ME,Vatu
+2023-01-01,8,ljudi,ME,Vatu
+2005-01-01,54,dram,ME,Dram
+2005-02-01,0,dram,ME,Dram
+2005-03-01,0,dram,ME,Dram
+2005-04-01,0,dram,ME,Dram
+2005-05-01,0,dram,ME,Dram
+2005-06-01,0,dram,ME,Dram
+2005-07-01,0,dram,ME,Dram
+2005-08-01,0,dram,ME,Dram
+2005-09-01,0,dram,ME,Dram
+2005-10-01,0,dram,ME,Dram
+2005-11-01,0,dram,ME,Dram
+2005-12-01,0,dram,ME,Dram
+2006-01-01,0,dram,ME,Dram
+2006-02-01,0,dram,ME,Dram
+2006-03-01,0,dram,ME,Dram
+2006-04-01,0,dram,ME,Dram
+2006-05-01,0,dram,ME,Dram
+2006-06-01,0,dram,ME,Dram
+2006-07-01,0,dram,ME,Dram
+2006-08-01,0,dram,ME,Dram
+2006-09-01,30,dram,ME,Dram
+2006-10-01,100,dram,ME,Dram
+2006-11-01,0,dram,ME,Dram
+2006-12-01,0,dram,ME,Dram
+2007-01-01,41,dram,ME,Dram
+2007-02-01,0,dram,ME,Dram
+2007-03-01,0,dram,ME,Dram
+2007-04-01,0,dram,ME,Dram
+2007-05-01,0,dram,ME,Dram
+2007-06-01,0,dram,ME,Dram
+2007-07-01,0,dram,ME,Dram
+2007-08-01,0,dram,ME,Dram
+2007-09-01,0,dram,ME,Dram
+2007-10-01,0,dram,ME,Dram
+2007-11-01,0,dram,ME,Dram
+2007-12-01,0,dram,ME,Dram
+2008-01-01,33,dram,ME,Dram
+2008-02-01,0,dram,ME,Dram
+2008-03-01,0,dram,ME,Dram
+2008-04-01,0,dram,ME,Dram
+2008-05-01,0,dram,ME,Dram
+2008-06-01,0,dram,ME,Dram
+2008-07-01,0,dram,ME,Dram
+2008-08-01,40,dram,ME,Dram
+2008-09-01,0,dram,ME,Dram
+2008-10-01,28,dram,ME,Dram
+2008-11-01,26,dram,ME,Dram
+2008-12-01,0,dram,ME,Dram
+2009-01-01,0,dram,ME,Dram
+2009-02-01,0,dram,ME,Dram
+2009-03-01,47,dram,ME,Dram
+2009-04-01,58,dram,ME,Dram
+2009-05-01,0,dram,ME,Dram
+2009-06-01,0,dram,ME,Dram
+2009-07-01,0,dram,ME,Dram
+2009-08-01,0,dram,ME,Dram
+2009-09-01,0,dram,ME,Dram
+2009-10-01,20,dram,ME,Dram
+2009-11-01,0,dram,ME,Dram
+2009-12-01,0,dram,ME,Dram
+2010-01-01,0,dram,ME,Dram
+2010-02-01,0,dram,ME,Dram
+2010-03-01,0,dram,ME,Dram
+2010-04-01,0,dram,ME,Dram
+2010-05-01,0,dram,ME,Dram
+2010-06-01,0,dram,ME,Dram
+2010-07-01,25,dram,ME,Dram
+2010-08-01,0,dram,ME,Dram
+2010-09-01,0,dram,ME,Dram
+2010-10-01,0,dram,ME,Dram
+2010-11-01,0,dram,ME,Dram
+2010-12-01,12,dram,ME,Dram
+2011-01-01,0,dram,ME,Dram
+2011-02-01,0,dram,ME,Dram
+2011-03-01,0,dram,ME,Dram
+2011-04-01,0,dram,ME,Dram
+2011-05-01,1,dram,ME,Dram
+2011-06-01,0,dram,ME,Dram
+2011-07-01,0,dram,ME,Dram
+2011-08-01,0,dram,ME,Dram
+2011-09-01,0,dram,ME,Dram
+2011-10-01,0,dram,ME,Dram
+2011-11-01,0,dram,ME,Dram
+2011-12-01,0,dram,ME,Dram
+2012-01-01,1,dram,ME,Dram
+2012-02-01,1,dram,ME,Dram
+2012-03-01,0,dram,ME,Dram
+2012-04-01,0,dram,ME,Dram
+2012-05-01,0,dram,ME,Dram
+2012-06-01,0,dram,ME,Dram
+2012-07-01,3,dram,ME,Dram
+2012-08-01,0,dram,ME,Dram
+2012-09-01,0,dram,ME,Dram
+2012-10-01,0,dram,ME,Dram
+2012-11-01,0,dram,ME,Dram
+2012-12-01,0,dram,ME,Dram
+2013-01-01,0,dram,ME,Dram
+2013-02-01,0,dram,ME,Dram
+2013-03-01,1,dram,ME,Dram
+2013-04-01,0,dram,ME,Dram
+2013-05-01,0,dram,ME,Dram
+2013-06-01,0,dram,ME,Dram
+2013-07-01,2,dram,ME,Dram
+2013-08-01,0,dram,ME,Dram
+2013-09-01,0,dram,ME,Dram
+2013-10-01,1,dram,ME,Dram
+2013-11-01,1,dram,ME,Dram
+2013-12-01,3,dram,ME,Dram
+2014-01-01,0,dram,ME,Dram
+2014-02-01,0,dram,ME,Dram
+2014-03-01,1,dram,ME,Dram
+2014-04-01,0,dram,ME,Dram
+2014-05-01,1,dram,ME,Dram
+2014-06-01,0,dram,ME,Dram
+2014-07-01,0,dram,ME,Dram
+2014-08-01,0,dram,ME,Dram
+2014-09-01,2,dram,ME,Dram
+2014-10-01,0,dram,ME,Dram
+2014-11-01,0,dram,ME,Dram
+2014-12-01,0,dram,ME,Dram
+2015-01-01,1,dram,ME,Dram
+2015-02-01,1,dram,ME,Dram
+2015-03-01,3,dram,ME,Dram
+2015-04-01,0,dram,ME,Dram
+2015-05-01,1,dram,ME,Dram
+2015-06-01,0,dram,ME,Dram
+2015-07-01,0,dram,ME,Dram
+2015-08-01,1,dram,ME,Dram
+2015-09-01,0,dram,ME,Dram
+2015-10-01,1,dram,ME,Dram
+2015-11-01,0,dram,ME,Dram
+2015-12-01,0,dram,ME,Dram
+2016-01-01,0,dram,ME,Dram
+2016-02-01,0,dram,ME,Dram
+2016-03-01,0,dram,ME,Dram
+2016-04-01,0,dram,ME,Dram
+2016-05-01,0,dram,ME,Dram
+2016-06-01,0,dram,ME,Dram
+2016-07-01,0,dram,ME,Dram
+2016-08-01,0,dram,ME,Dram
+2016-09-01,1,dram,ME,Dram
+2016-10-01,1,dram,ME,Dram
+2016-11-01,0,dram,ME,Dram
+2016-12-01,0,dram,ME,Dram
+2017-01-01,0,dram,ME,Dram
+2017-02-01,0,dram,ME,Dram
+2017-03-01,0,dram,ME,Dram
+2017-04-01,0,dram,ME,Dram
+2017-05-01,0,dram,ME,Dram
+2017-06-01,0,dram,ME,Dram
+2017-07-01,0,dram,ME,Dram
+2017-08-01,1,dram,ME,Dram
+2017-09-01,3,dram,ME,Dram
+2017-10-01,0,dram,ME,Dram
+2017-11-01,0,dram,ME,Dram
+2017-12-01,0,dram,ME,Dram
+2018-01-01,0,dram,ME,Dram
+2018-02-01,0,dram,ME,Dram
+2018-03-01,0,dram,ME,Dram
+2018-04-01,0,dram,ME,Dram
+2018-05-01,0,dram,ME,Dram
+2018-06-01,0,dram,ME,Dram
+2018-07-01,0,dram,ME,Dram
+2018-08-01,0,dram,ME,Dram
+2018-09-01,0,dram,ME,Dram
+2018-10-01,1,dram,ME,Dram
+2018-11-01,0,dram,ME,Dram
+2018-12-01,0,dram,ME,Dram
+2019-01-01,0,dram,ME,Dram
+2019-02-01,0,dram,ME,Dram
+2019-03-01,1,dram,ME,Dram
+2019-04-01,0,dram,ME,Dram
+2019-05-01,0,dram,ME,Dram
+2019-06-01,0,dram,ME,Dram
+2019-07-01,1,dram,ME,Dram
+2019-08-01,0,dram,ME,Dram
+2019-09-01,0,dram,ME,Dram
+2019-10-01,1,dram,ME,Dram
+2019-11-01,0,dram,ME,Dram
+2019-12-01,0,dram,ME,Dram
+2020-01-01,0,dram,ME,Dram
+2020-02-01,0,dram,ME,Dram
+2020-03-01,1,dram,ME,Dram
+2020-04-01,0,dram,ME,Dram
+2020-05-01,0,dram,ME,Dram
+2020-06-01,0,dram,ME,Dram
+2020-07-01,0,dram,ME,Dram
+2020-08-01,0,dram,ME,Dram
+2020-09-01,0,dram,ME,Dram
+2020-10-01,1,dram,ME,Dram
+2020-11-01,0,dram,ME,Dram
+2020-12-01,0,dram,ME,Dram
+2021-01-01,0,dram,ME,Dram
+2021-02-01,0,dram,ME,Dram
+2021-03-01,0,dram,ME,Dram
+2021-04-01,1,dram,ME,Dram
+2021-05-01,0,dram,ME,Dram
+2021-06-01,1,dram,ME,Dram
+2021-07-01,0,dram,ME,Dram
+2021-08-01,0,dram,ME,Dram
+2021-09-01,1,dram,ME,Dram
+2021-10-01,0,dram,ME,Dram
+2021-11-01,0,dram,ME,Dram
+2021-12-01,0,dram,ME,Dram
+2022-01-01,0,dram,ME,Dram
+2022-02-01,0,dram,ME,Dram
+2022-03-01,1,dram,ME,Dram
+2022-04-01,0,dram,ME,Dram
+2022-05-01,0,dram,ME,Dram
+2022-06-01,0,dram,ME,Dram
+2022-07-01,1,dram,ME,Dram
+2022-08-01,0,dram,ME,Dram
+2022-09-01,0,dram,ME,Dram
+2022-10-01,0,dram,ME,Dram
+2022-11-01,0,dram,ME,Dram
+2022-12-01,1,dram,ME,Dram
+2023-01-01,0,dram,ME,Dram
+2005-01-01,0,kina,ME,Kina
+2005-02-01,0,kina,ME,Kina
+2005-03-01,100,kina,ME,Kina
+2005-04-01,0,kina,ME,Kina
+2005-05-01,0,kina,ME,Kina
+2005-06-01,0,kina,ME,Kina
+2005-07-01,0,kina,ME,Kina
+2005-08-01,0,kina,ME,Kina
+2005-09-01,35,kina,ME,Kina
+2005-10-01,0,kina,ME,Kina
+2005-11-01,0,kina,ME,Kina
+2005-12-01,0,kina,ME,Kina
+2006-01-01,0,kina,ME,Kina
+2006-02-01,0,kina,ME,Kina
+2006-03-01,0,kina,ME,Kina
+2006-04-01,0,kina,ME,Kina
+2006-05-01,0,kina,ME,Kina
+2006-06-01,54,kina,ME,Kina
+2006-07-01,0,kina,ME,Kina
+2006-08-01,0,kina,ME,Kina
+2006-09-01,0,kina,ME,Kina
+2006-10-01,0,kina,ME,Kina
+2006-11-01,0,kina,ME,Kina
+2006-12-01,0,kina,ME,Kina
+2007-01-01,0,kina,ME,Kina
+2007-02-01,0,kina,ME,Kina
+2007-03-01,0,kina,ME,Kina
+2007-04-01,22,kina,ME,Kina
+2007-05-01,0,kina,ME,Kina
+2007-06-01,0,kina,ME,Kina
+2007-07-01,0,kina,ME,Kina
+2007-08-01,0,kina,ME,Kina
+2007-09-01,0,kina,ME,Kina
+2007-10-01,0,kina,ME,Kina
+2007-11-01,9,kina,ME,Kina
+2007-12-01,0,kina,ME,Kina
+2008-01-01,0,kina,ME,Kina
+2008-02-01,0,kina,ME,Kina
+2008-03-01,0,kina,ME,Kina
+2008-04-01,0,kina,ME,Kina
+2008-05-01,0,kina,ME,Kina
+2008-06-01,0,kina,ME,Kina
+2008-07-01,0,kina,ME,Kina
+2008-08-01,0,kina,ME,Kina
+2008-09-01,0,kina,ME,Kina
+2008-10-01,0,kina,ME,Kina
+2008-11-01,0,kina,ME,Kina
+2008-12-01,0,kina,ME,Kina
+2009-01-01,0,kina,ME,Kina
+2009-02-01,13,kina,ME,Kina
+2009-03-01,0,kina,ME,Kina
+2009-04-01,22,kina,ME,Kina
+2009-05-01,0,kina,ME,Kina
+2009-06-01,16,kina,ME,Kina
+2009-07-01,0,kina,ME,Kina
+2009-08-01,0,kina,ME,Kina
+2009-09-01,29,kina,ME,Kina
+2009-10-01,31,kina,ME,Kina
+2009-11-01,23,kina,ME,Kina
+2009-12-01,19,kina,ME,Kina
+2010-01-01,0,kina,ME,Kina
+2010-02-01,0,kina,ME,Kina
+2010-03-01,0,kina,ME,Kina
+2010-04-01,21,kina,ME,Kina
+2010-05-01,0,kina,ME,Kina
+2010-06-01,0,kina,ME,Kina
+2010-07-01,0,kina,ME,Kina
+2010-08-01,39,kina,ME,Kina
+2010-09-01,0,kina,ME,Kina
+2010-10-01,0,kina,ME,Kina
+2010-11-01,0,kina,ME,Kina
+2010-12-01,41,kina,ME,Kina
+2011-01-01,2,kina,ME,Kina
+2011-02-01,0,kina,ME,Kina
+2011-03-01,1,kina,ME,Kina
+2011-04-01,2,kina,ME,Kina
+2011-05-01,2,kina,ME,Kina
+2011-06-01,0,kina,ME,Kina
+2011-07-01,2,kina,ME,Kina
+2011-08-01,1,kina,ME,Kina
+2011-09-01,2,kina,ME,Kina
+2011-10-01,1,kina,ME,Kina
+2011-11-01,4,kina,ME,Kina
+2011-12-01,3,kina,ME,Kina
+2012-01-01,1,kina,ME,Kina
+2012-02-01,0,kina,ME,Kina
+2012-03-01,0,kina,ME,Kina
+2012-04-01,5,kina,ME,Kina
+2012-05-01,1,kina,ME,Kina
+2012-06-01,5,kina,ME,Kina
+2012-07-01,4,kina,ME,Kina
+2012-08-01,2,kina,ME,Kina
+2012-09-01,0,kina,ME,Kina
+2012-10-01,2,kina,ME,Kina
+2012-11-01,1,kina,ME,Kina
+2012-12-01,0,kina,ME,Kina
+2013-01-01,0,kina,ME,Kina
+2013-02-01,1,kina,ME,Kina
+2013-03-01,1,kina,ME,Kina
+2013-04-01,0,kina,ME,Kina
+2013-05-01,1,kina,ME,Kina
+2013-06-01,0,kina,ME,Kina
+2013-07-01,1,kina,ME,Kina
+2013-08-01,1,kina,ME,Kina
+2013-09-01,2,kina,ME,Kina
+2013-10-01,1,kina,ME,Kina
+2013-11-01,0,kina,ME,Kina
+2013-12-01,1,kina,ME,Kina
+2014-01-01,1,kina,ME,Kina
+2014-02-01,2,kina,ME,Kina
+2014-03-01,0,kina,ME,Kina
+2014-04-01,2,kina,ME,Kina
+2014-05-01,0,kina,ME,Kina
+2014-06-01,1,kina,ME,Kina
+2014-07-01,0,kina,ME,Kina
+2014-08-01,0,kina,ME,Kina
+2014-09-01,1,kina,ME,Kina
+2014-10-01,1,kina,ME,Kina
+2014-11-01,1,kina,ME,Kina
+2014-12-01,3,kina,ME,Kina
+2015-01-01,2,kina,ME,Kina
+2015-02-01,2,kina,ME,Kina
+2015-03-01,2,kina,ME,Kina
+2015-04-01,1,kina,ME,Kina
+2015-05-01,2,kina,ME,Kina
+2015-06-01,1,kina,ME,Kina
+2015-07-01,0,kina,ME,Kina
+2015-08-01,2,kina,ME,Kina
+2015-09-01,2,kina,ME,Kina
+2015-10-01,1,kina,ME,Kina
+2015-11-01,2,kina,ME,Kina
+2015-12-01,2,kina,ME,Kina
+2016-01-01,1,kina,ME,Kina
+2016-02-01,1,kina,ME,Kina
+2016-03-01,2,kina,ME,Kina
+2016-04-01,0,kina,ME,Kina
+2016-05-01,1,kina,ME,Kina
+2016-06-01,2,kina,ME,Kina
+2016-07-01,1,kina,ME,Kina
+2016-08-01,3,kina,ME,Kina
+2016-09-01,1,kina,ME,Kina
+2016-10-01,1,kina,ME,Kina
+2016-11-01,2,kina,ME,Kina
+2016-12-01,1,kina,ME,Kina
+2017-01-01,1,kina,ME,Kina
+2017-02-01,2,kina,ME,Kina
+2017-03-01,2,kina,ME,Kina
+2017-04-01,1,kina,ME,Kina
+2017-05-01,1,kina,ME,Kina
+2017-06-01,0,kina,ME,Kina
+2017-07-01,1,kina,ME,Kina
+2017-08-01,1,kina,ME,Kina
+2017-09-01,2,kina,ME,Kina
+2017-10-01,2,kina,ME,Kina
+2017-11-01,3,kina,ME,Kina
+2017-12-01,2,kina,ME,Kina
+2018-01-01,2,kina,ME,Kina
+2018-02-01,1,kina,ME,Kina
+2018-03-01,2,kina,ME,Kina
+2018-04-01,2,kina,ME,Kina
+2018-05-01,1,kina,ME,Kina
+2018-06-01,2,kina,ME,Kina
+2018-07-01,1,kina,ME,Kina
+2018-08-01,1,kina,ME,Kina
+2018-09-01,2,kina,ME,Kina
+2018-10-01,2,kina,ME,Kina
+2018-11-01,2,kina,ME,Kina
+2018-12-01,1,kina,ME,Kina
+2019-01-01,2,kina,ME,Kina
+2019-02-01,2,kina,ME,Kina
+2019-03-01,1,kina,ME,Kina
+2019-04-01,1,kina,ME,Kina
+2019-05-01,2,kina,ME,Kina
+2019-06-01,3,kina,ME,Kina
+2019-07-01,2,kina,ME,Kina
+2019-08-01,2,kina,ME,Kina
+2019-09-01,4,kina,ME,Kina
+2019-10-01,4,kina,ME,Kina
+2019-11-01,1,kina,ME,Kina
+2019-12-01,2,kina,ME,Kina
+2020-01-01,3,kina,ME,Kina
+2020-02-01,3,kina,ME,Kina
+2020-03-01,9,kina,ME,Kina
+2020-04-01,5,kina,ME,Kina
+2020-05-01,1,kina,ME,Kina
+2020-06-01,2,kina,ME,Kina
+2020-07-01,2,kina,ME,Kina
+2020-08-01,2,kina,ME,Kina
+2020-09-01,1,kina,ME,Kina
+2020-10-01,2,kina,ME,Kina
+2020-11-01,2,kina,ME,Kina
+2020-12-01,1,kina,ME,Kina
+2021-01-01,2,kina,ME,Kina
+2021-02-01,3,kina,ME,Kina
+2021-03-01,2,kina,ME,Kina
+2021-04-01,2,kina,ME,Kina
+2021-05-01,1,kina,ME,Kina
+2021-06-01,1,kina,ME,Kina
+2021-07-01,1,kina,ME,Kina
+2021-08-01,2,kina,ME,Kina
+2021-09-01,1,kina,ME,Kina
+2021-10-01,1,kina,ME,Kina
+2021-11-01,2,kina,ME,Kina
+2021-12-01,1,kina,ME,Kina
+2022-01-01,2,kina,ME,Kina
+2022-02-01,3,kina,ME,Kina
+2022-03-01,3,kina,ME,Kina
+2022-04-01,1,kina,ME,Kina
+2022-05-01,1,kina,ME,Kina
+2022-06-01,2,kina,ME,Kina
+2022-07-01,1,kina,ME,Kina
+2022-08-01,3,kina,ME,Kina
+2022-09-01,2,kina,ME,Kina
+2022-10-01,3,kina,ME,Kina
+2022-11-01,4,kina,ME,Kina
+2022-12-01,2,kina,ME,Kina
+2023-01-01,2,kina,ME,Kina
+2005-01-01,0,tu je,ME,Kuna
+2005-02-01,79,tu je,ME,Kuna
+2005-03-01,79,tu je,ME,Kuna
+2005-04-01,0,tu je,ME,Kuna
+2005-05-01,0,tu je,ME,Kuna
+2005-06-01,0,tu je,ME,Kuna
+2005-07-01,0,tu je,ME,Kuna
+2005-08-01,0,tu je,ME,Kuna
+2005-09-01,0,tu je,ME,Kuna
+2005-10-01,0,tu je,ME,Kuna
+2005-11-01,0,tu je,ME,Kuna
+2005-12-01,73,tu je,ME,Kuna
+2006-01-01,0,tu je,ME,Kuna
+2006-02-01,0,tu je,ME,Kuna
+2006-03-01,100,tu je,ME,Kuna
+2006-04-01,0,tu je,ME,Kuna
+2006-05-01,32,tu je,ME,Kuna
+2006-06-01,50,tu je,ME,Kuna
+2006-07-01,0,tu je,ME,Kuna
+2006-08-01,0,tu je,ME,Kuna
+2006-09-01,0,tu je,ME,Kuna
+2006-10-01,0,tu je,ME,Kuna
+2006-11-01,0,tu je,ME,Kuna
+2006-12-01,0,tu je,ME,Kuna
+2007-01-01,0,tu je,ME,Kuna
+2007-02-01,0,tu je,ME,Kuna
+2007-03-01,0,tu je,ME,Kuna
+2007-04-01,0,tu je,ME,Kuna
+2007-05-01,0,tu je,ME,Kuna
+2007-06-01,40,tu je,ME,Kuna
+2007-07-01,0,tu je,ME,Kuna
+2007-08-01,0,tu je,ME,Kuna
+2007-09-01,0,tu je,ME,Kuna
+2007-10-01,0,tu je,ME,Kuna
+2007-11-01,0,tu je,ME,Kuna
+2007-12-01,0,tu je,ME,Kuna
+2008-01-01,0,tu je,ME,Kuna
+2008-02-01,71,tu je,ME,Kuna
+2008-03-01,0,tu je,ME,Kuna
+2008-04-01,0,tu je,ME,Kuna
+2008-05-01,0,tu je,ME,Kuna
+2008-06-01,0,tu je,ME,Kuna
+2008-07-01,21,tu je,ME,Kuna
+2008-08-01,0,tu je,ME,Kuna
+2008-09-01,0,tu je,ME,Kuna
+2008-10-01,0,tu je,ME,Kuna
+2008-11-01,0,tu je,ME,Kuna
+2008-12-01,0,tu je,ME,Kuna
+2009-01-01,0,tu je,ME,Kuna
+2009-02-01,0,tu je,ME,Kuna
+2009-03-01,0,tu je,ME,Kuna
+2009-04-01,0,tu je,ME,Kuna
+2009-05-01,0,tu je,ME,Kuna
+2009-06-01,0,tu je,ME,Kuna
+2009-07-01,0,tu je,ME,Kuna
+2009-08-01,0,tu je,ME,Kuna
+2009-09-01,0,tu je,ME,Kuna
+2009-10-01,0,tu je,ME,Kuna
+2009-11-01,0,tu je,ME,Kuna
+2009-12-01,0,tu je,ME,Kuna
+2010-01-01,0,tu je,ME,Kuna
+2010-02-01,0,tu je,ME,Kuna
+2010-03-01,0,tu je,ME,Kuna
+2010-04-01,0,tu je,ME,Kuna
+2010-05-01,0,tu je,ME,Kuna
+2010-06-01,0,tu je,ME,Kuna
+2010-07-01,59,tu je,ME,Kuna
+2010-08-01,0,tu je,ME,Kuna
+2010-09-01,0,tu je,ME,Kuna
+2010-10-01,17,tu je,ME,Kuna
+2010-11-01,15,tu je,ME,Kuna
+2010-12-01,0,tu je,ME,Kuna
+2011-01-01,7,tu je,ME,Kuna
+2011-02-01,3,tu je,ME,Kuna
+2011-03-01,4,tu je,ME,Kuna
+2011-04-01,4,tu je,ME,Kuna
+2011-05-01,3,tu je,ME,Kuna
+2011-06-01,5,tu je,ME,Kuna
+2011-07-01,3,tu je,ME,Kuna
+2011-08-01,3,tu je,ME,Kuna
+2011-09-01,2,tu je,ME,Kuna
+2011-10-01,4,tu je,ME,Kuna
+2011-11-01,0,tu je,ME,Kuna
+2011-12-01,4,tu je,ME,Kuna
+2012-01-01,5,tu je,ME,Kuna
+2012-02-01,3,tu je,ME,Kuna
+2012-03-01,2,tu je,ME,Kuna
+2012-04-01,3,tu je,ME,Kuna
+2012-05-01,2,tu je,ME,Kuna
+2012-06-01,1,tu je,ME,Kuna
+2012-07-01,3,tu je,ME,Kuna
+2012-08-01,2,tu je,ME,Kuna
+2012-09-01,1,tu je,ME,Kuna
+2012-10-01,1,tu je,ME,Kuna
+2012-11-01,0,tu je,ME,Kuna
+2012-12-01,0,tu je,ME,Kuna
+2013-01-01,3,tu je,ME,Kuna
+2013-02-01,3,tu je,ME,Kuna
+2013-03-01,0,tu je,ME,Kuna
+2013-04-01,2,tu je,ME,Kuna
+2013-05-01,3,tu je,ME,Kuna
+2013-06-01,2,tu je,ME,Kuna
+2013-07-01,1,tu je,ME,Kuna
+2013-08-01,2,tu je,ME,Kuna
+2013-09-01,0,tu je,ME,Kuna
+2013-10-01,2,tu je,ME,Kuna
+2013-11-01,0,tu je,ME,Kuna
+2013-12-01,2,tu je,ME,Kuna
+2014-01-01,1,tu je,ME,Kuna
+2014-02-01,2,tu je,ME,Kuna
+2014-03-01,0,tu je,ME,Kuna
+2014-04-01,1,tu je,ME,Kuna
+2014-05-01,3,tu je,ME,Kuna
+2014-06-01,3,tu je,ME,Kuna
+2014-07-01,0,tu je,ME,Kuna
+2014-08-01,2,tu je,ME,Kuna
+2014-09-01,4,tu je,ME,Kuna
+2014-10-01,1,tu je,ME,Kuna
+2014-11-01,1,tu je,ME,Kuna
+2014-12-01,3,tu je,ME,Kuna
+2015-01-01,5,tu je,ME,Kuna
+2015-02-01,1,tu je,ME,Kuna
+2015-03-01,3,tu je,ME,Kuna
+2015-04-01,5,tu je,ME,Kuna
+2015-05-01,2,tu je,ME,Kuna
+2015-06-01,0,tu je,ME,Kuna
+2015-07-01,2,tu je,ME,Kuna
+2015-08-01,3,tu je,ME,Kuna
+2015-09-01,1,tu je,ME,Kuna
+2015-10-01,2,tu je,ME,Kuna
+2015-11-01,2,tu je,ME,Kuna
+2015-12-01,0,tu je,ME,Kuna
+2016-01-01,2,tu je,ME,Kuna
+2016-02-01,2,tu je,ME,Kuna
+2016-03-01,1,tu je,ME,Kuna
+2016-04-01,1,tu je,ME,Kuna
+2016-05-01,2,tu je,ME,Kuna
+2016-06-01,1,tu je,ME,Kuna
+2016-07-01,1,tu je,ME,Kuna
+2016-08-01,2,tu je,ME,Kuna
+2016-09-01,2,tu je,ME,Kuna
+2016-10-01,1,tu je,ME,Kuna
+2016-11-01,0,tu je,ME,Kuna
+2016-12-01,0,tu je,ME,Kuna
+2017-01-01,0,tu je,ME,Kuna
+2017-02-01,1,tu je,ME,Kuna
+2017-03-01,0,tu je,ME,Kuna
+2017-04-01,0,tu je,ME,Kuna
+2017-05-01,2,tu je,ME,Kuna
+2017-06-01,0,tu je,ME,Kuna
+2017-07-01,0,tu je,ME,Kuna
+2017-08-01,0,tu je,ME,Kuna
+2017-09-01,0,tu je,ME,Kuna
+2017-10-01,3,tu je,ME,Kuna
+2017-11-01,2,tu je,ME,Kuna
+2017-12-01,1,tu je,ME,Kuna
+2018-01-01,0,tu je,ME,Kuna
+2018-02-01,0,tu je,ME,Kuna
+2018-03-01,1,tu je,ME,Kuna
+2018-04-01,3,tu je,ME,Kuna
+2018-05-01,1,tu je,ME,Kuna
+2018-06-01,0,tu je,ME,Kuna
+2018-07-01,1,tu je,ME,Kuna
+2018-08-01,1,tu je,ME,Kuna
+2018-09-01,1,tu je,ME,Kuna
+2018-10-01,1,tu je,ME,Kuna
+2018-11-01,2,tu je,ME,Kuna
+2018-12-01,1,tu je,ME,Kuna
+2019-01-01,1,tu je,ME,Kuna
+2019-02-01,0,tu je,ME,Kuna
+2019-03-01,0,tu je,ME,Kuna
+2019-04-01,0,tu je,ME,Kuna
+2019-05-01,2,tu je,ME,Kuna
+2019-06-01,1,tu je,ME,Kuna
+2019-07-01,1,tu je,ME,Kuna
+2019-08-01,1,tu je,ME,Kuna
+2019-09-01,1,tu je,ME,Kuna
+2019-10-01,0,tu je,ME,Kuna
+2019-11-01,1,tu je,ME,Kuna
+2019-12-01,1,tu je,ME,Kuna
+2020-01-01,1,tu je,ME,Kuna
+2020-02-01,1,tu je,ME,Kuna
+2020-03-01,1,tu je,ME,Kuna
+2020-04-01,2,tu je,ME,Kuna
+2020-05-01,1,tu je,ME,Kuna
+2020-06-01,1,tu je,ME,Kuna
+2020-07-01,2,tu je,ME,Kuna
+2020-08-01,1,tu je,ME,Kuna
+2020-09-01,3,tu je,ME,Kuna
+2020-10-01,1,tu je,ME,Kuna
+2020-11-01,1,tu je,ME,Kuna
+2020-12-01,1,tu je,ME,Kuna
+2021-01-01,1,tu je,ME,Kuna
+2021-02-01,1,tu je,ME,Kuna
+2021-03-01,2,tu je,ME,Kuna
+2021-04-01,0,tu je,ME,Kuna
+2021-05-01,0,tu je,ME,Kuna
+2021-06-01,2,tu je,ME,Kuna
+2021-07-01,0,tu je,ME,Kuna
+2021-08-01,1,tu je,ME,Kuna
+2021-09-01,1,tu je,ME,Kuna
+2021-10-01,0,tu je,ME,Kuna
+2021-11-01,2,tu je,ME,Kuna
+2021-12-01,0,tu je,ME,Kuna
+2022-01-01,1,tu je,ME,Kuna
+2022-02-01,1,tu je,ME,Kuna
+2022-03-01,0,tu je,ME,Kuna
+2022-04-01,1,tu je,ME,Kuna
+2022-05-01,1,tu je,ME,Kuna
+2022-06-01,1,tu je,ME,Kuna
+2022-07-01,1,tu je,ME,Kuna
+2022-08-01,0,tu je,ME,Kuna
+2022-09-01,0,tu je,ME,Kuna
+2022-10-01,1,tu je,ME,Kuna
+2022-11-01,2,tu je,ME,Kuna
+2022-12-01,2,tu je,ME,Kuna
+2023-01-01,1,tu je,ME,Kuna
+2005-01-01,55,euro,ME,Euro
+2005-02-01,50,euro,ME,Euro
+2005-03-01,44,euro,ME,Euro
+2005-04-01,94,euro,ME,Euro
+2005-05-01,0,euro,ME,Euro
+2005-06-01,51,euro,ME,Euro
+2005-07-01,0,euro,ME,Euro
+2005-08-01,0,euro,ME,Euro
+2005-09-01,33,euro,ME,Euro
+2005-10-01,0,euro,ME,Euro
+2005-11-01,0,euro,ME,Euro
+2005-12-01,36,euro,ME,Euro
+2006-01-01,0,euro,ME,Euro
+2006-02-01,30,euro,ME,Euro
+2006-03-01,100,euro,ME,Euro
+2006-04-01,0,euro,ME,Euro
+2006-05-01,0,euro,ME,Euro
+2006-06-01,20,euro,ME,Euro
+2006-07-01,0,euro,ME,Euro
+2006-08-01,27,euro,ME,Euro
+2006-09-01,0,euro,ME,Euro
+2006-10-01,25,euro,ME,Euro
+2006-11-01,0,euro,ME,Euro
+2006-12-01,23,euro,ME,Euro
+2007-01-01,0,euro,ME,Euro
+2007-02-01,0,euro,ME,Euro
+2007-03-01,0,euro,ME,Euro
+2007-04-01,17,euro,ME,Euro
+2007-05-01,30,euro,ME,Euro
+2007-06-01,0,euro,ME,Euro
+2007-07-01,17,euro,ME,Euro
+2007-08-01,0,euro,ME,Euro
+2007-09-01,53,euro,ME,Euro
+2007-10-01,9,euro,ME,Euro
+2007-11-01,19,euro,ME,Euro
+2007-12-01,16,euro,ME,Euro
+2008-01-01,27,euro,ME,Euro
+2008-02-01,23,euro,ME,Euro
+2008-03-01,14,euro,ME,Euro
+2008-04-01,55,euro,ME,Euro
+2008-05-01,0,euro,ME,Euro
+2008-06-01,73,euro,ME,Euro
+2008-07-01,17,euro,ME,Euro
+2008-08-01,20,euro,ME,Euro
+2008-09-01,60,euro,ME,Euro
+2008-10-01,22,euro,ME,Euro
+2008-11-01,39,euro,ME,Euro
+2008-12-01,25,euro,ME,Euro
+2009-01-01,0,euro,ME,Euro
+2009-02-01,0,euro,ME,Euro
+2009-03-01,43,euro,ME,Euro
+2009-04-01,12,euro,ME,Euro
+2009-05-01,34,euro,ME,Euro
+2009-06-01,32,euro,ME,Euro
+2009-07-01,0,euro,ME,Euro
+2009-08-01,26,euro,ME,Euro
+2009-09-01,25,euro,ME,Euro
+2009-10-01,14,euro,ME,Euro
+2009-11-01,37,euro,ME,Euro
+2009-12-01,36,euro,ME,Euro
+2010-01-01,21,euro,ME,Euro
+2010-02-01,0,euro,ME,Euro
+2010-03-01,0,euro,ME,Euro
+2010-04-01,27,euro,ME,Euro
+2010-05-01,59,euro,ME,Euro
+2010-06-01,42,euro,ME,Euro
+2010-07-01,0,euro,ME,Euro
+2010-08-01,71,euro,ME,Euro
+2010-09-01,25,euro,ME,Euro
+2010-10-01,17,euro,ME,Euro
+2010-11-01,28,euro,ME,Euro
+2010-12-01,13,euro,ME,Euro
+2011-01-01,15,euro,ME,Euro
+2011-02-01,16,euro,ME,Euro
+2011-03-01,16,euro,ME,Euro
+2011-04-01,17,euro,ME,Euro
+2011-05-01,18,euro,ME,Euro
+2011-06-01,24,euro,ME,Euro
+2011-07-01,20,euro,ME,Euro
+2011-08-01,21,euro,ME,Euro
+2011-09-01,31,euro,ME,Euro
+2011-10-01,26,euro,ME,Euro
+2011-11-01,24,euro,ME,Euro
+2011-12-01,19,euro,ME,Euro
+2012-01-01,23,euro,ME,Euro
+2012-02-01,21,euro,ME,Euro
+2012-03-01,33,euro,ME,Euro
+2012-04-01,25,euro,ME,Euro
+2012-05-01,32,euro,ME,Euro
+2012-06-01,63,euro,ME,Euro
+2012-07-01,30,euro,ME,Euro
+2012-08-01,29,euro,ME,Euro
+2012-09-01,26,euro,ME,Euro
+2012-10-01,19,euro,ME,Euro
+2012-11-01,20,euro,ME,Euro
+2012-12-01,25,euro,ME,Euro
+2013-01-01,20,euro,ME,Euro
+2013-02-01,21,euro,ME,Euro
+2013-03-01,20,euro,ME,Euro
+2013-04-01,21,euro,ME,Euro
+2013-05-01,22,euro,ME,Euro
+2013-06-01,23,euro,ME,Euro
+2013-07-01,26,euro,ME,Euro
+2013-08-01,25,euro,ME,Euro
+2013-09-01,29,euro,ME,Euro
+2013-10-01,24,euro,ME,Euro
+2013-11-01,19,euro,ME,Euro
+2013-12-01,23,euro,ME,Euro
+2014-01-01,24,euro,ME,Euro
+2014-02-01,21,euro,ME,Euro
+2014-03-01,26,euro,ME,Euro
+2014-04-01,24,euro,ME,Euro
+2014-05-01,25,euro,ME,Euro
+2014-06-01,23,euro,ME,Euro
+2014-07-01,26,euro,ME,Euro
+2014-08-01,22,euro,ME,Euro
+2014-09-01,30,euro,ME,Euro
+2014-10-01,29,euro,ME,Euro
+2014-11-01,29,euro,ME,Euro
+2014-12-01,30,euro,ME,Euro
+2015-01-01,32,euro,ME,Euro
+2015-02-01,30,euro,ME,Euro
+2015-03-01,29,euro,ME,Euro
+2015-04-01,29,euro,ME,Euro
+2015-05-01,30,euro,ME,Euro
+2015-06-01,30,euro,ME,Euro
+2015-07-01,31,euro,ME,Euro
+2015-08-01,35,euro,ME,Euro
+2015-09-01,32,euro,ME,Euro
+2015-10-01,33,euro,ME,Euro
+2015-11-01,34,euro,ME,Euro
+2015-12-01,31,euro,ME,Euro
+2016-01-01,32,euro,ME,Euro
+2016-02-01,31,euro,ME,Euro
+2016-03-01,28,euro,ME,Euro
+2016-04-01,24,euro,ME,Euro
+2016-05-01,25,euro,ME,Euro
+2016-06-01,86,euro,ME,Euro
+2016-07-01,45,euro,ME,Euro
+2016-08-01,32,euro,ME,Euro
+2016-09-01,31,euro,ME,Euro
+2016-10-01,30,euro,ME,Euro
+2016-11-01,29,euro,ME,Euro
+2016-12-01,32,euro,ME,Euro
+2017-01-01,27,euro,ME,Euro
+2017-02-01,29,euro,ME,Euro
+2017-03-01,31,euro,ME,Euro
+2017-04-01,28,euro,ME,Euro
+2017-05-01,27,euro,ME,Euro
+2017-06-01,33,euro,ME,Euro
+2017-07-01,36,euro,ME,Euro
+2017-08-01,41,euro,ME,Euro
+2017-09-01,40,euro,ME,Euro
+2017-10-01,38,euro,ME,Euro
+2017-11-01,35,euro,ME,Euro
+2017-12-01,39,euro,ME,Euro
+2018-01-01,42,euro,ME,Euro
+2018-02-01,40,euro,ME,Euro
+2018-03-01,33,euro,ME,Euro
+2018-04-01,35,euro,ME,Euro
+2018-05-01,47,euro,ME,Euro
+2018-06-01,49,euro,ME,Euro
+2018-07-01,46,euro,ME,Euro
+2018-08-01,51,euro,ME,Euro
+2018-09-01,46,euro,ME,Euro
+2018-10-01,46,euro,ME,Euro
+2018-11-01,43,euro,ME,Euro
+2018-12-01,42,euro,ME,Euro
+2019-01-01,38,euro,ME,Euro
+2019-02-01,36,euro,ME,Euro
+2019-03-01,39,euro,ME,Euro
+2019-04-01,36,euro,ME,Euro
+2019-05-01,40,euro,ME,Euro
+2019-06-01,42,euro,ME,Euro
+2019-07-01,41,euro,ME,Euro
+2019-08-01,46,euro,ME,Euro
+2019-09-01,45,euro,ME,Euro
+2019-10-01,46,euro,ME,Euro
+2019-11-01,40,euro,ME,Euro
+2019-12-01,42,euro,ME,Euro
+2020-01-01,43,euro,ME,Euro
+2020-02-01,40,euro,ME,Euro
+2020-03-01,39,euro,ME,Euro
+2020-04-01,37,euro,ME,Euro
+2020-05-01,31,euro,ME,Euro
+2020-06-01,38,euro,ME,Euro
+2020-07-01,37,euro,ME,Euro
+2020-08-01,38,euro,ME,Euro
+2020-09-01,40,euro,ME,Euro
+2020-10-01,45,euro,ME,Euro
+2020-11-01,45,euro,ME,Euro
+2020-12-01,45,euro,ME,Euro
+2021-01-01,40,euro,ME,Euro
+2021-02-01,47,euro,ME,Euro
+2021-03-01,50,euro,ME,Euro
+2021-04-01,49,euro,ME,Euro
+2021-05-01,51,euro,ME,Euro
+2021-06-01,96,euro,ME,Euro
+2021-07-01,62,euro,ME,Euro
+2021-08-01,47,euro,ME,Euro
+2021-09-01,44,euro,ME,Euro
+2021-10-01,48,euro,ME,Euro
+2021-11-01,64,euro,ME,Euro
+2021-12-01,71,euro,ME,Euro
+2022-01-01,61,euro,ME,Euro
+2022-02-01,57,euro,ME,Euro
+2022-03-01,79,euro,ME,Euro
+2022-04-01,65,euro,ME,Euro
+2022-05-01,70,euro,ME,Euro
+2022-06-01,79,euro,ME,Euro
+2022-07-01,82,euro,ME,Euro
+2022-08-01,78,euro,ME,Euro
+2022-09-01,80,euro,ME,Euro
+2022-10-01,75,euro,ME,Euro
+2022-11-01,73,euro,ME,Euro
+2022-12-01,59,euro,ME,Euro
+2023-01-01,65,euro,ME,Euro
+2005-01-01,45,australijski dolar,ME,Australian Dollar
+2005-02-01,70,australijski dolar,ME,Australian Dollar
+2005-03-01,0,australijski dolar,ME,Australian Dollar
+2005-04-01,0,australijski dolar,ME,Australian Dollar
+2005-05-01,100,australijski dolar,ME,Australian Dollar
+2005-06-01,93,australijski dolar,ME,Australian Dollar
+2005-07-01,53,australijski dolar,ME,Australian Dollar
+2005-08-01,40,australijski dolar,ME,Australian Dollar
+2005-09-01,0,australijski dolar,ME,Australian Dollar
+2005-10-01,94,australijski dolar,ME,Australian Dollar
+2005-11-01,0,australijski dolar,ME,Australian Dollar
+2005-12-01,0,australijski dolar,ME,Australian Dollar
+2006-01-01,0,australijski dolar,ME,Australian Dollar
+2006-02-01,0,australijski dolar,ME,Australian Dollar
+2006-03-01,0,australijski dolar,ME,Australian Dollar
+2006-04-01,0,australijski dolar,ME,Australian Dollar
+2006-05-01,0,australijski dolar,ME,Australian Dollar
+2006-06-01,39,australijski dolar,ME,Australian Dollar
+2006-07-01,38,australijski dolar,ME,Australian Dollar
+2006-08-01,0,australijski dolar,ME,Australian Dollar
+2006-09-01,0,australijski dolar,ME,Australian Dollar
+2006-10-01,20,australijski dolar,ME,Australian Dollar
+2006-11-01,0,australijski dolar,ME,Australian Dollar
+2006-12-01,0,australijski dolar,ME,Australian Dollar
+2007-01-01,0,australijski dolar,ME,Australian Dollar
+2007-02-01,0,australijski dolar,ME,Australian Dollar
+2007-03-01,0,australijski dolar,ME,Australian Dollar
+2007-04-01,13,australijski dolar,ME,Australian Dollar
+2007-05-01,0,australijski dolar,ME,Australian Dollar
+2007-06-01,16,australijski dolar,ME,Australian Dollar
+2007-07-01,0,australijski dolar,ME,Australian Dollar
+2007-08-01,0,australijski dolar,ME,Australian Dollar
+2007-09-01,0,australijski dolar,ME,Australian Dollar
+2007-10-01,0,australijski dolar,ME,Australian Dollar
+2007-11-01,0,australijski dolar,ME,Australian Dollar
+2007-12-01,0,australijski dolar,ME,Australian Dollar
+2008-01-01,0,australijski dolar,ME,Australian Dollar
+2008-02-01,0,australijski dolar,ME,Australian Dollar
+2008-03-01,0,australijski dolar,ME,Australian Dollar
+2008-04-01,0,australijski dolar,ME,Australian Dollar
+2008-05-01,0,australijski dolar,ME,Australian Dollar
+2008-06-01,0,australijski dolar,ME,Australian Dollar
+2008-07-01,0,australijski dolar,ME,Australian Dollar
+2008-08-01,0,australijski dolar,ME,Australian Dollar
+2008-09-01,0,australijski dolar,ME,Australian Dollar
+2008-10-01,0,australijski dolar,ME,Australian Dollar
+2008-11-01,0,australijski dolar,ME,Australian Dollar
+2008-12-01,0,australijski dolar,ME,Australian Dollar
+2009-01-01,47,australijski dolar,ME,Australian Dollar
+2009-02-01,0,australijski dolar,ME,Australian Dollar
+2009-03-01,0,australijski dolar,ME,Australian Dollar
+2009-04-01,20,australijski dolar,ME,Australian Dollar
+2009-05-01,37,australijski dolar,ME,Australian Dollar
+2009-06-01,0,australijski dolar,ME,Australian Dollar
+2009-07-01,0,australijski dolar,ME,Australian Dollar
+2009-08-01,0,australijski dolar,ME,Australian Dollar
+2009-09-01,13,australijski dolar,ME,Australian Dollar
+2009-10-01,0,australijski dolar,ME,Australian Dollar
+2009-11-01,0,australijski dolar,ME,Australian Dollar
+2009-12-01,0,australijski dolar,ME,Australian Dollar
+2010-01-01,0,australijski dolar,ME,Australian Dollar
+2010-02-01,0,australijski dolar,ME,Australian Dollar
+2010-03-01,0,australijski dolar,ME,Australian Dollar
+2010-04-01,0,australijski dolar,ME,Australian Dollar
+2010-05-01,0,australijski dolar,ME,Australian Dollar
+2010-06-01,0,australijski dolar,ME,Australian Dollar
+2010-07-01,0,australijski dolar,ME,Australian Dollar
+2010-08-01,0,australijski dolar,ME,Australian Dollar
+2010-09-01,0,australijski dolar,ME,Australian Dollar
+2010-10-01,0,australijski dolar,ME,Australian Dollar
+2010-11-01,0,australijski dolar,ME,Australian Dollar
+2010-12-01,0,australijski dolar,ME,Australian Dollar
+2011-01-01,0,australijski dolar,ME,Australian Dollar
+2011-02-01,1,australijski dolar,ME,Australian Dollar
+2011-03-01,0,australijski dolar,ME,Australian Dollar
+2011-04-01,0,australijski dolar,ME,Australian Dollar
+2011-05-01,0,australijski dolar,ME,Australian Dollar
+2011-06-01,0,australijski dolar,ME,Australian Dollar
+2011-07-01,0,australijski dolar,ME,Australian Dollar
+2011-08-01,0,australijski dolar,ME,Australian Dollar
+2011-09-01,0,australijski dolar,ME,Australian Dollar
+2011-10-01,0,australijski dolar,ME,Australian Dollar
+2011-11-01,0,australijski dolar,ME,Australian Dollar
+2011-12-01,0,australijski dolar,ME,Australian Dollar
+2012-01-01,0,australijski dolar,ME,Australian Dollar
+2012-02-01,0,australijski dolar,ME,Australian Dollar
+2012-03-01,0,australijski dolar,ME,Australian Dollar
+2012-04-01,0,australijski dolar,ME,Australian Dollar
+2012-05-01,0,australijski dolar,ME,Australian Dollar
+2012-06-01,0,australijski dolar,ME,Australian Dollar
+2012-07-01,0,australijski dolar,ME,Australian Dollar
+2012-08-01,0,australijski dolar,ME,Australian Dollar
+2012-09-01,1,australijski dolar,ME,Australian Dollar
+2012-10-01,0,australijski dolar,ME,Australian Dollar
+2012-11-01,0,australijski dolar,ME,Australian Dollar
+2012-12-01,0,australijski dolar,ME,Australian Dollar
+2013-01-01,1,australijski dolar,ME,Australian Dollar
+2013-02-01,0,australijski dolar,ME,Australian Dollar
+2013-03-01,0,australijski dolar,ME,Australian Dollar
+2013-04-01,0,australijski dolar,ME,Australian Dollar
+2013-05-01,0,australijski dolar,ME,Australian Dollar
+2013-06-01,0,australijski dolar,ME,Australian Dollar
+2013-07-01,0,australijski dolar,ME,Australian Dollar
+2013-08-01,0,australijski dolar,ME,Australian Dollar
+2013-09-01,0,australijski dolar,ME,Australian Dollar
+2013-10-01,0,australijski dolar,ME,Australian Dollar
+2013-11-01,1,australijski dolar,ME,Australian Dollar
+2013-12-01,0,australijski dolar,ME,Australian Dollar
+2014-01-01,0,australijski dolar,ME,Australian Dollar
+2014-02-01,0,australijski dolar,ME,Australian Dollar
+2014-03-01,1,australijski dolar,ME,Australian Dollar
+2014-04-01,0,australijski dolar,ME,Australian Dollar
+2014-05-01,0,australijski dolar,ME,Australian Dollar
+2014-06-01,1,australijski dolar,ME,Australian Dollar
+2014-07-01,1,australijski dolar,ME,Australian Dollar
+2014-08-01,0,australijski dolar,ME,Australian Dollar
+2014-09-01,1,australijski dolar,ME,Australian Dollar
+2014-10-01,0,australijski dolar,ME,Australian Dollar
+2014-11-01,0,australijski dolar,ME,Australian Dollar
+2014-12-01,0,australijski dolar,ME,Australian Dollar
+2015-01-01,0,australijski dolar,ME,Australian Dollar
+2015-02-01,1,australijski dolar,ME,Australian Dollar
+2015-03-01,0,australijski dolar,ME,Australian Dollar
+2015-04-01,0,australijski dolar,ME,Australian Dollar
+2015-05-01,0,australijski dolar,ME,Australian Dollar
+2015-06-01,0,australijski dolar,ME,Australian Dollar
+2015-07-01,0,australijski dolar,ME,Australian Dollar
+2015-08-01,0,australijski dolar,ME,Australian Dollar
+2015-09-01,1,australijski dolar,ME,Australian Dollar
+2015-10-01,0,australijski dolar,ME,Australian Dollar
+2015-11-01,0,australijski dolar,ME,Australian Dollar
+2015-12-01,2,australijski dolar,ME,Australian Dollar
+2016-01-01,0,australijski dolar,ME,Australian Dollar
+2016-02-01,0,australijski dolar,ME,Australian Dollar
+2016-03-01,0,australijski dolar,ME,Australian Dollar
+2016-04-01,0,australijski dolar,ME,Australian Dollar
+2016-05-01,0,australijski dolar,ME,Australian Dollar
+2016-06-01,0,australijski dolar,ME,Australian Dollar
+2016-07-01,0,australijski dolar,ME,Australian Dollar
+2016-08-01,0,australijski dolar,ME,Australian Dollar
+2016-09-01,1,australijski dolar,ME,Australian Dollar
+2016-10-01,0,australijski dolar,ME,Australian Dollar
+2016-11-01,0,australijski dolar,ME,Australian Dollar
+2016-12-01,0,australijski dolar,ME,Australian Dollar
+2017-01-01,0,australijski dolar,ME,Australian Dollar
+2017-02-01,0,australijski dolar,ME,Australian Dollar
+2017-03-01,0,australijski dolar,ME,Australian Dollar
+2017-04-01,0,australijski dolar,ME,Australian Dollar
+2017-05-01,1,australijski dolar,ME,Australian Dollar
+2017-06-01,0,australijski dolar,ME,Australian Dollar
+2017-07-01,1,australijski dolar,ME,Australian Dollar
+2017-08-01,0,australijski dolar,ME,Australian Dollar
+2017-09-01,0,australijski dolar,ME,Australian Dollar
+2017-10-01,0,australijski dolar,ME,Australian Dollar
+2017-11-01,1,australijski dolar,ME,Australian Dollar
+2017-12-01,0,australijski dolar,ME,Australian Dollar
+2018-01-01,0,australijski dolar,ME,Australian Dollar
+2018-02-01,0,australijski dolar,ME,Australian Dollar
+2018-03-01,0,australijski dolar,ME,Australian Dollar
+2018-04-01,0,australijski dolar,ME,Australian Dollar
+2018-05-01,0,australijski dolar,ME,Australian Dollar
+2018-06-01,0,australijski dolar,ME,Australian Dollar
+2018-07-01,0,australijski dolar,ME,Australian Dollar
+2018-08-01,0,australijski dolar,ME,Australian Dollar
+2018-09-01,0,australijski dolar,ME,Australian Dollar
+2018-10-01,1,australijski dolar,ME,Australian Dollar
+2018-11-01,0,australijski dolar,ME,Australian Dollar
+2018-12-01,0,australijski dolar,ME,Australian Dollar
+2019-01-01,0,australijski dolar,ME,Australian Dollar
+2019-02-01,0,australijski dolar,ME,Australian Dollar
+2019-03-01,0,australijski dolar,ME,Australian Dollar
+2019-04-01,0,australijski dolar,ME,Australian Dollar
+2019-05-01,0,australijski dolar,ME,Australian Dollar
+2019-06-01,0,australijski dolar,ME,Australian Dollar
+2019-07-01,0,australijski dolar,ME,Australian Dollar
+2019-08-01,0,australijski dolar,ME,Australian Dollar
+2019-09-01,0,australijski dolar,ME,Australian Dollar
+2019-10-01,1,australijski dolar,ME,Australian Dollar
+2019-11-01,0,australijski dolar,ME,Australian Dollar
+2019-12-01,0,australijski dolar,ME,Australian Dollar
+2020-01-01,0,australijski dolar,ME,Australian Dollar
+2020-02-01,0,australijski dolar,ME,Australian Dollar
+2020-03-01,0,australijski dolar,ME,Australian Dollar
+2020-04-01,0,australijski dolar,ME,Australian Dollar
+2020-05-01,0,australijski dolar,ME,Australian Dollar
+2020-06-01,1,australijski dolar,ME,Australian Dollar
+2020-07-01,1,australijski dolar,ME,Australian Dollar
+2020-08-01,0,australijski dolar,ME,Australian Dollar
+2020-09-01,0,australijski dolar,ME,Australian Dollar
+2020-10-01,0,australijski dolar,ME,Australian Dollar
+2020-11-01,0,australijski dolar,ME,Australian Dollar
+2020-12-01,0,australijski dolar,ME,Australian Dollar
+2021-01-01,0,australijski dolar,ME,Australian Dollar
+2021-02-01,0,australijski dolar,ME,Australian Dollar
+2021-03-01,0,australijski dolar,ME,Australian Dollar
+2021-04-01,0,australijski dolar,ME,Australian Dollar
+2021-05-01,0,australijski dolar,ME,Australian Dollar
+2021-06-01,1,australijski dolar,ME,Australian Dollar
+2021-07-01,0,australijski dolar,ME,Australian Dollar
+2021-08-01,0,australijski dolar,ME,Australian Dollar
+2021-09-01,0,australijski dolar,ME,Australian Dollar
+2021-10-01,1,australijski dolar,ME,Australian Dollar
+2021-11-01,0,australijski dolar,ME,Australian Dollar
+2021-12-01,0,australijski dolar,ME,Australian Dollar
+2022-01-01,0,australijski dolar,ME,Australian Dollar
+2022-02-01,0,australijski dolar,ME,Australian Dollar
+2022-03-01,0,australijski dolar,ME,Australian Dollar
+2022-04-01,0,australijski dolar,ME,Australian Dollar
+2022-05-01,0,australijski dolar,ME,Australian Dollar
+2022-06-01,1,australijski dolar,ME,Australian Dollar
+2022-07-01,1,australijski dolar,ME,Australian Dollar
+2022-08-01,0,australijski dolar,ME,Australian Dollar
+2022-09-01,0,australijski dolar,ME,Australian Dollar
+2022-10-01,0,australijski dolar,ME,Australian Dollar
+2022-11-01,0,australijski dolar,ME,Australian Dollar
+2022-12-01,0,australijski dolar,ME,Australian Dollar
+2023-01-01,0,australijski dolar,ME,Australian Dollar
+2005-01-01,49,lari,ME,Lari
+2005-02-01,100,lari,ME,Lari
+2005-03-01,0,lari,ME,Lari
+2005-04-01,0,lari,ME,Lari
+2005-05-01,0,lari,ME,Lari
+2005-06-01,0,lari,ME,Lari
+2005-07-01,0,lari,ME,Lari
+2005-08-01,0,lari,ME,Lari
+2005-09-01,0,lari,ME,Lari
+2005-10-01,0,lari,ME,Lari
+2005-11-01,0,lari,ME,Lari
+2005-12-01,0,lari,ME,Lari
+2006-01-01,0,lari,ME,Lari
+2006-02-01,27,lari,ME,Lari
+2006-03-01,0,lari,ME,Lari
+2006-04-01,0,lari,ME,Lari
+2006-05-01,31,lari,ME,Lari
+2006-06-01,47,lari,ME,Lari
+2006-07-01,0,lari,ME,Lari
+2006-08-01,72,lari,ME,Lari
+2006-09-01,0,lari,ME,Lari
+2006-10-01,43,lari,ME,Lari
+2006-11-01,0,lari,ME,Lari
+2006-12-01,0,lari,ME,Lari
+2007-01-01,32,lari,ME,Lari
+2007-02-01,0,lari,ME,Lari
+2007-03-01,0,lari,ME,Lari
+2007-04-01,0,lari,ME,Lari
+2007-05-01,0,lari,ME,Lari
+2007-06-01,0,lari,ME,Lari
+2007-07-01,0,lari,ME,Lari
+2007-08-01,0,lari,ME,Lari
+2007-09-01,0,lari,ME,Lari
+2007-10-01,0,lari,ME,Lari
+2007-11-01,0,lari,ME,Lari
+2007-12-01,0,lari,ME,Lari
+2008-01-01,0,lari,ME,Lari
+2008-02-01,0,lari,ME,Lari
+2008-03-01,0,lari,ME,Lari
+2008-04-01,0,lari,ME,Lari
+2008-05-01,0,lari,ME,Lari
+2008-06-01,0,lari,ME,Lari
+2008-07-01,0,lari,ME,Lari
+2008-08-01,0,lari,ME,Lari
+2008-09-01,0,lari,ME,Lari
+2008-10-01,0,lari,ME,Lari
+2008-11-01,0,lari,ME,Lari
+2008-12-01,0,lari,ME,Lari
+2009-01-01,0,lari,ME,Lari
+2009-02-01,0,lari,ME,Lari
+2009-03-01,15,lari,ME,Lari
+2009-04-01,0,lari,ME,Lari
+2009-05-01,0,lari,ME,Lari
+2009-06-01,0,lari,ME,Lari
+2009-07-01,0,lari,ME,Lari
+2009-08-01,0,lari,ME,Lari
+2009-09-01,0,lari,ME,Lari
+2009-10-01,0,lari,ME,Lari
+2009-11-01,54,lari,ME,Lari
+2009-12-01,14,lari,ME,Lari
+2010-01-01,0,lari,ME,Lari
+2010-02-01,0,lari,ME,Lari
+2010-03-01,0,lari,ME,Lari
+2010-04-01,0,lari,ME,Lari
+2010-05-01,0,lari,ME,Lari
+2010-06-01,0,lari,ME,Lari
+2010-07-01,0,lari,ME,Lari
+2010-08-01,0,lari,ME,Lari
+2010-09-01,52,lari,ME,Lari
+2010-10-01,0,lari,ME,Lari
+2010-11-01,0,lari,ME,Lari
+2010-12-01,0,lari,ME,Lari
+2011-01-01,0,lari,ME,Lari
+2011-02-01,0,lari,ME,Lari
+2011-03-01,0,lari,ME,Lari
+2011-04-01,0,lari,ME,Lari
+2011-05-01,0,lari,ME,Lari
+2011-06-01,0,lari,ME,Lari
+2011-07-01,0,lari,ME,Lari
+2011-08-01,0,lari,ME,Lari
+2011-09-01,0,lari,ME,Lari
+2011-10-01,1,lari,ME,Lari
+2011-11-01,0,lari,ME,Lari
+2011-12-01,0,lari,ME,Lari
+2012-01-01,0,lari,ME,Lari
+2012-02-01,0,lari,ME,Lari
+2012-03-01,0,lari,ME,Lari
+2012-04-01,0,lari,ME,Lari
+2012-05-01,1,lari,ME,Lari
+2012-06-01,0,lari,ME,Lari
+2012-07-01,0,lari,ME,Lari
+2012-08-01,1,lari,ME,Lari
+2012-09-01,0,lari,ME,Lari
+2012-10-01,3,lari,ME,Lari
+2012-11-01,0,lari,ME,Lari
+2012-12-01,2,lari,ME,Lari
+2013-01-01,0,lari,ME,Lari
+2013-02-01,1,lari,ME,Lari
+2013-03-01,0,lari,ME,Lari
+2013-04-01,0,lari,ME,Lari
+2013-05-01,1,lari,ME,Lari
+2013-06-01,0,lari,ME,Lari
+2013-07-01,0,lari,ME,Lari
+2013-08-01,0,lari,ME,Lari
+2013-09-01,0,lari,ME,Lari
+2013-10-01,0,lari,ME,Lari
+2013-11-01,1,lari,ME,Lari
+2013-12-01,0,lari,ME,Lari
+2014-01-01,1,lari,ME,Lari
+2014-02-01,0,lari,ME,Lari
+2014-03-01,0,lari,ME,Lari
+2014-04-01,0,lari,ME,Lari
+2014-05-01,0,lari,ME,Lari
+2014-06-01,0,lari,ME,Lari
+2014-07-01,0,lari,ME,Lari
+2014-08-01,0,lari,ME,Lari
+2014-09-01,0,lari,ME,Lari
+2014-10-01,0,lari,ME,Lari
+2014-11-01,0,lari,ME,Lari
+2014-12-01,2,lari,ME,Lari
+2015-01-01,0,lari,ME,Lari
+2015-02-01,0,lari,ME,Lari
+2015-03-01,0,lari,ME,Lari
+2015-04-01,0,lari,ME,Lari
+2015-05-01,1,lari,ME,Lari
+2015-06-01,0,lari,ME,Lari
+2015-07-01,0,lari,ME,Lari
+2015-08-01,0,lari,ME,Lari
+2015-09-01,1,lari,ME,Lari
+2015-10-01,0,lari,ME,Lari
+2015-11-01,1,lari,ME,Lari
+2015-12-01,2,lari,ME,Lari
+2016-01-01,0,lari,ME,Lari
+2016-02-01,2,lari,ME,Lari
+2016-03-01,0,lari,ME,Lari
+2016-04-01,1,lari,ME,Lari
+2016-05-01,0,lari,ME,Lari
+2016-06-01,0,lari,ME,Lari
+2016-07-01,0,lari,ME,Lari
+2016-08-01,0,lari,ME,Lari
+2016-09-01,0,lari,ME,Lari
+2016-10-01,0,lari,ME,Lari
+2016-11-01,1,lari,ME,Lari
+2016-12-01,0,lari,ME,Lari
+2017-01-01,0,lari,ME,Lari
+2017-02-01,1,lari,ME,Lari
+2017-03-01,0,lari,ME,Lari
+2017-04-01,0,lari,ME,Lari
+2017-05-01,0,lari,ME,Lari
+2017-06-01,0,lari,ME,Lari
+2017-07-01,0,lari,ME,Lari
+2017-08-01,0,lari,ME,Lari
+2017-09-01,0,lari,ME,Lari
+2017-10-01,0,lari,ME,Lari
+2017-11-01,1,lari,ME,Lari
+2017-12-01,0,lari,ME,Lari
+2018-01-01,0,lari,ME,Lari
+2018-02-01,0,lari,ME,Lari
+2018-03-01,0,lari,ME,Lari
+2018-04-01,0,lari,ME,Lari
+2018-05-01,0,lari,ME,Lari
+2018-06-01,0,lari,ME,Lari
+2018-07-01,0,lari,ME,Lari
+2018-08-01,1,lari,ME,Lari
+2018-09-01,0,lari,ME,Lari
+2018-10-01,0,lari,ME,Lari
+2018-11-01,1,lari,ME,Lari
+2018-12-01,0,lari,ME,Lari
+2019-01-01,0,lari,ME,Lari
+2019-02-01,0,lari,ME,Lari
+2019-03-01,0,lari,ME,Lari
+2019-04-01,0,lari,ME,Lari
+2019-05-01,0,lari,ME,Lari
+2019-06-01,0,lari,ME,Lari
+2019-07-01,1,lari,ME,Lari
+2019-08-01,0,lari,ME,Lari
+2019-09-01,0,lari,ME,Lari
+2019-10-01,0,lari,ME,Lari
+2019-11-01,0,lari,ME,Lari
+2019-12-01,0,lari,ME,Lari
+2020-01-01,0,lari,ME,Lari
+2020-02-01,0,lari,ME,Lari
+2020-03-01,1,lari,ME,Lari
+2020-04-01,0,lari,ME,Lari
+2020-05-01,0,lari,ME,Lari
+2020-06-01,0,lari,ME,Lari
+2020-07-01,0,lari,ME,Lari
+2020-08-01,1,lari,ME,Lari
+2020-09-01,0,lari,ME,Lari
+2020-10-01,0,lari,ME,Lari
+2020-11-01,0,lari,ME,Lari
+2020-12-01,0,lari,ME,Lari
+2021-01-01,1,lari,ME,Lari
+2021-02-01,0,lari,ME,Lari
+2021-03-01,0,lari,ME,Lari
+2021-04-01,0,lari,ME,Lari
+2021-05-01,0,lari,ME,Lari
+2021-06-01,0,lari,ME,Lari
+2021-07-01,0,lari,ME,Lari
+2021-08-01,0,lari,ME,Lari
+2021-09-01,0,lari,ME,Lari
+2021-10-01,0,lari,ME,Lari
+2021-11-01,0,lari,ME,Lari
+2021-12-01,0,lari,ME,Lari
+2022-01-01,0,lari,ME,Lari
+2022-02-01,0,lari,ME,Lari
+2022-03-01,0,lari,ME,Lari
+2022-04-01,0,lari,ME,Lari
+2022-05-01,0,lari,ME,Lari
+2022-06-01,0,lari,ME,Lari
+2022-07-01,0,lari,ME,Lari
+2022-08-01,0,lari,ME,Lari
+2022-09-01,1,lari,ME,Lari
+2022-10-01,0,lari,ME,Lari
+2022-11-01,0,lari,ME,Lari
+2022-12-01,0,lari,ME,Lari
+2023-01-01,1,lari,ME,Lari
+2005-01-01,0,ponedjeljak,ME,Som
+2005-02-01,0,ponedjeljak,ME,Som
+2005-03-01,0,ponedjeljak,ME,Som
+2005-04-01,0,ponedjeljak,ME,Som
+2005-05-01,0,ponedjeljak,ME,Som
+2005-06-01,0,ponedjeljak,ME,Som
+2005-07-01,0,ponedjeljak,ME,Som
+2005-08-01,0,ponedjeljak,ME,Som
+2005-09-01,100,ponedjeljak,ME,Som
+2005-10-01,0,ponedjeljak,ME,Som
+2005-11-01,0,ponedjeljak,ME,Som
+2005-12-01,0,ponedjeljak,ME,Som
+2006-01-01,0,ponedjeljak,ME,Som
+2006-02-01,79,ponedjeljak,ME,Som
+2006-03-01,0,ponedjeljak,ME,Som
+2006-04-01,0,ponedjeljak,ME,Som
+2006-05-01,0,ponedjeljak,ME,Som
+2006-06-01,0,ponedjeljak,ME,Som
+2006-07-01,89,ponedjeljak,ME,Som
+2006-08-01,0,ponedjeljak,ME,Som
+2006-09-01,0,ponedjeljak,ME,Som
+2006-10-01,0,ponedjeljak,ME,Som
+2006-11-01,0,ponedjeljak,ME,Som
+2006-12-01,0,ponedjeljak,ME,Som
+2007-01-01,0,ponedjeljak,ME,Som
+2007-02-01,0,ponedjeljak,ME,Som
+2007-03-01,0,ponedjeljak,ME,Som
+2007-04-01,69,ponedjeljak,ME,Som
+2007-05-01,0,ponedjeljak,ME,Som
+2007-06-01,0,ponedjeljak,ME,Som
+2007-07-01,0,ponedjeljak,ME,Som
+2007-08-01,0,ponedjeljak,ME,Som
+2007-09-01,47,ponedjeljak,ME,Som
+2007-10-01,51,ponedjeljak,ME,Som
+2007-11-01,0,ponedjeljak,ME,Som
+2007-12-01,0,ponedjeljak,ME,Som
+2008-01-01,70,ponedjeljak,ME,Som
+2008-02-01,0,ponedjeljak,ME,Som
+2008-03-01,0,ponedjeljak,ME,Som
+2008-04-01,0,ponedjeljak,ME,Som
+2008-05-01,0,ponedjeljak,ME,Som
+2008-06-01,0,ponedjeljak,ME,Som
+2008-07-01,0,ponedjeljak,ME,Som
+2008-08-01,0,ponedjeljak,ME,Som
+2008-09-01,0,ponedjeljak,ME,Som
+2008-10-01,68,ponedjeljak,ME,Som
+2008-11-01,0,ponedjeljak,ME,Som
+2008-12-01,94,ponedjeljak,ME,Som
+2009-01-01,0,ponedjeljak,ME,Som
+2009-02-01,0,ponedjeljak,ME,Som
+2009-03-01,0,ponedjeljak,ME,Som
+2009-04-01,0,ponedjeljak,ME,Som
+2009-05-01,0,ponedjeljak,ME,Som
+2009-06-01,0,ponedjeljak,ME,Som
+2009-07-01,0,ponedjeljak,ME,Som
+2009-08-01,0,ponedjeljak,ME,Som
+2009-09-01,0,ponedjeljak,ME,Som
+2009-10-01,0,ponedjeljak,ME,Som
+2009-11-01,0,ponedjeljak,ME,Som
+2009-12-01,0,ponedjeljak,ME,Som
+2010-01-01,0,ponedjeljak,ME,Som
+2010-02-01,0,ponedjeljak,ME,Som
+2010-03-01,0,ponedjeljak,ME,Som
+2010-04-01,0,ponedjeljak,ME,Som
+2010-05-01,0,ponedjeljak,ME,Som
+2010-06-01,0,ponedjeljak,ME,Som
+2010-07-01,0,ponedjeljak,ME,Som
+2010-08-01,0,ponedjeljak,ME,Som
+2010-09-01,0,ponedjeljak,ME,Som
+2010-10-01,0,ponedjeljak,ME,Som
+2010-11-01,0,ponedjeljak,ME,Som
+2010-12-01,0,ponedjeljak,ME,Som
+2011-01-01,0,ponedjeljak,ME,Som
+2011-02-01,5,ponedjeljak,ME,Som
+2011-03-01,0,ponedjeljak,ME,Som
+2011-04-01,0,ponedjeljak,ME,Som
+2011-05-01,4,ponedjeljak,ME,Som
+2011-06-01,0,ponedjeljak,ME,Som
+2011-07-01,0,ponedjeljak,ME,Som
+2011-08-01,12,ponedjeljak,ME,Som
+2011-09-01,4,ponedjeljak,ME,Som
+2011-10-01,0,ponedjeljak,ME,Som
+2011-11-01,0,ponedjeljak,ME,Som
+2011-12-01,0,ponedjeljak,ME,Som
+2012-01-01,0,ponedjeljak,ME,Som
+2012-02-01,0,ponedjeljak,ME,Som
+2012-03-01,0,ponedjeljak,ME,Som
+2012-04-01,0,ponedjeljak,ME,Som
+2012-05-01,0,ponedjeljak,ME,Som
+2012-06-01,0,ponedjeljak,ME,Som
+2012-07-01,0,ponedjeljak,ME,Som
+2012-08-01,0,ponedjeljak,ME,Som
+2012-09-01,0,ponedjeljak,ME,Som
+2012-10-01,0,ponedjeljak,ME,Som
+2012-11-01,0,ponedjeljak,ME,Som
+2012-12-01,0,ponedjeljak,ME,Som
+2013-01-01,4,ponedjeljak,ME,Som
+2013-02-01,0,ponedjeljak,ME,Som
+2013-03-01,3,ponedjeljak,ME,Som
+2013-04-01,0,ponedjeljak,ME,Som
+2013-05-01,4,ponedjeljak,ME,Som
+2013-06-01,2,ponedjeljak,ME,Som
+2013-07-01,4,ponedjeljak,ME,Som
+2013-08-01,0,ponedjeljak,ME,Som
+2013-09-01,3,ponedjeljak,ME,Som
+2013-10-01,4,ponedjeljak,ME,Som
+2013-11-01,0,ponedjeljak,ME,Som
+2013-12-01,5,ponedjeljak,ME,Som
+2014-01-01,0,ponedjeljak,ME,Som
+2014-02-01,0,ponedjeljak,ME,Som
+2014-03-01,0,ponedjeljak,ME,Som
+2014-04-01,0,ponedjeljak,ME,Som
+2014-05-01,0,ponedjeljak,ME,Som
+2014-06-01,0,ponedjeljak,ME,Som
+2014-07-01,0,ponedjeljak,ME,Som
+2014-08-01,2,ponedjeljak,ME,Som
+2014-09-01,0,ponedjeljak,ME,Som
+2014-10-01,0,ponedjeljak,ME,Som
+2014-11-01,0,ponedjeljak,ME,Som
+2014-12-01,0,ponedjeljak,ME,Som
+2015-01-01,4,ponedjeljak,ME,Som
+2015-02-01,0,ponedjeljak,ME,Som
+2015-03-01,3,ponedjeljak,ME,Som
+2015-04-01,0,ponedjeljak,ME,Som
+2015-05-01,0,ponedjeljak,ME,Som
+2015-06-01,0,ponedjeljak,ME,Som
+2015-07-01,0,ponedjeljak,ME,Som
+2015-08-01,0,ponedjeljak,ME,Som
+2015-09-01,0,ponedjeljak,ME,Som
+2015-10-01,2,ponedjeljak,ME,Som
+2015-11-01,0,ponedjeljak,ME,Som
+2015-12-01,0,ponedjeljak,ME,Som
+2016-01-01,0,ponedjeljak,ME,Som
+2016-02-01,0,ponedjeljak,ME,Som
+2016-03-01,0,ponedjeljak,ME,Som
+2016-04-01,0,ponedjeljak,ME,Som
+2016-05-01,0,ponedjeljak,ME,Som
+2016-06-01,0,ponedjeljak,ME,Som
+2016-07-01,2,ponedjeljak,ME,Som
+2016-08-01,0,ponedjeljak,ME,Som
+2016-09-01,0,ponedjeljak,ME,Som
+2016-10-01,2,ponedjeljak,ME,Som
+2016-11-01,0,ponedjeljak,ME,Som
+2016-12-01,0,ponedjeljak,ME,Som
+2017-01-01,0,ponedjeljak,ME,Som
+2017-02-01,0,ponedjeljak,ME,Som
+2017-03-01,0,ponedjeljak,ME,Som
+2017-04-01,3,ponedjeljak,ME,Som
+2017-05-01,0,ponedjeljak,ME,Som
+2017-06-01,0,ponedjeljak,ME,Som
+2017-07-01,0,ponedjeljak,ME,Som
+2017-08-01,0,ponedjeljak,ME,Som
+2017-09-01,2,ponedjeljak,ME,Som
+2017-10-01,0,ponedjeljak,ME,Som
+2017-11-01,0,ponedjeljak,ME,Som
+2017-12-01,0,ponedjeljak,ME,Som
+2018-01-01,0,ponedjeljak,ME,Som
+2018-02-01,0,ponedjeljak,ME,Som
+2018-03-01,0,ponedjeljak,ME,Som
+2018-04-01,0,ponedjeljak,ME,Som
+2018-05-01,0,ponedjeljak,ME,Som
+2018-06-01,2,ponedjeljak,ME,Som
+2018-07-01,0,ponedjeljak,ME,Som
+2018-08-01,0,ponedjeljak,ME,Som
+2018-09-01,0,ponedjeljak,ME,Som
+2018-10-01,0,ponedjeljak,ME,Som
+2018-11-01,0,ponedjeljak,ME,Som
+2018-12-01,0,ponedjeljak,ME,Som
+2019-01-01,0,ponedjeljak,ME,Som
+2019-02-01,0,ponedjeljak,ME,Som
+2019-03-01,2,ponedjeljak,ME,Som
+2019-04-01,0,ponedjeljak,ME,Som
+2019-05-01,0,ponedjeljak,ME,Som
+2019-06-01,0,ponedjeljak,ME,Som
+2019-07-01,2,ponedjeljak,ME,Som
+2019-08-01,2,ponedjeljak,ME,Som
+2019-09-01,0,ponedjeljak,ME,Som
+2019-10-01,2,ponedjeljak,ME,Som
+2019-11-01,0,ponedjeljak,ME,Som
+2019-12-01,0,ponedjeljak,ME,Som
+2020-01-01,0,ponedjeljak,ME,Som
+2020-02-01,0,ponedjeljak,ME,Som
+2020-03-01,0,ponedjeljak,ME,Som
+2020-04-01,10,ponedjeljak,ME,Som
+2020-05-01,0,ponedjeljak,ME,Som
+2020-06-01,0,ponedjeljak,ME,Som
+2020-07-01,2,ponedjeljak,ME,Som
+2020-08-01,0,ponedjeljak,ME,Som
+2020-09-01,0,ponedjeljak,ME,Som
+2020-10-01,4,ponedjeljak,ME,Som
+2020-11-01,0,ponedjeljak,ME,Som
+2020-12-01,1,ponedjeljak,ME,Som
+2021-01-01,0,ponedjeljak,ME,Som
+2021-02-01,3,ponedjeljak,ME,Som
+2021-03-01,0,ponedjeljak,ME,Som
+2021-04-01,0,ponedjeljak,ME,Som
+2021-05-01,3,ponedjeljak,ME,Som
+2021-06-01,0,ponedjeljak,ME,Som
+2021-07-01,2,ponedjeljak,ME,Som
+2021-08-01,0,ponedjeljak,ME,Som
+2021-09-01,0,ponedjeljak,ME,Som
+2021-10-01,0,ponedjeljak,ME,Som
+2021-11-01,2,ponedjeljak,ME,Som
+2021-12-01,0,ponedjeljak,ME,Som
+2022-01-01,2,ponedjeljak,ME,Som
+2022-02-01,0,ponedjeljak,ME,Som
+2022-03-01,1,ponedjeljak,ME,Som
+2022-04-01,0,ponedjeljak,ME,Som
+2022-05-01,0,ponedjeljak,ME,Som
+2022-06-01,0,ponedjeljak,ME,Som
+2022-07-01,0,ponedjeljak,ME,Som
+2022-08-01,1,ponedjeljak,ME,Som
+2022-09-01,0,ponedjeljak,ME,Som
+2022-10-01,0,ponedjeljak,ME,Som
+2022-11-01,0,ponedjeljak,ME,Som
+2022-12-01,0,ponedjeljak,ME,Som
+2023-01-01,0,ponedjeljak,ME,Som
+2005-01-01,100,rublja,ME,Rouble
+2005-02-01,0,rublja,ME,Rouble
+2005-03-01,0,rublja,ME,Rouble
+2005-04-01,0,rublja,ME,Rouble
+2005-05-01,0,rublja,ME,Rouble
+2005-06-01,0,rublja,ME,Rouble
+2005-07-01,0,rublja,ME,Rouble
+2005-08-01,0,rublja,ME,Rouble
+2005-09-01,0,rublja,ME,Rouble
+2005-10-01,0,rublja,ME,Rouble
+2005-11-01,75,rublja,ME,Rouble
+2005-12-01,0,rublja,ME,Rouble
+2006-01-01,0,rublja,ME,Rouble
+2006-02-01,0,rublja,ME,Rouble
+2006-03-01,0,rublja,ME,Rouble
+2006-04-01,0,rublja,ME,Rouble
+2006-05-01,35,rublja,ME,Rouble
+2006-06-01,0,rublja,ME,Rouble
+2006-07-01,0,rublja,ME,Rouble
+2006-08-01,0,rublja,ME,Rouble
+2006-09-01,85,rublja,ME,Rouble
+2006-10-01,0,rublja,ME,Rouble
+2006-11-01,0,rublja,ME,Rouble
+2006-12-01,0,rublja,ME,Rouble
+2007-01-01,0,rublja,ME,Rouble
+2007-02-01,0,rublja,ME,Rouble
+2007-03-01,30,rublja,ME,Rouble
+2007-04-01,17,rublja,ME,Rouble
+2007-05-01,0,rublja,ME,Rouble
+2007-06-01,27,rublja,ME,Rouble
+2007-07-01,0,rublja,ME,Rouble
+2007-08-01,0,rublja,ME,Rouble
+2007-09-01,32,rublja,ME,Rouble
+2007-10-01,0,rublja,ME,Rouble
+2007-11-01,0,rublja,ME,Rouble
+2007-12-01,0,rublja,ME,Rouble
+2008-01-01,0,rublja,ME,Rouble
+2008-02-01,0,rublja,ME,Rouble
+2008-03-01,0,rublja,ME,Rouble
+2008-04-01,15,rublja,ME,Rouble
+2008-05-01,61,rublja,ME,Rouble
+2008-06-01,0,rublja,ME,Rouble
+2008-07-01,0,rublja,ME,Rouble
+2008-08-01,0,rublja,ME,Rouble
+2008-09-01,0,rublja,ME,Rouble
+2008-10-01,0,rublja,ME,Rouble
+2008-11-01,0,rublja,ME,Rouble
+2008-12-01,0,rublja,ME,Rouble
+2009-01-01,0,rublja,ME,Rouble
+2009-02-01,33,rublja,ME,Rouble
+2009-03-01,0,rublja,ME,Rouble
+2009-04-01,0,rublja,ME,Rouble
+2009-05-01,0,rublja,ME,Rouble
+2009-06-01,0,rublja,ME,Rouble
+2009-07-01,0,rublja,ME,Rouble
+2009-08-01,0,rublja,ME,Rouble
+2009-09-01,0,rublja,ME,Rouble
+2009-10-01,0,rublja,ME,Rouble
+2009-11-01,0,rublja,ME,Rouble
+2009-12-01,0,rublja,ME,Rouble
+2010-01-01,21,rublja,ME,Rouble
+2010-02-01,0,rublja,ME,Rouble
+2010-03-01,10,rublja,ME,Rouble
+2010-04-01,0,rublja,ME,Rouble
+2010-05-01,0,rublja,ME,Rouble
+2010-06-01,23,rublja,ME,Rouble
+2010-07-01,0,rublja,ME,Rouble
+2010-08-01,0,rublja,ME,Rouble
+2010-09-01,0,rublja,ME,Rouble
+2010-10-01,0,rublja,ME,Rouble
+2010-11-01,38,rublja,ME,Rouble
+2010-12-01,0,rublja,ME,Rouble
+2011-01-01,0,rublja,ME,Rouble
+2011-02-01,0,rublja,ME,Rouble
+2011-03-01,0,rublja,ME,Rouble
+2011-04-01,0,rublja,ME,Rouble
+2011-05-01,0,rublja,ME,Rouble
+2011-06-01,2,rublja,ME,Rouble
+2011-07-01,0,rublja,ME,Rouble
+2011-08-01,0,rublja,ME,Rouble
+2011-09-01,0,rublja,ME,Rouble
+2011-10-01,1,rublja,ME,Rouble
+2011-11-01,0,rublja,ME,Rouble
+2011-12-01,0,rublja,ME,Rouble
+2012-01-01,0,rublja,ME,Rouble
+2012-02-01,0,rublja,ME,Rouble
+2012-03-01,0,rublja,ME,Rouble
+2012-04-01,0,rublja,ME,Rouble
+2012-05-01,2,rublja,ME,Rouble
+2012-06-01,0,rublja,ME,Rouble
+2012-07-01,0,rublja,ME,Rouble
+2012-08-01,0,rublja,ME,Rouble
+2012-09-01,0,rublja,ME,Rouble
+2012-10-01,0,rublja,ME,Rouble
+2012-11-01,0,rublja,ME,Rouble
+2012-12-01,1,rublja,ME,Rouble
+2013-01-01,1,rublja,ME,Rouble
+2013-02-01,1,rublja,ME,Rouble
+2013-03-01,0,rublja,ME,Rouble
+2013-04-01,1,rublja,ME,Rouble
+2013-05-01,0,rublja,ME,Rouble
+2013-06-01,1,rublja,ME,Rouble
+2013-07-01,1,rublja,ME,Rouble
+2013-08-01,1,rublja,ME,Rouble
+2013-09-01,0,rublja,ME,Rouble
+2013-10-01,1,rublja,ME,Rouble
+2013-11-01,0,rublja,ME,Rouble
+2013-12-01,0,rublja,ME,Rouble
+2014-01-01,0,rublja,ME,Rouble
+2014-02-01,0,rublja,ME,Rouble
+2014-03-01,1,rublja,ME,Rouble
+2014-04-01,0,rublja,ME,Rouble
+2014-05-01,1,rublja,ME,Rouble
+2014-06-01,1,rublja,ME,Rouble
+2014-07-01,0,rublja,ME,Rouble
+2014-08-01,0,rublja,ME,Rouble
+2014-09-01,0,rublja,ME,Rouble
+2014-10-01,1,rublja,ME,Rouble
+2014-11-01,0,rublja,ME,Rouble
+2014-12-01,1,rublja,ME,Rouble
+2015-01-01,1,rublja,ME,Rouble
+2015-02-01,0,rublja,ME,Rouble
+2015-03-01,0,rublja,ME,Rouble
+2015-04-01,1,rublja,ME,Rouble
+2015-05-01,2,rublja,ME,Rouble
+2015-06-01,2,rublja,ME,Rouble
+2015-07-01,2,rublja,ME,Rouble
+2015-08-01,1,rublja,ME,Rouble
+2015-09-01,1,rublja,ME,Rouble
+2015-10-01,2,rublja,ME,Rouble
+2015-11-01,1,rublja,ME,Rouble
+2015-12-01,3,rublja,ME,Rouble
+2016-01-01,0,rublja,ME,Rouble
+2016-02-01,0,rublja,ME,Rouble
+2016-03-01,1,rublja,ME,Rouble
+2016-04-01,0,rublja,ME,Rouble
+2016-05-01,1,rublja,ME,Rouble
+2016-06-01,0,rublja,ME,Rouble
+2016-07-01,0,rublja,ME,Rouble
+2016-08-01,1,rublja,ME,Rouble
+2016-09-01,0,rublja,ME,Rouble
+2016-10-01,0,rublja,ME,Rouble
+2016-11-01,1,rublja,ME,Rouble
+2016-12-01,0,rublja,ME,Rouble
+2017-01-01,1,rublja,ME,Rouble
+2017-02-01,0,rublja,ME,Rouble
+2017-03-01,1,rublja,ME,Rouble
+2017-04-01,2,rublja,ME,Rouble
+2017-05-01,1,rublja,ME,Rouble
+2017-06-01,0,rublja,ME,Rouble
+2017-07-01,2,rublja,ME,Rouble
+2017-08-01,1,rublja,ME,Rouble
+2017-09-01,1,rublja,ME,Rouble
+2017-10-01,0,rublja,ME,Rouble
+2017-11-01,0,rublja,ME,Rouble
+2017-12-01,3,rublja,ME,Rouble
+2018-01-01,0,rublja,ME,Rouble
+2018-02-01,0,rublja,ME,Rouble
+2018-03-01,1,rublja,ME,Rouble
+2018-04-01,1,rublja,ME,Rouble
+2018-05-01,0,rublja,ME,Rouble
+2018-06-01,1,rublja,ME,Rouble
+2018-07-01,1,rublja,ME,Rouble
+2018-08-01,0,rublja,ME,Rouble
+2018-09-01,0,rublja,ME,Rouble
+2018-10-01,1,rublja,ME,Rouble
+2018-11-01,0,rublja,ME,Rouble
+2018-12-01,0,rublja,ME,Rouble
+2019-01-01,1,rublja,ME,Rouble
+2019-02-01,3,rublja,ME,Rouble
+2019-03-01,0,rublja,ME,Rouble
+2019-04-01,0,rublja,ME,Rouble
+2019-05-01,1,rublja,ME,Rouble
+2019-06-01,1,rublja,ME,Rouble
+2019-07-01,1,rublja,ME,Rouble
+2019-08-01,0,rublja,ME,Rouble
+2019-09-01,1,rublja,ME,Rouble
+2019-10-01,2,rublja,ME,Rouble
+2019-11-01,1,rublja,ME,Rouble
+2019-12-01,1,rublja,ME,Rouble
+2020-01-01,1,rublja,ME,Rouble
+2020-02-01,0,rublja,ME,Rouble
+2020-03-01,1,rublja,ME,Rouble
+2020-04-01,1,rublja,ME,Rouble
+2020-05-01,0,rublja,ME,Rouble
+2020-06-01,1,rublja,ME,Rouble
+2020-07-01,0,rublja,ME,Rouble
+2020-08-01,0,rublja,ME,Rouble
+2020-09-01,0,rublja,ME,Rouble
+2020-10-01,0,rublja,ME,Rouble
+2020-11-01,1,rublja,ME,Rouble
+2020-12-01,0,rublja,ME,Rouble
+2021-01-01,0,rublja,ME,Rouble
+2021-02-01,1,rublja,ME,Rouble
+2021-03-01,1,rublja,ME,Rouble
+2021-04-01,0,rublja,ME,Rouble
+2021-05-01,1,rublja,ME,Rouble
+2021-06-01,1,rublja,ME,Rouble
+2021-07-01,0,rublja,ME,Rouble
+2021-08-01,0,rublja,ME,Rouble
+2021-09-01,1,rublja,ME,Rouble
+2021-10-01,0,rublja,ME,Rouble
+2021-11-01,0,rublja,ME,Rouble
+2021-12-01,1,rublja,ME,Rouble
+2022-01-01,1,rublja,ME,Rouble
+2022-02-01,1,rublja,ME,Rouble
+2022-03-01,3,rublja,ME,Rouble
+2022-04-01,2,rublja,ME,Rouble
+2022-05-01,3,rublja,ME,Rouble
+2022-06-01,1,rublja,ME,Rouble
+2022-07-01,1,rublja,ME,Rouble
+2022-08-01,1,rublja,ME,Rouble
+2022-09-01,1,rublja,ME,Rouble
+2022-10-01,0,rublja,ME,Rouble
+2022-11-01,1,rublja,ME,Rouble
+2022-12-01,1,rublja,ME,Rouble
+2023-01-01,0,rublja,ME,Rouble
+2005-01-01,0,oni,ME,Won
+2005-02-01,0,oni,ME,Won
+2005-03-01,0,oni,ME,Won
+2005-04-01,0,oni,ME,Won
+2005-05-01,0,oni,ME,Won
+2005-06-01,0,oni,ME,Won
+2005-07-01,0,oni,ME,Won
+2005-08-01,0,oni,ME,Won
+2005-09-01,46,oni,ME,Won
+2005-10-01,0,oni,ME,Won
+2005-11-01,100,oni,ME,Won
+2005-12-01,0,oni,ME,Won
+2006-01-01,0,oni,ME,Won
+2006-02-01,0,oni,ME,Won
+2006-03-01,0,oni,ME,Won
+2006-04-01,79,oni,ME,Won
+2006-05-01,0,oni,ME,Won
+2006-06-01,0,oni,ME,Won
+2006-07-01,0,oni,ME,Won
+2006-08-01,27,oni,ME,Won
+2006-09-01,0,oni,ME,Won
+2006-10-01,0,oni,ME,Won
+2006-11-01,0,oni,ME,Won
+2006-12-01,0,oni,ME,Won
+2007-01-01,21,oni,ME,Won
+2007-02-01,0,oni,ME,Won
+2007-03-01,31,oni,ME,Won
+2007-04-01,0,oni,ME,Won
+2007-05-01,0,oni,ME,Won
+2007-06-01,0,oni,ME,Won
+2007-07-01,0,oni,ME,Won
+2007-08-01,0,oni,ME,Won
+2007-09-01,15,oni,ME,Won
+2007-10-01,0,oni,ME,Won
+2007-11-01,0,oni,ME,Won
+2007-12-01,58,oni,ME,Won
+2008-01-01,0,oni,ME,Won
+2008-02-01,0,oni,ME,Won
+2008-03-01,0,oni,ME,Won
+2008-04-01,16,oni,ME,Won
+2008-05-01,19,oni,ME,Won
+2008-06-01,0,oni,ME,Won
+2008-07-01,0,oni,ME,Won
+2008-08-01,0,oni,ME,Won
+2008-09-01,54,oni,ME,Won
+2008-10-01,0,oni,ME,Won
+2008-11-01,0,oni,ME,Won
+2008-12-01,0,oni,ME,Won
+2009-01-01,44,oni,ME,Won
+2009-02-01,0,oni,ME,Won
+2009-03-01,0,oni,ME,Won
+2009-04-01,0,oni,ME,Won
+2009-05-01,0,oni,ME,Won
+2009-06-01,0,oni,ME,Won
+2009-07-01,0,oni,ME,Won
+2009-08-01,0,oni,ME,Won
+2009-09-01,0,oni,ME,Won
+2009-10-01,0,oni,ME,Won
+2009-11-01,16,oni,ME,Won
+2009-12-01,0,oni,ME,Won
+2010-01-01,0,oni,ME,Won
+2010-02-01,0,oni,ME,Won
+2010-03-01,18,oni,ME,Won
+2010-04-01,14,oni,ME,Won
+2010-05-01,0,oni,ME,Won
+2010-06-01,0,oni,ME,Won
+2010-07-01,0,oni,ME,Won
+2010-08-01,0,oni,ME,Won
+2010-09-01,42,oni,ME,Won
+2010-10-01,0,oni,ME,Won
+2010-11-01,0,oni,ME,Won
+2010-12-01,36,oni,ME,Won
+2011-01-01,0,oni,ME,Won
+2011-02-01,4,oni,ME,Won
+2011-03-01,0,oni,ME,Won
+2011-04-01,4,oni,ME,Won
+2011-05-01,2,oni,ME,Won
+2011-06-01,3,oni,ME,Won
+2011-07-01,4,oni,ME,Won
+2011-08-01,1,oni,ME,Won
+2011-09-01,0,oni,ME,Won
+2011-10-01,0,oni,ME,Won
+2011-11-01,2,oni,ME,Won
+2011-12-01,2,oni,ME,Won
+2012-01-01,2,oni,ME,Won
+2012-02-01,2,oni,ME,Won
+2012-03-01,2,oni,ME,Won
+2012-04-01,0,oni,ME,Won
+2012-05-01,3,oni,ME,Won
+2012-06-01,0,oni,ME,Won
+2012-07-01,2,oni,ME,Won
+2012-08-01,2,oni,ME,Won
+2012-09-01,6,oni,ME,Won
+2012-10-01,0,oni,ME,Won
+2012-11-01,2,oni,ME,Won
+2012-12-01,2,oni,ME,Won
+2013-01-01,4,oni,ME,Won
+2013-02-01,1,oni,ME,Won
+2013-03-01,2,oni,ME,Won
+2013-04-01,0,oni,ME,Won
+2013-05-01,1,oni,ME,Won
+2013-06-01,0,oni,ME,Won
+2013-07-01,1,oni,ME,Won
+2013-08-01,2,oni,ME,Won
+2013-09-01,1,oni,ME,Won
+2013-10-01,2,oni,ME,Won
+2013-11-01,0,oni,ME,Won
+2013-12-01,2,oni,ME,Won
+2014-01-01,2,oni,ME,Won
+2014-02-01,3,oni,ME,Won
+2014-03-01,1,oni,ME,Won
+2014-04-01,0,oni,ME,Won
+2014-05-01,2,oni,ME,Won
+2014-06-01,2,oni,ME,Won
+2014-07-01,3,oni,ME,Won
+2014-08-01,6,oni,ME,Won
+2014-09-01,0,oni,ME,Won
+2014-10-01,1,oni,ME,Won
+2014-11-01,1,oni,ME,Won
+2014-12-01,0,oni,ME,Won
+2015-01-01,2,oni,ME,Won
+2015-02-01,2,oni,ME,Won
+2015-03-01,3,oni,ME,Won
+2015-04-01,0,oni,ME,Won
+2015-05-01,2,oni,ME,Won
+2015-06-01,2,oni,ME,Won
+2015-07-01,2,oni,ME,Won
+2015-08-01,1,oni,ME,Won
+2015-09-01,2,oni,ME,Won
+2015-10-01,2,oni,ME,Won
+2015-11-01,2,oni,ME,Won
+2015-12-01,1,oni,ME,Won
+2016-01-01,0,oni,ME,Won
+2016-02-01,1,oni,ME,Won
+2016-03-01,2,oni,ME,Won
+2016-04-01,2,oni,ME,Won
+2016-05-01,1,oni,ME,Won
+2016-06-01,1,oni,ME,Won
+2016-07-01,1,oni,ME,Won
+2016-08-01,1,oni,ME,Won
+2016-09-01,2,oni,ME,Won
+2016-10-01,0,oni,ME,Won
+2016-11-01,2,oni,ME,Won
+2016-12-01,1,oni,ME,Won
+2017-01-01,2,oni,ME,Won
+2017-02-01,2,oni,ME,Won
+2017-03-01,1,oni,ME,Won
+2017-04-01,1,oni,ME,Won
+2017-05-01,2,oni,ME,Won
+2017-06-01,1,oni,ME,Won
+2017-07-01,0,oni,ME,Won
+2017-08-01,1,oni,ME,Won
+2017-09-01,0,oni,ME,Won
+2017-10-01,2,oni,ME,Won
+2017-11-01,0,oni,ME,Won
+2017-12-01,2,oni,ME,Won
+2018-01-01,1,oni,ME,Won
+2018-02-01,1,oni,ME,Won
+2018-03-01,1,oni,ME,Won
+2018-04-01,1,oni,ME,Won
+2018-05-01,1,oni,ME,Won
+2018-06-01,2,oni,ME,Won
+2018-07-01,1,oni,ME,Won
+2018-08-01,1,oni,ME,Won
+2018-09-01,2,oni,ME,Won
+2018-10-01,1,oni,ME,Won
+2018-11-01,0,oni,ME,Won
+2018-12-01,1,oni,ME,Won
+2019-01-01,2,oni,ME,Won
+2019-02-01,2,oni,ME,Won
+2019-03-01,1,oni,ME,Won
+2019-04-01,3,oni,ME,Won
+2019-05-01,2,oni,ME,Won
+2019-06-01,2,oni,ME,Won
+2019-07-01,1,oni,ME,Won
+2019-08-01,1,oni,ME,Won
+2019-09-01,1,oni,ME,Won
+2019-10-01,1,oni,ME,Won
+2019-11-01,2,oni,ME,Won
+2019-12-01,2,oni,ME,Won
+2020-01-01,1,oni,ME,Won
+2020-02-01,2,oni,ME,Won
+2020-03-01,2,oni,ME,Won
+2020-04-01,1,oni,ME,Won
+2020-05-01,3,oni,ME,Won
+2020-06-01,1,oni,ME,Won
+2020-07-01,1,oni,ME,Won
+2020-08-01,1,oni,ME,Won
+2020-09-01,1,oni,ME,Won
+2020-10-01,1,oni,ME,Won
+2020-11-01,3,oni,ME,Won
+2020-12-01,1,oni,ME,Won
+2021-01-01,3,oni,ME,Won
+2021-02-01,1,oni,ME,Won
+2021-03-01,2,oni,ME,Won
+2021-04-01,0,oni,ME,Won
+2021-05-01,0,oni,ME,Won
+2021-06-01,0,oni,ME,Won
+2021-07-01,1,oni,ME,Won
+2021-08-01,0,oni,ME,Won
+2021-09-01,2,oni,ME,Won
+2021-10-01,1,oni,ME,Won
+2021-11-01,3,oni,ME,Won
+2021-12-01,2,oni,ME,Won
+2022-01-01,1,oni,ME,Won
+2022-02-01,2,oni,ME,Won
+2022-03-01,1,oni,ME,Won
+2022-04-01,1,oni,ME,Won
+2022-05-01,2,oni,ME,Won
+2022-06-01,1,oni,ME,Won
+2022-07-01,1,oni,ME,Won
+2022-08-01,1,oni,ME,Won
+2022-09-01,1,oni,ME,Won
+2022-10-01,1,oni,ME,Won
+2022-11-01,0,oni,ME,Won
+2022-12-01,1,oni,ME,Won
+2023-01-01,1,oni,ME,Won
+2005-01-01,0,zloty,ME,Zloty
+2005-02-01,0,zloty,ME,Zloty
+2005-03-01,0,zloty,ME,Zloty
+2005-04-01,40,zloty,ME,Zloty
+2005-05-01,0,zloty,ME,Zloty
+2005-06-01,55,zloty,ME,Zloty
+2005-07-01,0,zloty,ME,Zloty
+2005-08-01,0,zloty,ME,Zloty
+2005-09-01,0,zloty,ME,Zloty
+2005-10-01,0,zloty,ME,Zloty
+2005-11-01,0,zloty,ME,Zloty
+2005-12-01,0,zloty,ME,Zloty
+2006-01-01,0,zloty,ME,Zloty
+2006-02-01,0,zloty,ME,Zloty
+2006-03-01,0,zloty,ME,Zloty
+2006-04-01,0,zloty,ME,Zloty
+2006-05-01,0,zloty,ME,Zloty
+2006-06-01,0,zloty,ME,Zloty
+2006-07-01,100,zloty,ME,Zloty
+2006-08-01,41,zloty,ME,Zloty
+2006-09-01,0,zloty,ME,Zloty
+2006-10-01,0,zloty,ME,Zloty
+2006-11-01,0,zloty,ME,Zloty
+2006-12-01,0,zloty,ME,Zloty
+2007-01-01,0,zloty,ME,Zloty
+2007-02-01,0,zloty,ME,Zloty
+2007-03-01,0,zloty,ME,Zloty
+2007-04-01,0,zloty,ME,Zloty
+2007-05-01,0,zloty,ME,Zloty
+2007-06-01,0,zloty,ME,Zloty
+2007-07-01,0,zloty,ME,Zloty
+2007-08-01,17,zloty,ME,Zloty
+2007-09-01,0,zloty,ME,Zloty
+2007-10-01,0,zloty,ME,Zloty
+2007-11-01,0,zloty,ME,Zloty
+2007-12-01,0,zloty,ME,Zloty
+2008-01-01,0,zloty,ME,Zloty
+2008-02-01,0,zloty,ME,Zloty
+2008-03-01,0,zloty,ME,Zloty
+2008-04-01,0,zloty,ME,Zloty
+2008-05-01,0,zloty,ME,Zloty
+2008-06-01,0,zloty,ME,Zloty
+2008-07-01,0,zloty,ME,Zloty
+2008-08-01,0,zloty,ME,Zloty
+2008-09-01,0,zloty,ME,Zloty
+2008-10-01,0,zloty,ME,Zloty
+2008-11-01,0,zloty,ME,Zloty
+2008-12-01,0,zloty,ME,Zloty
+2009-01-01,0,zloty,ME,Zloty
+2009-02-01,0,zloty,ME,Zloty
+2009-03-01,0,zloty,ME,Zloty
+2009-04-01,0,zloty,ME,Zloty
+2009-05-01,0,zloty,ME,Zloty
+2009-06-01,0,zloty,ME,Zloty
+2009-07-01,0,zloty,ME,Zloty
+2009-08-01,0,zloty,ME,Zloty
+2009-09-01,13,zloty,ME,Zloty
+2009-10-01,0,zloty,ME,Zloty
+2009-11-01,0,zloty,ME,Zloty
+2009-12-01,0,zloty,ME,Zloty
+2010-01-01,0,zloty,ME,Zloty
+2010-02-01,0,zloty,ME,Zloty
+2010-03-01,13,zloty,ME,Zloty
+2010-04-01,0,zloty,ME,Zloty
+2010-05-01,0,zloty,ME,Zloty
+2010-06-01,0,zloty,ME,Zloty
+2010-07-01,60,zloty,ME,Zloty
+2010-08-01,0,zloty,ME,Zloty
+2010-09-01,0,zloty,ME,Zloty
+2010-10-01,42,zloty,ME,Zloty
+2010-11-01,49,zloty,ME,Zloty
+2010-12-01,0,zloty,ME,Zloty
+2011-01-01,1,zloty,ME,Zloty
+2011-02-01,0,zloty,ME,Zloty
+2011-03-01,3,zloty,ME,Zloty
+2011-04-01,0,zloty,ME,Zloty
+2011-05-01,0,zloty,ME,Zloty
+2011-06-01,0,zloty,ME,Zloty
+2011-07-01,1,zloty,ME,Zloty
+2011-08-01,0,zloty,ME,Zloty
+2011-09-01,0,zloty,ME,Zloty
+2011-10-01,0,zloty,ME,Zloty
+2011-11-01,2,zloty,ME,Zloty
+2011-12-01,0,zloty,ME,Zloty
+2012-01-01,0,zloty,ME,Zloty
+2012-02-01,0,zloty,ME,Zloty
+2012-03-01,0,zloty,ME,Zloty
+2012-04-01,0,zloty,ME,Zloty
+2012-05-01,0,zloty,ME,Zloty
+2012-06-01,1,zloty,ME,Zloty
+2012-07-01,2,zloty,ME,Zloty
+2012-08-01,0,zloty,ME,Zloty
+2012-09-01,0,zloty,ME,Zloty
+2012-10-01,0,zloty,ME,Zloty
+2012-11-01,0,zloty,ME,Zloty
+2012-12-01,0,zloty,ME,Zloty
+2013-01-01,0,zloty,ME,Zloty
+2013-02-01,1,zloty,ME,Zloty
+2013-03-01,0,zloty,ME,Zloty
+2013-04-01,0,zloty,ME,Zloty
+2013-05-01,0,zloty,ME,Zloty
+2013-06-01,0,zloty,ME,Zloty
+2013-07-01,0,zloty,ME,Zloty
+2013-08-01,1,zloty,ME,Zloty
+2013-09-01,0,zloty,ME,Zloty
+2013-10-01,0,zloty,ME,Zloty
+2013-11-01,0,zloty,ME,Zloty
+2013-12-01,0,zloty,ME,Zloty
+2014-01-01,0,zloty,ME,Zloty
+2014-02-01,0,zloty,ME,Zloty
+2014-03-01,0,zloty,ME,Zloty
+2014-04-01,0,zloty,ME,Zloty
+2014-05-01,1,zloty,ME,Zloty
+2014-06-01,0,zloty,ME,Zloty
+2014-07-01,0,zloty,ME,Zloty
+2014-08-01,0,zloty,ME,Zloty
+2014-09-01,0,zloty,ME,Zloty
+2014-10-01,1,zloty,ME,Zloty
+2014-11-01,1,zloty,ME,Zloty
+2014-12-01,0,zloty,ME,Zloty
+2015-01-01,0,zloty,ME,Zloty
+2015-02-01,0,zloty,ME,Zloty
+2015-03-01,0,zloty,ME,Zloty
+2015-04-01,0,zloty,ME,Zloty
+2015-05-01,0,zloty,ME,Zloty
+2015-06-01,1,zloty,ME,Zloty
+2015-07-01,0,zloty,ME,Zloty
+2015-08-01,1,zloty,ME,Zloty
+2015-09-01,0,zloty,ME,Zloty
+2015-10-01,0,zloty,ME,Zloty
+2015-11-01,0,zloty,ME,Zloty
+2015-12-01,0,zloty,ME,Zloty
+2016-01-01,1,zloty,ME,Zloty
+2016-02-01,0,zloty,ME,Zloty
+2016-03-01,0,zloty,ME,Zloty
+2016-04-01,1,zloty,ME,Zloty
+2016-05-01,0,zloty,ME,Zloty
+2016-06-01,0,zloty,ME,Zloty
+2016-07-01,0,zloty,ME,Zloty
+2016-08-01,1,zloty,ME,Zloty
+2016-09-01,0,zloty,ME,Zloty
+2016-10-01,0,zloty,ME,Zloty
+2016-11-01,0,zloty,ME,Zloty
+2016-12-01,0,zloty,ME,Zloty
+2017-01-01,1,zloty,ME,Zloty
+2017-02-01,0,zloty,ME,Zloty
+2017-03-01,0,zloty,ME,Zloty
+2017-04-01,0,zloty,ME,Zloty
+2017-05-01,1,zloty,ME,Zloty
+2017-06-01,0,zloty,ME,Zloty
+2017-07-01,1,zloty,ME,Zloty
+2017-08-01,0,zloty,ME,Zloty
+2017-09-01,0,zloty,ME,Zloty
+2017-10-01,0,zloty,ME,Zloty
+2017-11-01,0,zloty,ME,Zloty
+2017-12-01,0,zloty,ME,Zloty
+2018-01-01,0,zloty,ME,Zloty
+2018-02-01,0,zloty,ME,Zloty
+2018-03-01,0,zloty,ME,Zloty
+2018-04-01,0,zloty,ME,Zloty
+2018-05-01,0,zloty,ME,Zloty
+2018-06-01,2,zloty,ME,Zloty
+2018-07-01,0,zloty,ME,Zloty
+2018-08-01,0,zloty,ME,Zloty
+2018-09-01,0,zloty,ME,Zloty
+2018-10-01,0,zloty,ME,Zloty
+2018-11-01,1,zloty,ME,Zloty
+2018-12-01,0,zloty,ME,Zloty
+2019-01-01,0,zloty,ME,Zloty
+2019-02-01,0,zloty,ME,Zloty
+2019-03-01,1,zloty,ME,Zloty
+2019-04-01,0,zloty,ME,Zloty
+2019-05-01,0,zloty,ME,Zloty
+2019-06-01,0,zloty,ME,Zloty
+2019-07-01,0,zloty,ME,Zloty
+2019-08-01,0,zloty,ME,Zloty
+2019-09-01,0,zloty,ME,Zloty
+2019-10-01,0,zloty,ME,Zloty
+2019-11-01,1,zloty,ME,Zloty
+2019-12-01,1,zloty,ME,Zloty
+2020-01-01,0,zloty,ME,Zloty
+2020-02-01,0,zloty,ME,Zloty
+2020-03-01,0,zloty,ME,Zloty
+2020-04-01,0,zloty,ME,Zloty
+2020-05-01,0,zloty,ME,Zloty
+2020-06-01,0,zloty,ME,Zloty
+2020-07-01,0,zloty,ME,Zloty
+2020-08-01,0,zloty,ME,Zloty
+2020-09-01,0,zloty,ME,Zloty
+2020-10-01,0,zloty,ME,Zloty
+2020-11-01,0,zloty,ME,Zloty
+2020-12-01,0,zloty,ME,Zloty
+2021-01-01,0,zloty,ME,Zloty
+2021-02-01,0,zloty,ME,Zloty
+2021-03-01,0,zloty,ME,Zloty
+2021-04-01,0,zloty,ME,Zloty
+2021-05-01,0,zloty,ME,Zloty
+2021-06-01,0,zloty,ME,Zloty
+2021-07-01,0,zloty,ME,Zloty
+2021-08-01,0,zloty,ME,Zloty
+2021-09-01,0,zloty,ME,Zloty
+2021-10-01,0,zloty,ME,Zloty
+2021-11-01,1,zloty,ME,Zloty
+2021-12-01,1,zloty,ME,Zloty
+2022-01-01,0,zloty,ME,Zloty
+2022-02-01,0,zloty,ME,Zloty
+2022-03-01,1,zloty,ME,Zloty
+2022-04-01,1,zloty,ME,Zloty
+2022-05-01,0,zloty,ME,Zloty
+2022-06-01,0,zloty,ME,Zloty
+2022-07-01,0,zloty,ME,Zloty
+2022-08-01,0,zloty,ME,Zloty
+2022-09-01,0,zloty,ME,Zloty
+2022-10-01,1,zloty,ME,Zloty
+2022-11-01,0,zloty,ME,Zloty
+2022-12-01,0,zloty,ME,Zloty
+2023-01-01,0,zloty,ME,Zloty
+2005-01-01,100,leone,ME,Leone
+2005-02-01,0,leone,ME,Leone
+2005-03-01,0,leone,ME,Leone
+2005-04-01,0,leone,ME,Leone
+2005-05-01,0,leone,ME,Leone
+2005-06-01,0,leone,ME,Leone
+2005-07-01,0,leone,ME,Leone
+2005-08-01,0,leone,ME,Leone
+2005-09-01,32,leone,ME,Leone
+2005-10-01,0,leone,ME,Leone
+2005-11-01,0,leone,ME,Leone
+2005-12-01,30,leone,ME,Leone
+2006-01-01,0,leone,ME,Leone
+2006-02-01,0,leone,ME,Leone
+2006-03-01,0,leone,ME,Leone
+2006-04-01,0,leone,ME,Leone
+2006-05-01,0,leone,ME,Leone
+2006-06-01,0,leone,ME,Leone
+2006-07-01,0,leone,ME,Leone
+2006-08-01,0,leone,ME,Leone
+2006-09-01,47,leone,ME,Leone
+2006-10-01,21,leone,ME,Leone
+2006-11-01,0,leone,ME,Leone
+2006-12-01,0,leone,ME,Leone
+2007-01-01,0,leone,ME,Leone
+2007-02-01,22,leone,ME,Leone
+2007-03-01,0,leone,ME,Leone
+2007-04-01,0,leone,ME,Leone
+2007-05-01,0,leone,ME,Leone
+2007-06-01,0,leone,ME,Leone
+2007-07-01,0,leone,ME,Leone
+2007-08-01,0,leone,ME,Leone
+2007-09-01,0,leone,ME,Leone
+2007-10-01,0,leone,ME,Leone
+2007-11-01,0,leone,ME,Leone
+2007-12-01,0,leone,ME,Leone
+2008-01-01,0,leone,ME,Leone
+2008-02-01,0,leone,ME,Leone
+2008-03-01,0,leone,ME,Leone
+2008-04-01,0,leone,ME,Leone
+2008-05-01,0,leone,ME,Leone
+2008-06-01,0,leone,ME,Leone
+2008-07-01,0,leone,ME,Leone
+2008-08-01,0,leone,ME,Leone
+2008-09-01,0,leone,ME,Leone
+2008-10-01,0,leone,ME,Leone
+2008-11-01,0,leone,ME,Leone
+2008-12-01,0,leone,ME,Leone
+2009-01-01,0,leone,ME,Leone
+2009-02-01,0,leone,ME,Leone
+2009-03-01,0,leone,ME,Leone
+2009-04-01,0,leone,ME,Leone
+2009-05-01,0,leone,ME,Leone
+2009-06-01,0,leone,ME,Leone
+2009-07-01,0,leone,ME,Leone
+2009-08-01,0,leone,ME,Leone
+2009-09-01,0,leone,ME,Leone
+2009-10-01,0,leone,ME,Leone
+2009-11-01,0,leone,ME,Leone
+2009-12-01,0,leone,ME,Leone
+2010-01-01,0,leone,ME,Leone
+2010-02-01,0,leone,ME,Leone
+2010-03-01,0,leone,ME,Leone
+2010-04-01,0,leone,ME,Leone
+2010-05-01,0,leone,ME,Leone
+2010-06-01,23,leone,ME,Leone
+2010-07-01,0,leone,ME,Leone
+2010-08-01,0,leone,ME,Leone
+2010-09-01,0,leone,ME,Leone
+2010-10-01,0,leone,ME,Leone
+2010-11-01,0,leone,ME,Leone
+2010-12-01,0,leone,ME,Leone
+2011-01-01,0,leone,ME,Leone
+2011-02-01,0,leone,ME,Leone
+2011-03-01,2,leone,ME,Leone
+2011-04-01,1,leone,ME,Leone
+2011-05-01,0,leone,ME,Leone
+2011-06-01,0,leone,ME,Leone
+2011-07-01,0,leone,ME,Leone
+2011-08-01,0,leone,ME,Leone
+2011-09-01,1,leone,ME,Leone
+2011-10-01,1,leone,ME,Leone
+2011-11-01,3,leone,ME,Leone
+2011-12-01,0,leone,ME,Leone
+2012-01-01,1,leone,ME,Leone
+2012-02-01,3,leone,ME,Leone
+2012-03-01,2,leone,ME,Leone
+2012-04-01,0,leone,ME,Leone
+2012-05-01,1,leone,ME,Leone
+2012-06-01,1,leone,ME,Leone
+2012-07-01,0,leone,ME,Leone
+2012-08-01,0,leone,ME,Leone
+2012-09-01,1,leone,ME,Leone
+2012-10-01,3,leone,ME,Leone
+2012-11-01,0,leone,ME,Leone
+2012-12-01,0,leone,ME,Leone
+2013-01-01,1,leone,ME,Leone
+2013-02-01,0,leone,ME,Leone
+2013-03-01,1,leone,ME,Leone
+2013-04-01,1,leone,ME,Leone
+2013-05-01,0,leone,ME,Leone
+2013-06-01,1,leone,ME,Leone
+2013-07-01,2,leone,ME,Leone
+2013-08-01,1,leone,ME,Leone
+2013-09-01,1,leone,ME,Leone
+2013-10-01,0,leone,ME,Leone
+2013-11-01,1,leone,ME,Leone
+2013-12-01,0,leone,ME,Leone
+2014-01-01,0,leone,ME,Leone
+2014-02-01,2,leone,ME,Leone
+2014-03-01,1,leone,ME,Leone
+2014-04-01,2,leone,ME,Leone
+2014-05-01,0,leone,ME,Leone
+2014-06-01,0,leone,ME,Leone
+2014-07-01,0,leone,ME,Leone
+2014-08-01,1,leone,ME,Leone
+2014-09-01,3,leone,ME,Leone
+2014-10-01,0,leone,ME,Leone
+2014-11-01,1,leone,ME,Leone
+2014-12-01,1,leone,ME,Leone
+2015-01-01,1,leone,ME,Leone
+2015-02-01,1,leone,ME,Leone
+2015-03-01,1,leone,ME,Leone
+2015-04-01,1,leone,ME,Leone
+2015-05-01,1,leone,ME,Leone
+2015-06-01,0,leone,ME,Leone
+2015-07-01,0,leone,ME,Leone
+2015-08-01,2,leone,ME,Leone
+2015-09-01,1,leone,ME,Leone
+2015-10-01,1,leone,ME,Leone
+2015-11-01,0,leone,ME,Leone
+2015-12-01,1,leone,ME,Leone
+2016-01-01,1,leone,ME,Leone
+2016-02-01,0,leone,ME,Leone
+2016-03-01,1,leone,ME,Leone
+2016-04-01,1,leone,ME,Leone
+2016-05-01,0,leone,ME,Leone
+2016-06-01,1,leone,ME,Leone
+2016-07-01,0,leone,ME,Leone
+2016-08-01,1,leone,ME,Leone
+2016-09-01,0,leone,ME,Leone
+2016-10-01,1,leone,ME,Leone
+2016-11-01,1,leone,ME,Leone
+2016-12-01,1,leone,ME,Leone
+2017-01-01,0,leone,ME,Leone
+2017-02-01,1,leone,ME,Leone
+2017-03-01,1,leone,ME,Leone
+2017-04-01,0,leone,ME,Leone
+2017-05-01,0,leone,ME,Leone
+2017-06-01,0,leone,ME,Leone
+2017-07-01,0,leone,ME,Leone
+2017-08-01,2,leone,ME,Leone
+2017-09-01,0,leone,ME,Leone
+2017-10-01,1,leone,ME,Leone
+2017-11-01,2,leone,ME,Leone
+2017-12-01,1,leone,ME,Leone
+2018-01-01,0,leone,ME,Leone
+2018-02-01,1,leone,ME,Leone
+2018-03-01,0,leone,ME,Leone
+2018-04-01,0,leone,ME,Leone
+2018-05-01,0,leone,ME,Leone
+2018-06-01,0,leone,ME,Leone
+2018-07-01,1,leone,ME,Leone
+2018-08-01,0,leone,ME,Leone
+2018-09-01,1,leone,ME,Leone
+2018-10-01,1,leone,ME,Leone
+2018-11-01,0,leone,ME,Leone
+2018-12-01,2,leone,ME,Leone
+2019-01-01,0,leone,ME,Leone
+2019-02-01,0,leone,ME,Leone
+2019-03-01,0,leone,ME,Leone
+2019-04-01,2,leone,ME,Leone
+2019-05-01,1,leone,ME,Leone
+2019-06-01,1,leone,ME,Leone
+2019-07-01,0,leone,ME,Leone
+2019-08-01,0,leone,ME,Leone
+2019-09-01,1,leone,ME,Leone
+2019-10-01,0,leone,ME,Leone
+2019-11-01,1,leone,ME,Leone
+2019-12-01,0,leone,ME,Leone
+2020-01-01,1,leone,ME,Leone
+2020-02-01,2,leone,ME,Leone
+2020-03-01,1,leone,ME,Leone
+2020-04-01,1,leone,ME,Leone
+2020-05-01,1,leone,ME,Leone
+2020-06-01,1,leone,ME,Leone
+2020-07-01,1,leone,ME,Leone
+2020-08-01,0,leone,ME,Leone
+2020-09-01,1,leone,ME,Leone
+2020-10-01,0,leone,ME,Leone
+2020-11-01,0,leone,ME,Leone
+2020-12-01,1,leone,ME,Leone
+2021-01-01,0,leone,ME,Leone
+2021-02-01,0,leone,ME,Leone
+2021-03-01,0,leone,ME,Leone
+2021-04-01,0,leone,ME,Leone
+2021-05-01,1,leone,ME,Leone
+2021-06-01,0,leone,ME,Leone
+2021-07-01,1,leone,ME,Leone
+2021-08-01,0,leone,ME,Leone
+2021-09-01,1,leone,ME,Leone
+2021-10-01,0,leone,ME,Leone
+2021-11-01,1,leone,ME,Leone
+2021-12-01,0,leone,ME,Leone
+2022-01-01,2,leone,ME,Leone
+2022-02-01,0,leone,ME,Leone
+2022-03-01,0,leone,ME,Leone
+2022-04-01,0,leone,ME,Leone
+2022-05-01,0,leone,ME,Leone
+2022-06-01,0,leone,ME,Leone
+2022-07-01,1,leone,ME,Leone
+2022-08-01,0,leone,ME,Leone
+2022-09-01,0,leone,ME,Leone
+2022-10-01,1,leone,ME,Leone
+2022-11-01,1,leone,ME,Leone
+2022-12-01,1,leone,ME,Leone
+2023-01-01,0,leone,ME,Leone
+2005-01-01,0,uzmi,ME,Taka
+2005-02-01,0,uzmi,ME,Taka
+2005-03-01,0,uzmi,ME,Taka
+2005-04-01,0,uzmi,ME,Taka
+2005-05-01,0,uzmi,ME,Taka
+2005-06-01,0,uzmi,ME,Taka
+2005-07-01,0,uzmi,ME,Taka
+2005-08-01,0,uzmi,ME,Taka
+2005-09-01,0,uzmi,ME,Taka
+2005-10-01,0,uzmi,ME,Taka
+2005-11-01,0,uzmi,ME,Taka
+2005-12-01,0,uzmi,ME,Taka
+2006-01-01,0,uzmi,ME,Taka
+2006-02-01,0,uzmi,ME,Taka
+2006-03-01,0,uzmi,ME,Taka
+2006-04-01,0,uzmi,ME,Taka
+2006-05-01,0,uzmi,ME,Taka
+2006-06-01,70,uzmi,ME,Taka
+2006-07-01,0,uzmi,ME,Taka
+2006-08-01,52,uzmi,ME,Taka
+2006-09-01,0,uzmi,ME,Taka
+2006-10-01,0,uzmi,ME,Taka
+2006-11-01,0,uzmi,ME,Taka
+2006-12-01,0,uzmi,ME,Taka
+2007-01-01,96,uzmi,ME,Taka
+2007-02-01,0,uzmi,ME,Taka
+2007-03-01,0,uzmi,ME,Taka
+2007-04-01,0,uzmi,ME,Taka
+2007-05-01,0,uzmi,ME,Taka
+2007-06-01,40,uzmi,ME,Taka
+2007-07-01,0,uzmi,ME,Taka
+2007-08-01,0,uzmi,ME,Taka
+2007-09-01,0,uzmi,ME,Taka
+2007-10-01,0,uzmi,ME,Taka
+2007-11-01,0,uzmi,ME,Taka
+2007-12-01,29,uzmi,ME,Taka
+2008-01-01,0,uzmi,ME,Taka
+2008-02-01,0,uzmi,ME,Taka
+2008-03-01,0,uzmi,ME,Taka
+2008-04-01,53,uzmi,ME,Taka
+2008-05-01,40,uzmi,ME,Taka
+2008-06-01,0,uzmi,ME,Taka
+2008-07-01,0,uzmi,ME,Taka
+2008-08-01,42,uzmi,ME,Taka
+2008-09-01,0,uzmi,ME,Taka
+2008-10-01,37,uzmi,ME,Taka
+2008-11-01,0,uzmi,ME,Taka
+2008-12-01,0,uzmi,ME,Taka
+2009-01-01,0,uzmi,ME,Taka
+2009-02-01,0,uzmi,ME,Taka
+2009-03-01,72,uzmi,ME,Taka
+2009-04-01,0,uzmi,ME,Taka
+2009-05-01,0,uzmi,ME,Taka
+2009-06-01,0,uzmi,ME,Taka
+2009-07-01,0,uzmi,ME,Taka
+2009-08-01,0,uzmi,ME,Taka
+2009-09-01,0,uzmi,ME,Taka
+2009-10-01,0,uzmi,ME,Taka
+2009-11-01,0,uzmi,ME,Taka
+2009-12-01,0,uzmi,ME,Taka
+2010-01-01,0,uzmi,ME,Taka
+2010-02-01,59,uzmi,ME,Taka
+2010-03-01,0,uzmi,ME,Taka
+2010-04-01,0,uzmi,ME,Taka
+2010-05-01,0,uzmi,ME,Taka
+2010-06-01,100,uzmi,ME,Taka
+2010-07-01,0,uzmi,ME,Taka
+2010-08-01,29,uzmi,ME,Taka
+2010-09-01,0,uzmi,ME,Taka
+2010-10-01,0,uzmi,ME,Taka
+2010-11-01,0,uzmi,ME,Taka
+2010-12-01,0,uzmi,ME,Taka
+2011-01-01,0,uzmi,ME,Taka
+2011-02-01,0,uzmi,ME,Taka
+2011-03-01,9,uzmi,ME,Taka
+2011-04-01,4,uzmi,ME,Taka
+2011-05-01,3,uzmi,ME,Taka
+2011-06-01,2,uzmi,ME,Taka
+2011-07-01,0,uzmi,ME,Taka
+2011-08-01,3,uzmi,ME,Taka
+2011-09-01,3,uzmi,ME,Taka
+2011-10-01,0,uzmi,ME,Taka
+2011-11-01,5,uzmi,ME,Taka
+2011-12-01,3,uzmi,ME,Taka
+2012-01-01,6,uzmi,ME,Taka
+2012-02-01,3,uzmi,ME,Taka
+2012-03-01,5,uzmi,ME,Taka
+2012-04-01,2,uzmi,ME,Taka
+2012-05-01,6,uzmi,ME,Taka
+2012-06-01,0,uzmi,ME,Taka
+2012-07-01,0,uzmi,ME,Taka
+2012-08-01,3,uzmi,ME,Taka
+2012-09-01,2,uzmi,ME,Taka
+2012-10-01,0,uzmi,ME,Taka
+2012-11-01,0,uzmi,ME,Taka
+2012-12-01,4,uzmi,ME,Taka
+2013-01-01,2,uzmi,ME,Taka
+2013-02-01,0,uzmi,ME,Taka
+2013-03-01,0,uzmi,ME,Taka
+2013-04-01,5,uzmi,ME,Taka
+2013-05-01,3,uzmi,ME,Taka
+2013-06-01,0,uzmi,ME,Taka
+2013-07-01,0,uzmi,ME,Taka
+2013-08-01,1,uzmi,ME,Taka
+2013-09-01,3,uzmi,ME,Taka
+2013-10-01,0,uzmi,ME,Taka
+2013-11-01,5,uzmi,ME,Taka
+2013-12-01,1,uzmi,ME,Taka
+2014-01-01,0,uzmi,ME,Taka
+2014-02-01,2,uzmi,ME,Taka
+2014-03-01,2,uzmi,ME,Taka
+2014-04-01,0,uzmi,ME,Taka
+2014-05-01,2,uzmi,ME,Taka
+2014-06-01,3,uzmi,ME,Taka
+2014-07-01,2,uzmi,ME,Taka
+2014-08-01,2,uzmi,ME,Taka
+2014-09-01,3,uzmi,ME,Taka
+2014-10-01,2,uzmi,ME,Taka
+2014-11-01,0,uzmi,ME,Taka
+2014-12-01,4,uzmi,ME,Taka
+2015-01-01,0,uzmi,ME,Taka
+2015-02-01,4,uzmi,ME,Taka
+2015-03-01,2,uzmi,ME,Taka
+2015-04-01,3,uzmi,ME,Taka
+2015-05-01,2,uzmi,ME,Taka
+2015-06-01,0,uzmi,ME,Taka
+2015-07-01,0,uzmi,ME,Taka
+2015-08-01,0,uzmi,ME,Taka
+2015-09-01,1,uzmi,ME,Taka
+2015-10-01,3,uzmi,ME,Taka
+2015-11-01,6,uzmi,ME,Taka
+2015-12-01,0,uzmi,ME,Taka
+2016-01-01,1,uzmi,ME,Taka
+2016-02-01,4,uzmi,ME,Taka
+2016-03-01,2,uzmi,ME,Taka
+2016-04-01,0,uzmi,ME,Taka
+2016-05-01,0,uzmi,ME,Taka
+2016-06-01,2,uzmi,ME,Taka
+2016-07-01,0,uzmi,ME,Taka
+2016-08-01,0,uzmi,ME,Taka
+2016-09-01,2,uzmi,ME,Taka
+2016-10-01,5,uzmi,ME,Taka
+2016-11-01,0,uzmi,ME,Taka
+2016-12-01,2,uzmi,ME,Taka
+2017-01-01,0,uzmi,ME,Taka
+2017-02-01,0,uzmi,ME,Taka
+2017-03-01,0,uzmi,ME,Taka
+2017-04-01,2,uzmi,ME,Taka
+2017-05-01,0,uzmi,ME,Taka
+2017-06-01,3,uzmi,ME,Taka
+2017-07-01,0,uzmi,ME,Taka
+2017-08-01,2,uzmi,ME,Taka
+2017-09-01,0,uzmi,ME,Taka
+2017-10-01,0,uzmi,ME,Taka
+2017-11-01,0,uzmi,ME,Taka
+2017-12-01,0,uzmi,ME,Taka
+2018-01-01,1,uzmi,ME,Taka
+2018-02-01,0,uzmi,ME,Taka
+2018-03-01,0,uzmi,ME,Taka
+2018-04-01,2,uzmi,ME,Taka
+2018-05-01,0,uzmi,ME,Taka
+2018-06-01,2,uzmi,ME,Taka
+2018-07-01,2,uzmi,ME,Taka
+2018-08-01,0,uzmi,ME,Taka
+2018-09-01,2,uzmi,ME,Taka
+2018-10-01,0,uzmi,ME,Taka
+2018-11-01,0,uzmi,ME,Taka
+2018-12-01,2,uzmi,ME,Taka
+2019-01-01,2,uzmi,ME,Taka
+2019-02-01,3,uzmi,ME,Taka
+2019-03-01,1,uzmi,ME,Taka
+2019-04-01,2,uzmi,ME,Taka
+2019-05-01,0,uzmi,ME,Taka
+2019-06-01,1,uzmi,ME,Taka
+2019-07-01,0,uzmi,ME,Taka
+2019-08-01,1,uzmi,ME,Taka
+2019-09-01,0,uzmi,ME,Taka
+2019-10-01,2,uzmi,ME,Taka
+2019-11-01,1,uzmi,ME,Taka
+2019-12-01,0,uzmi,ME,Taka
+2020-01-01,0,uzmi,ME,Taka
+2020-02-01,3,uzmi,ME,Taka
+2020-03-01,0,uzmi,ME,Taka
+2020-04-01,0,uzmi,ME,Taka
+2020-05-01,0,uzmi,ME,Taka
+2020-06-01,0,uzmi,ME,Taka
+2020-07-01,0,uzmi,ME,Taka
+2020-08-01,2,uzmi,ME,Taka
+2020-09-01,3,uzmi,ME,Taka
+2020-10-01,2,uzmi,ME,Taka
+2020-11-01,1,uzmi,ME,Taka
+2020-12-01,0,uzmi,ME,Taka
+2021-01-01,1,uzmi,ME,Taka
+2021-02-01,1,uzmi,ME,Taka
+2021-03-01,1,uzmi,ME,Taka
+2021-04-01,1,uzmi,ME,Taka
+2021-05-01,0,uzmi,ME,Taka
+2021-06-01,0,uzmi,ME,Taka
+2021-07-01,2,uzmi,ME,Taka
+2021-08-01,0,uzmi,ME,Taka
+2021-09-01,2,uzmi,ME,Taka
+2021-10-01,2,uzmi,ME,Taka
+2021-11-01,3,uzmi,ME,Taka
+2021-12-01,0,uzmi,ME,Taka
+2022-01-01,3,uzmi,ME,Taka
+2022-02-01,0,uzmi,ME,Taka
+2022-03-01,0,uzmi,ME,Taka
+2022-04-01,1,uzmi,ME,Taka
+2022-05-01,0,uzmi,ME,Taka
+2022-06-01,0,uzmi,ME,Taka
+2022-07-01,1,uzmi,ME,Taka
+2022-08-01,1,uzmi,ME,Taka
+2022-09-01,0,uzmi,ME,Taka
+2022-10-01,2,uzmi,ME,Taka
+2022-11-01,0,uzmi,ME,Taka
+2022-12-01,1,uzmi,ME,Taka
+2023-01-01,0,uzmi,ME,Taka
+2005-01-01,0,suma,ME,Sum
+2005-02-01,0,suma,ME,Sum
+2005-03-01,0,suma,ME,Sum
+2005-04-01,53,suma,ME,Sum
+2005-05-01,0,suma,ME,Sum
+2005-06-01,100,suma,ME,Sum
+2005-07-01,0,suma,ME,Sum
+2005-08-01,0,suma,ME,Sum
+2005-09-01,55,suma,ME,Sum
+2005-10-01,0,suma,ME,Sum
+2005-11-01,0,suma,ME,Sum
+2005-12-01,0,suma,ME,Sum
+2006-01-01,0,suma,ME,Sum
+2006-02-01,0,suma,ME,Sum
+2006-03-01,0,suma,ME,Sum
+2006-04-01,0,suma,ME,Sum
+2006-05-01,0,suma,ME,Sum
+2006-06-01,20,suma,ME,Sum
+2006-07-01,0,suma,ME,Sum
+2006-08-01,0,suma,ME,Sum
+2006-09-01,0,suma,ME,Sum
+2006-10-01,0,suma,ME,Sum
+2006-11-01,0,suma,ME,Sum
+2006-12-01,16,suma,ME,Sum
+2007-01-01,0,suma,ME,Sum
+2007-02-01,0,suma,ME,Sum
+2007-03-01,0,suma,ME,Sum
+2007-04-01,0,suma,ME,Sum
+2007-05-01,0,suma,ME,Sum
+2007-06-01,0,suma,ME,Sum
+2007-07-01,0,suma,ME,Sum
+2007-08-01,0,suma,ME,Sum
+2007-09-01,0,suma,ME,Sum
+2007-10-01,35,suma,ME,Sum
+2007-11-01,0,suma,ME,Sum
+2007-12-01,0,suma,ME,Sum
+2008-01-01,0,suma,ME,Sum
+2008-02-01,22,suma,ME,Sum
+2008-03-01,14,suma,ME,Sum
+2008-04-01,0,suma,ME,Sum
+2008-05-01,0,suma,ME,Sum
+2008-06-01,0,suma,ME,Sum
+2008-07-01,27,suma,ME,Sum
+2008-08-01,0,suma,ME,Sum
+2008-09-01,0,suma,ME,Sum
+2008-10-01,0,suma,ME,Sum
+2008-11-01,0,suma,ME,Sum
+2008-12-01,0,suma,ME,Sum
+2009-01-01,0,suma,ME,Sum
+2009-02-01,0,suma,ME,Sum
+2009-03-01,0,suma,ME,Sum
+2009-04-01,11,suma,ME,Sum
+2009-05-01,0,suma,ME,Sum
+2009-06-01,0,suma,ME,Sum
+2009-07-01,0,suma,ME,Sum
+2009-08-01,0,suma,ME,Sum
+2009-09-01,0,suma,ME,Sum
+2009-10-01,0,suma,ME,Sum
+2009-11-01,0,suma,ME,Sum
+2009-12-01,0,suma,ME,Sum
+2010-01-01,0,suma,ME,Sum
+2010-02-01,0,suma,ME,Sum
+2010-03-01,10,suma,ME,Sum
+2010-04-01,0,suma,ME,Sum
+2010-05-01,0,suma,ME,Sum
+2010-06-01,0,suma,ME,Sum
+2010-07-01,0,suma,ME,Sum
+2010-08-01,0,suma,ME,Sum
+2010-09-01,0,suma,ME,Sum
+2010-10-01,16,suma,ME,Sum
+2010-11-01,0,suma,ME,Sum
+2010-12-01,0,suma,ME,Sum
+2011-01-01,2,suma,ME,Sum
+2011-02-01,0,suma,ME,Sum
+2011-03-01,0,suma,ME,Sum
+2011-04-01,1,suma,ME,Sum
+2011-05-01,1,suma,ME,Sum
+2011-06-01,0,suma,ME,Sum
+2011-07-01,0,suma,ME,Sum
+2011-08-01,2,suma,ME,Sum
+2011-09-01,0,suma,ME,Sum
+2011-10-01,0,suma,ME,Sum
+2011-11-01,2,suma,ME,Sum
+2011-12-01,1,suma,ME,Sum
+2012-01-01,1,suma,ME,Sum
+2012-02-01,3,suma,ME,Sum
+2012-03-01,3,suma,ME,Sum
+2012-04-01,0,suma,ME,Sum
+2012-05-01,2,suma,ME,Sum
+2012-06-01,1,suma,ME,Sum
+2012-07-01,1,suma,ME,Sum
+2012-08-01,1,suma,ME,Sum
+2012-09-01,1,suma,ME,Sum
+2012-10-01,1,suma,ME,Sum
+2012-11-01,1,suma,ME,Sum
+2012-12-01,0,suma,ME,Sum
+2013-01-01,2,suma,ME,Sum
+2013-02-01,1,suma,ME,Sum
+2013-03-01,1,suma,ME,Sum
+2013-04-01,0,suma,ME,Sum
+2013-05-01,0,suma,ME,Sum
+2013-06-01,1,suma,ME,Sum
+2013-07-01,1,suma,ME,Sum
+2013-08-01,1,suma,ME,Sum
+2013-09-01,1,suma,ME,Sum
+2013-10-01,0,suma,ME,Sum
+2013-11-01,2,suma,ME,Sum
+2013-12-01,2,suma,ME,Sum
+2014-01-01,1,suma,ME,Sum
+2014-02-01,1,suma,ME,Sum
+2014-03-01,2,suma,ME,Sum
+2014-04-01,1,suma,ME,Sum
+2014-05-01,1,suma,ME,Sum
+2014-06-01,0,suma,ME,Sum
+2014-07-01,0,suma,ME,Sum
+2014-08-01,1,suma,ME,Sum
+2014-09-01,1,suma,ME,Sum
+2014-10-01,1,suma,ME,Sum
+2014-11-01,3,suma,ME,Sum
+2014-12-01,2,suma,ME,Sum
+2015-01-01,3,suma,ME,Sum
+2015-02-01,2,suma,ME,Sum
+2015-03-01,1,suma,ME,Sum
+2015-04-01,1,suma,ME,Sum
+2015-05-01,1,suma,ME,Sum
+2015-06-01,1,suma,ME,Sum
+2015-07-01,0,suma,ME,Sum
+2015-08-01,1,suma,ME,Sum
+2015-09-01,1,suma,ME,Sum
+2015-10-01,2,suma,ME,Sum
+2015-11-01,1,suma,ME,Sum
+2015-12-01,1,suma,ME,Sum
+2016-01-01,1,suma,ME,Sum
+2016-02-01,2,suma,ME,Sum
+2016-03-01,2,suma,ME,Sum
+2016-04-01,1,suma,ME,Sum
+2016-05-01,1,suma,ME,Sum
+2016-06-01,1,suma,ME,Sum
+2016-07-01,1,suma,ME,Sum
+2016-08-01,1,suma,ME,Sum
+2016-09-01,1,suma,ME,Sum
+2016-10-01,2,suma,ME,Sum
+2016-11-01,1,suma,ME,Sum
+2016-12-01,1,suma,ME,Sum
+2017-01-01,1,suma,ME,Sum
+2017-02-01,2,suma,ME,Sum
+2017-03-01,2,suma,ME,Sum
+2017-04-01,1,suma,ME,Sum
+2017-05-01,1,suma,ME,Sum
+2017-06-01,3,suma,ME,Sum
+2017-07-01,1,suma,ME,Sum
+2017-08-01,1,suma,ME,Sum
+2017-09-01,1,suma,ME,Sum
+2017-10-01,2,suma,ME,Sum
+2017-11-01,2,suma,ME,Sum
+2017-12-01,2,suma,ME,Sum
+2018-01-01,1,suma,ME,Sum
+2018-02-01,1,suma,ME,Sum
+2018-03-01,1,suma,ME,Sum
+2018-04-01,2,suma,ME,Sum
+2018-05-01,1,suma,ME,Sum
+2018-06-01,1,suma,ME,Sum
+2018-07-01,0,suma,ME,Sum
+2018-08-01,0,suma,ME,Sum
+2018-09-01,2,suma,ME,Sum
+2018-10-01,2,suma,ME,Sum
+2018-11-01,2,suma,ME,Sum
+2018-12-01,0,suma,ME,Sum
+2019-01-01,1,suma,ME,Sum
+2019-02-01,1,suma,ME,Sum
+2019-03-01,1,suma,ME,Sum
+2019-04-01,1,suma,ME,Sum
+2019-05-01,0,suma,ME,Sum
+2019-06-01,1,suma,ME,Sum
+2019-07-01,1,suma,ME,Sum
+2019-08-01,2,suma,ME,Sum
+2019-09-01,1,suma,ME,Sum
+2019-10-01,1,suma,ME,Sum
+2019-11-01,2,suma,ME,Sum
+2019-12-01,2,suma,ME,Sum
+2020-01-01,2,suma,ME,Sum
+2020-02-01,1,suma,ME,Sum
+2020-03-01,2,suma,ME,Sum
+2020-04-01,1,suma,ME,Sum
+2020-05-01,2,suma,ME,Sum
+2020-06-01,0,suma,ME,Sum
+2020-07-01,1,suma,ME,Sum
+2020-08-01,1,suma,ME,Sum
+2020-09-01,1,suma,ME,Sum
+2020-10-01,2,suma,ME,Sum
+2020-11-01,1,suma,ME,Sum
+2020-12-01,2,suma,ME,Sum
+2021-01-01,2,suma,ME,Sum
+2021-02-01,3,suma,ME,Sum
+2021-03-01,2,suma,ME,Sum
+2021-04-01,1,suma,ME,Sum
+2021-05-01,2,suma,ME,Sum
+2021-06-01,1,suma,ME,Sum
+2021-07-01,0,suma,ME,Sum
+2021-08-01,1,suma,ME,Sum
+2021-09-01,1,suma,ME,Sum
+2021-10-01,1,suma,ME,Sum
+2021-11-01,1,suma,ME,Sum
+2021-12-01,1,suma,ME,Sum
+2022-01-01,1,suma,ME,Sum
+2022-02-01,1,suma,ME,Sum
+2022-03-01,1,suma,ME,Sum
+2022-04-01,1,suma,ME,Sum
+2022-05-01,2,suma,ME,Sum
+2022-06-01,1,suma,ME,Sum
+2022-07-01,1,suma,ME,Sum
+2022-08-01,1,suma,ME,Sum
+2022-09-01,1,suma,ME,Sum
+2022-10-01,2,suma,ME,Sum
+2022-11-01,1,suma,ME,Sum
+2022-12-01,1,suma,ME,Sum
+2023-01-01,2,suma,ME,Sum
+2005-01-01,0,kip,ME,Kip
+2005-02-01,81,kip,ME,Kip
+2005-03-01,0,kip,ME,Kip
+2005-04-01,0,kip,ME,Kip
+2005-05-01,0,kip,ME,Kip
+2005-06-01,98,kip,ME,Kip
+2005-07-01,0,kip,ME,Kip
+2005-08-01,100,kip,ME,Kip
+2005-09-01,0,kip,ME,Kip
+2005-10-01,81,kip,ME,Kip
+2005-11-01,0,kip,ME,Kip
+2005-12-01,0,kip,ME,Kip
+2006-01-01,0,kip,ME,Kip
+2006-02-01,0,kip,ME,Kip
+2006-03-01,94,kip,ME,Kip
+2006-04-01,69,kip,ME,Kip
+2006-05-01,0,kip,ME,Kip
+2006-06-01,0,kip,ME,Kip
+2006-07-01,0,kip,ME,Kip
+2006-08-01,0,kip,ME,Kip
+2006-09-01,54,kip,ME,Kip
+2006-10-01,0,kip,ME,Kip
+2006-11-01,0,kip,ME,Kip
+2006-12-01,0,kip,ME,Kip
+2007-01-01,38,kip,ME,Kip
+2007-02-01,50,kip,ME,Kip
+2007-03-01,65,kip,ME,Kip
+2007-04-01,0,kip,ME,Kip
+2007-05-01,0,kip,ME,Kip
+2007-06-01,0,kip,ME,Kip
+2007-07-01,53,kip,ME,Kip
+2007-08-01,0,kip,ME,Kip
+2007-09-01,0,kip,ME,Kip
+2007-10-01,0,kip,ME,Kip
+2007-11-01,0,kip,ME,Kip
+2007-12-01,0,kip,ME,Kip
+2008-01-01,31,kip,ME,Kip
+2008-02-01,0,kip,ME,Kip
+2008-03-01,0,kip,ME,Kip
+2008-04-01,0,kip,ME,Kip
+2008-05-01,0,kip,ME,Kip
+2008-06-01,0,kip,ME,Kip
+2008-07-01,0,kip,ME,Kip
+2008-08-01,0,kip,ME,Kip
+2008-09-01,0,kip,ME,Kip
+2008-10-01,0,kip,ME,Kip
+2008-11-01,0,kip,ME,Kip
+2008-12-01,0,kip,ME,Kip
+2009-01-01,0,kip,ME,Kip
+2009-02-01,47,kip,ME,Kip
+2009-03-01,52,kip,ME,Kip
+2009-04-01,65,kip,ME,Kip
+2009-05-01,0,kip,ME,Kip
+2009-06-01,0,kip,ME,Kip
+2009-07-01,0,kip,ME,Kip
+2009-08-01,0,kip,ME,Kip
+2009-09-01,0,kip,ME,Kip
+2009-10-01,0,kip,ME,Kip
+2009-11-01,0,kip,ME,Kip
+2009-12-01,0,kip,ME,Kip
+2010-01-01,0,kip,ME,Kip
+2010-02-01,0,kip,ME,Kip
+2010-03-01,0,kip,ME,Kip
+2010-04-01,0,kip,ME,Kip
+2010-05-01,0,kip,ME,Kip
+2010-06-01,0,kip,ME,Kip
+2010-07-01,0,kip,ME,Kip
+2010-08-01,0,kip,ME,Kip
+2010-09-01,41,kip,ME,Kip
+2010-10-01,0,kip,ME,Kip
+2010-11-01,28,kip,ME,Kip
+2010-12-01,0,kip,ME,Kip
+2011-01-01,0,kip,ME,Kip
+2011-02-01,0,kip,ME,Kip
+2011-03-01,0,kip,ME,Kip
+2011-04-01,3,kip,ME,Kip
+2011-05-01,0,kip,ME,Kip
+2011-06-01,0,kip,ME,Kip
+2011-07-01,0,kip,ME,Kip
+2011-08-01,0,kip,ME,Kip
+2011-09-01,0,kip,ME,Kip
+2011-10-01,0,kip,ME,Kip
+2011-11-01,0,kip,ME,Kip
+2011-12-01,0,kip,ME,Kip
+2012-01-01,0,kip,ME,Kip
+2012-02-01,0,kip,ME,Kip
+2012-03-01,5,kip,ME,Kip
+2012-04-01,2,kip,ME,Kip
+2012-05-01,2,kip,ME,Kip
+2012-06-01,0,kip,ME,Kip
+2012-07-01,0,kip,ME,Kip
+2012-08-01,0,kip,ME,Kip
+2012-09-01,0,kip,ME,Kip
+2012-10-01,0,kip,ME,Kip
+2012-11-01,2,kip,ME,Kip
+2012-12-01,2,kip,ME,Kip
+2013-01-01,0,kip,ME,Kip
+2013-02-01,4,kip,ME,Kip
+2013-03-01,1,kip,ME,Kip
+2013-04-01,0,kip,ME,Kip
+2013-05-01,1,kip,ME,Kip
+2013-06-01,0,kip,ME,Kip
+2013-07-01,4,kip,ME,Kip
+2013-08-01,0,kip,ME,Kip
+2013-09-01,0,kip,ME,Kip
+2013-10-01,3,kip,ME,Kip
+2013-11-01,0,kip,ME,Kip
+2013-12-01,1,kip,ME,Kip
+2014-01-01,3,kip,ME,Kip
+2014-02-01,2,kip,ME,Kip
+2014-03-01,2,kip,ME,Kip
+2014-04-01,3,kip,ME,Kip
+2014-05-01,2,kip,ME,Kip
+2014-06-01,0,kip,ME,Kip
+2014-07-01,0,kip,ME,Kip
+2014-08-01,1,kip,ME,Kip
+2014-09-01,0,kip,ME,Kip
+2014-10-01,2,kip,ME,Kip
+2014-11-01,0,kip,ME,Kip
+2014-12-01,0,kip,ME,Kip
+2015-01-01,0,kip,ME,Kip
+2015-02-01,0,kip,ME,Kip
+2015-03-01,2,kip,ME,Kip
+2015-04-01,3,kip,ME,Kip
+2015-05-01,2,kip,ME,Kip
+2015-06-01,1,kip,ME,Kip
+2015-07-01,0,kip,ME,Kip
+2015-08-01,0,kip,ME,Kip
+2015-09-01,1,kip,ME,Kip
+2015-10-01,2,kip,ME,Kip
+2015-11-01,0,kip,ME,Kip
+2015-12-01,2,kip,ME,Kip
+2016-01-01,0,kip,ME,Kip
+2016-02-01,0,kip,ME,Kip
+2016-03-01,0,kip,ME,Kip
+2016-04-01,0,kip,ME,Kip
+2016-05-01,0,kip,ME,Kip
+2016-06-01,0,kip,ME,Kip
+2016-07-01,4,kip,ME,Kip
+2016-08-01,1,kip,ME,Kip
+2016-09-01,0,kip,ME,Kip
+2016-10-01,1,kip,ME,Kip
+2016-11-01,0,kip,ME,Kip
+2016-12-01,1,kip,ME,Kip
+2017-01-01,1,kip,ME,Kip
+2017-02-01,0,kip,ME,Kip
+2017-03-01,3,kip,ME,Kip
+2017-04-01,2,kip,ME,Kip
+2017-05-01,3,kip,ME,Kip
+2017-06-01,1,kip,ME,Kip
+2017-07-01,0,kip,ME,Kip
+2017-08-01,0,kip,ME,Kip
+2017-09-01,1,kip,ME,Kip
+2017-10-01,0,kip,ME,Kip
+2017-11-01,1,kip,ME,Kip
+2017-12-01,2,kip,ME,Kip
+2018-01-01,0,kip,ME,Kip
+2018-02-01,0,kip,ME,Kip
+2018-03-01,0,kip,ME,Kip
+2018-04-01,0,kip,ME,Kip
+2018-05-01,1,kip,ME,Kip
+2018-06-01,0,kip,ME,Kip
+2018-07-01,0,kip,ME,Kip
+2018-08-01,1,kip,ME,Kip
+2018-09-01,0,kip,ME,Kip
+2018-10-01,1,kip,ME,Kip
+2018-11-01,0,kip,ME,Kip
+2018-12-01,6,kip,ME,Kip
+2019-01-01,0,kip,ME,Kip
+2019-02-01,0,kip,ME,Kip
+2019-03-01,0,kip,ME,Kip
+2019-04-01,1,kip,ME,Kip
+2019-05-01,0,kip,ME,Kip
+2019-06-01,1,kip,ME,Kip
+2019-07-01,0,kip,ME,Kip
+2019-08-01,0,kip,ME,Kip
+2019-09-01,1,kip,ME,Kip
+2019-10-01,0,kip,ME,Kip
+2019-11-01,0,kip,ME,Kip
+2019-12-01,1,kip,ME,Kip
+2020-01-01,2,kip,ME,Kip
+2020-02-01,1,kip,ME,Kip
+2020-03-01,1,kip,ME,Kip
+2020-04-01,0,kip,ME,Kip
+2020-05-01,1,kip,ME,Kip
+2020-06-01,3,kip,ME,Kip
+2020-07-01,0,kip,ME,Kip
+2020-08-01,0,kip,ME,Kip
+2020-09-01,0,kip,ME,Kip
+2020-10-01,1,kip,ME,Kip
+2020-11-01,2,kip,ME,Kip
+2020-12-01,2,kip,ME,Kip
+2021-01-01,2,kip,ME,Kip
+2021-02-01,1,kip,ME,Kip
+2021-03-01,1,kip,ME,Kip
+2021-04-01,0,kip,ME,Kip
+2021-05-01,0,kip,ME,Kip
+2021-06-01,0,kip,ME,Kip
+2021-07-01,1,kip,ME,Kip
+2021-08-01,1,kip,ME,Kip
+2021-09-01,2,kip,ME,Kip
+2021-10-01,0,kip,ME,Kip
+2021-11-01,0,kip,ME,Kip
+2021-12-01,2,kip,ME,Kip
+2022-01-01,0,kip,ME,Kip
+2022-02-01,0,kip,ME,Kip
+2022-03-01,0,kip,ME,Kip
+2022-04-01,0,kip,ME,Kip
+2022-05-01,0,kip,ME,Kip
+2022-06-01,0,kip,ME,Kip
+2022-07-01,1,kip,ME,Kip
+2022-08-01,1,kip,ME,Kip
+2022-09-01,0,kip,ME,Kip
+2022-10-01,2,kip,ME,Kip
+2022-11-01,2,kip,ME,Kip
+2022-12-01,0,kip,ME,Kip
+2023-01-01,0,kip,ME,Kip
+2005-01-01,0,denar,ME,Denar
+2005-02-01,0,denar,ME,Denar
+2005-03-01,100,denar,ME,Denar
+2005-04-01,40,denar,ME,Denar
+2005-05-01,0,denar,ME,Denar
+2005-06-01,0,denar,ME,Denar
+2005-07-01,0,denar,ME,Denar
+2005-08-01,0,denar,ME,Denar
+2005-09-01,0,denar,ME,Denar
+2005-10-01,0,denar,ME,Denar
+2005-11-01,0,denar,ME,Denar
+2005-12-01,0,denar,ME,Denar
+2006-01-01,0,denar,ME,Denar
+2006-02-01,0,denar,ME,Denar
+2006-03-01,0,denar,ME,Denar
+2006-04-01,0,denar,ME,Denar
+2006-05-01,0,denar,ME,Denar
+2006-06-01,0,denar,ME,Denar
+2006-07-01,0,denar,ME,Denar
+2006-08-01,60,denar,ME,Denar
+2006-09-01,0,denar,ME,Denar
+2006-10-01,0,denar,ME,Denar
+2006-11-01,0,denar,ME,Denar
+2006-12-01,0,denar,ME,Denar
+2007-01-01,0,denar,ME,Denar
+2007-02-01,0,denar,ME,Denar
+2007-03-01,0,denar,ME,Denar
+2007-04-01,0,denar,ME,Denar
+2007-05-01,0,denar,ME,Denar
+2007-06-01,0,denar,ME,Denar
+2007-07-01,0,denar,ME,Denar
+2007-08-01,0,denar,ME,Denar
+2007-09-01,0,denar,ME,Denar
+2007-10-01,18,denar,ME,Denar
+2007-11-01,0,denar,ME,Denar
+2007-12-01,0,denar,ME,Denar
+2008-01-01,13,denar,ME,Denar
+2008-02-01,0,denar,ME,Denar
+2008-03-01,0,denar,ME,Denar
+2008-04-01,0,denar,ME,Denar
+2008-05-01,0,denar,ME,Denar
+2008-06-01,0,denar,ME,Denar
+2008-07-01,0,denar,ME,Denar
+2008-08-01,0,denar,ME,Denar
+2008-09-01,0,denar,ME,Denar
+2008-10-01,0,denar,ME,Denar
+2008-11-01,0,denar,ME,Denar
+2008-12-01,0,denar,ME,Denar
+2009-01-01,0,denar,ME,Denar
+2009-02-01,0,denar,ME,Denar
+2009-03-01,0,denar,ME,Denar
+2009-04-01,0,denar,ME,Denar
+2009-05-01,0,denar,ME,Denar
+2009-06-01,0,denar,ME,Denar
+2009-07-01,0,denar,ME,Denar
+2009-08-01,0,denar,ME,Denar
+2009-09-01,0,denar,ME,Denar
+2009-10-01,0,denar,ME,Denar
+2009-11-01,0,denar,ME,Denar
+2009-12-01,0,denar,ME,Denar
+2010-01-01,0,denar,ME,Denar
+2010-02-01,0,denar,ME,Denar
+2010-03-01,0,denar,ME,Denar
+2010-04-01,0,denar,ME,Denar
+2010-05-01,0,denar,ME,Denar
+2010-06-01,0,denar,ME,Denar
+2010-07-01,0,denar,ME,Denar
+2010-08-01,0,denar,ME,Denar
+2010-09-01,0,denar,ME,Denar
+2010-10-01,15,denar,ME,Denar
+2010-11-01,0,denar,ME,Denar
+2010-12-01,8,denar,ME,Denar
+2011-01-01,0,denar,ME,Denar
+2011-02-01,0,denar,ME,Denar
+2011-03-01,0,denar,ME,Denar
+2011-04-01,0,denar,ME,Denar
+2011-05-01,0,denar,ME,Denar
+2011-06-01,0,denar,ME,Denar
+2011-07-01,0,denar,ME,Denar
+2011-08-01,1,denar,ME,Denar
+2011-09-01,0,denar,ME,Denar
+2011-10-01,0,denar,ME,Denar
+2011-11-01,0,denar,ME,Denar
+2011-12-01,0,denar,ME,Denar
+2012-01-01,0,denar,ME,Denar
+2012-02-01,0,denar,ME,Denar
+2012-03-01,0,denar,ME,Denar
+2012-04-01,0,denar,ME,Denar
+2012-05-01,1,denar,ME,Denar
+2012-06-01,0,denar,ME,Denar
+2012-07-01,0,denar,ME,Denar
+2012-08-01,2,denar,ME,Denar
+2012-09-01,1,denar,ME,Denar
+2012-10-01,0,denar,ME,Denar
+2012-11-01,1,denar,ME,Denar
+2012-12-01,0,denar,ME,Denar
+2013-01-01,0,denar,ME,Denar
+2013-02-01,0,denar,ME,Denar
+2013-03-01,1,denar,ME,Denar
+2013-04-01,1,denar,ME,Denar
+2013-05-01,0,denar,ME,Denar
+2013-06-01,0,denar,ME,Denar
+2013-07-01,0,denar,ME,Denar
+2013-08-01,0,denar,ME,Denar
+2013-09-01,0,denar,ME,Denar
+2013-10-01,0,denar,ME,Denar
+2013-11-01,0,denar,ME,Denar
+2013-12-01,0,denar,ME,Denar
+2014-01-01,0,denar,ME,Denar
+2014-02-01,0,denar,ME,Denar
+2014-03-01,0,denar,ME,Denar
+2014-04-01,0,denar,ME,Denar
+2014-05-01,0,denar,ME,Denar
+2014-06-01,0,denar,ME,Denar
+2014-07-01,0,denar,ME,Denar
+2014-08-01,1,denar,ME,Denar
+2014-09-01,0,denar,ME,Denar
+2014-10-01,0,denar,ME,Denar
+2014-11-01,0,denar,ME,Denar
+2014-12-01,0,denar,ME,Denar
+2015-01-01,0,denar,ME,Denar
+2015-02-01,0,denar,ME,Denar
+2015-03-01,1,denar,ME,Denar
+2015-04-01,0,denar,ME,Denar
+2015-05-01,1,denar,ME,Denar
+2015-06-01,1,denar,ME,Denar
+2015-07-01,0,denar,ME,Denar
+2015-08-01,0,denar,ME,Denar
+2015-09-01,0,denar,ME,Denar
+2015-10-01,0,denar,ME,Denar
+2015-11-01,0,denar,ME,Denar
+2015-12-01,0,denar,ME,Denar
+2016-01-01,0,denar,ME,Denar
+2016-02-01,0,denar,ME,Denar
+2016-03-01,0,denar,ME,Denar
+2016-04-01,0,denar,ME,Denar
+2016-05-01,0,denar,ME,Denar
+2016-06-01,1,denar,ME,Denar
+2016-07-01,1,denar,ME,Denar
+2016-08-01,0,denar,ME,Denar
+2016-09-01,0,denar,ME,Denar
+2016-10-01,0,denar,ME,Denar
+2016-11-01,0,denar,ME,Denar
+2016-12-01,0,denar,ME,Denar
+2017-01-01,0,denar,ME,Denar
+2017-02-01,0,denar,ME,Denar
+2017-03-01,0,denar,ME,Denar
+2017-04-01,1,denar,ME,Denar
+2017-05-01,0,denar,ME,Denar
+2017-06-01,0,denar,ME,Denar
+2017-07-01,0,denar,ME,Denar
+2017-08-01,0,denar,ME,Denar
+2017-09-01,2,denar,ME,Denar
+2017-10-01,0,denar,ME,Denar
+2017-11-01,0,denar,ME,Denar
+2017-12-01,0,denar,ME,Denar
+2018-01-01,0,denar,ME,Denar
+2018-02-01,0,denar,ME,Denar
+2018-03-01,1,denar,ME,Denar
+2018-04-01,0,denar,ME,Denar
+2018-05-01,0,denar,ME,Denar
+2018-06-01,0,denar,ME,Denar
+2018-07-01,0,denar,ME,Denar
+2018-08-01,1,denar,ME,Denar
+2018-09-01,0,denar,ME,Denar
+2018-10-01,0,denar,ME,Denar
+2018-11-01,0,denar,ME,Denar
+2018-12-01,0,denar,ME,Denar
+2019-01-01,0,denar,ME,Denar
+2019-02-01,0,denar,ME,Denar
+2019-03-01,1,denar,ME,Denar
+2019-04-01,0,denar,ME,Denar
+2019-05-01,1,denar,ME,Denar
+2019-06-01,0,denar,ME,Denar
+2019-07-01,0,denar,ME,Denar
+2019-08-01,0,denar,ME,Denar
+2019-09-01,0,denar,ME,Denar
+2019-10-01,1,denar,ME,Denar
+2019-11-01,0,denar,ME,Denar
+2019-12-01,1,denar,ME,Denar
+2020-01-01,1,denar,ME,Denar
+2020-02-01,1,denar,ME,Denar
+2020-03-01,0,denar,ME,Denar
+2020-04-01,0,denar,ME,Denar
+2020-05-01,0,denar,ME,Denar
+2020-06-01,0,denar,ME,Denar
+2020-07-01,0,denar,ME,Denar
+2020-08-01,0,denar,ME,Denar
+2020-09-01,0,denar,ME,Denar
+2020-10-01,0,denar,ME,Denar
+2020-11-01,0,denar,ME,Denar
+2020-12-01,0,denar,ME,Denar
+2021-01-01,0,denar,ME,Denar
+2021-02-01,0,denar,ME,Denar
+2021-03-01,0,denar,ME,Denar
+2021-04-01,0,denar,ME,Denar
+2021-05-01,1,denar,ME,Denar
+2021-06-01,1,denar,ME,Denar
+2021-07-01,0,denar,ME,Denar
+2021-08-01,0,denar,ME,Denar
+2021-09-01,0,denar,ME,Denar
+2021-10-01,0,denar,ME,Denar
+2021-11-01,0,denar,ME,Denar
+2021-12-01,0,denar,ME,Denar
+2022-01-01,0,denar,ME,Denar
+2022-02-01,0,denar,ME,Denar
+2022-03-01,1,denar,ME,Denar
+2022-04-01,1,denar,ME,Denar
+2022-05-01,1,denar,ME,Denar
+2022-06-01,1,denar,ME,Denar
+2022-07-01,1,denar,ME,Denar
+2022-08-01,1,denar,ME,Denar
+2022-09-01,0,denar,ME,Denar
+2022-10-01,0,denar,ME,Denar
+2022-11-01,0,denar,ME,Denar
+2022-12-01,1,denar,ME,Denar
+2023-01-01,1,denar,ME,Denar
+2005-01-01,0,turska lira,ME,Turkish Lira
+2005-02-01,0,turska lira,ME,Turkish Lira
+2005-03-01,0,turska lira,ME,Turkish Lira
+2005-04-01,93,turska lira,ME,Turkish Lira
+2005-05-01,100,turska lira,ME,Turkish Lira
+2005-06-01,0,turska lira,ME,Turkish Lira
+2005-07-01,0,turska lira,ME,Turkish Lira
+2005-08-01,0,turska lira,ME,Turkish Lira
+2005-09-01,0,turska lira,ME,Turkish Lira
+2005-10-01,0,turska lira,ME,Turkish Lira
+2005-11-01,0,turska lira,ME,Turkish Lira
+2005-12-01,0,turska lira,ME,Turkish Lira
+2006-01-01,70,turska lira,ME,Turkish Lira
+2006-02-01,0,turska lira,ME,Turkish Lira
+2006-03-01,0,turska lira,ME,Turkish Lira
+2006-04-01,0,turska lira,ME,Turkish Lira
+2006-05-01,0,turska lira,ME,Turkish Lira
+2006-06-01,0,turska lira,ME,Turkish Lira
+2006-07-01,0,turska lira,ME,Turkish Lira
+2006-08-01,0,turska lira,ME,Turkish Lira
+2006-09-01,100,turska lira,ME,Turkish Lira
+2006-10-01,0,turska lira,ME,Turkish Lira
+2006-11-01,0,turska lira,ME,Turkish Lira
+2006-12-01,0,turska lira,ME,Turkish Lira
+2007-01-01,25,turska lira,ME,Turkish Lira
+2007-02-01,0,turska lira,ME,Turkish Lira
+2007-03-01,0,turska lira,ME,Turkish Lira
+2007-04-01,0,turska lira,ME,Turkish Lira
+2007-05-01,0,turska lira,ME,Turkish Lira
+2007-06-01,0,turska lira,ME,Turkish Lira
+2007-07-01,0,turska lira,ME,Turkish Lira
+2007-08-01,0,turska lira,ME,Turkish Lira
+2007-09-01,0,turska lira,ME,Turkish Lira
+2007-10-01,0,turska lira,ME,Turkish Lira
+2007-11-01,0,turska lira,ME,Turkish Lira
+2007-12-01,0,turska lira,ME,Turkish Lira
+2008-01-01,0,turska lira,ME,Turkish Lira
+2008-02-01,0,turska lira,ME,Turkish Lira
+2008-03-01,0,turska lira,ME,Turkish Lira
+2008-04-01,0,turska lira,ME,Turkish Lira
+2008-05-01,0,turska lira,ME,Turkish Lira
+2008-06-01,0,turska lira,ME,Turkish Lira
+2008-07-01,0,turska lira,ME,Turkish Lira
+2008-08-01,22,turska lira,ME,Turkish Lira
+2008-09-01,0,turska lira,ME,Turkish Lira
+2008-10-01,0,turska lira,ME,Turkish Lira
+2008-11-01,0,turska lira,ME,Turkish Lira
+2008-12-01,0,turska lira,ME,Turkish Lira
+2009-01-01,0,turska lira,ME,Turkish Lira
+2009-02-01,25,turska lira,ME,Turkish Lira
+2009-03-01,0,turska lira,ME,Turkish Lira
+2009-04-01,19,turska lira,ME,Turkish Lira
+2009-05-01,0,turska lira,ME,Turkish Lira
+2009-06-01,19,turska lira,ME,Turkish Lira
+2009-07-01,0,turska lira,ME,Turkish Lira
+2009-08-01,59,turska lira,ME,Turkish Lira
+2009-09-01,0,turska lira,ME,Turkish Lira
+2009-10-01,0,turska lira,ME,Turkish Lira
+2009-11-01,0,turska lira,ME,Turkish Lira
+2009-12-01,0,turska lira,ME,Turkish Lira
+2010-01-01,0,turska lira,ME,Turkish Lira
+2010-02-01,40,turska lira,ME,Turkish Lira
+2010-03-01,0,turska lira,ME,Turkish Lira
+2010-04-01,0,turska lira,ME,Turkish Lira
+2010-05-01,0,turska lira,ME,Turkish Lira
+2010-06-01,0,turska lira,ME,Turkish Lira
+2010-07-01,0,turska lira,ME,Turkish Lira
+2010-08-01,0,turska lira,ME,Turkish Lira
+2010-09-01,0,turska lira,ME,Turkish Lira
+2010-10-01,23,turska lira,ME,Turkish Lira
+2010-11-01,0,turska lira,ME,Turkish Lira
+2010-12-01,0,turska lira,ME,Turkish Lira
+2011-01-01,0,turska lira,ME,Turkish Lira
+2011-02-01,8,turska lira,ME,Turkish Lira
+2011-03-01,0,turska lira,ME,Turkish Lira
+2011-04-01,7,turska lira,ME,Turkish Lira
+2011-05-01,6,turska lira,ME,Turkish Lira
+2011-06-01,2,turska lira,ME,Turkish Lira
+2011-07-01,3,turska lira,ME,Turkish Lira
+2011-08-01,4,turska lira,ME,Turkish Lira
+2011-09-01,2,turska lira,ME,Turkish Lira
+2011-10-01,0,turska lira,ME,Turkish Lira
+2011-11-01,0,turska lira,ME,Turkish Lira
+2011-12-01,0,turska lira,ME,Turkish Lira
+2012-01-01,0,turska lira,ME,Turkish Lira
+2012-02-01,1,turska lira,ME,Turkish Lira
+2012-03-01,0,turska lira,ME,Turkish Lira
+2012-04-01,0,turska lira,ME,Turkish Lira
+2012-05-01,1,turska lira,ME,Turkish Lira
+2012-06-01,0,turska lira,ME,Turkish Lira
+2012-07-01,0,turska lira,ME,Turkish Lira
+2012-08-01,0,turska lira,ME,Turkish Lira
+2012-09-01,0,turska lira,ME,Turkish Lira
+2012-10-01,0,turska lira,ME,Turkish Lira
+2012-11-01,0,turska lira,ME,Turkish Lira
+2012-12-01,0,turska lira,ME,Turkish Lira
+2013-01-01,0,turska lira,ME,Turkish Lira
+2013-02-01,0,turska lira,ME,Turkish Lira
+2013-03-01,0,turska lira,ME,Turkish Lira
+2013-04-01,0,turska lira,ME,Turkish Lira
+2013-05-01,0,turska lira,ME,Turkish Lira
+2013-06-01,0,turska lira,ME,Turkish Lira
+2013-07-01,0,turska lira,ME,Turkish Lira
+2013-08-01,0,turska lira,ME,Turkish Lira
+2013-09-01,0,turska lira,ME,Turkish Lira
+2013-10-01,0,turska lira,ME,Turkish Lira
+2013-11-01,1,turska lira,ME,Turkish Lira
+2013-12-01,0,turska lira,ME,Turkish Lira
+2014-01-01,0,turska lira,ME,Turkish Lira
+2014-02-01,1,turska lira,ME,Turkish Lira
+2014-03-01,1,turska lira,ME,Turkish Lira
+2014-04-01,0,turska lira,ME,Turkish Lira
+2014-05-01,1,turska lira,ME,Turkish Lira
+2014-06-01,1,turska lira,ME,Turkish Lira
+2014-07-01,1,turska lira,ME,Turkish Lira
+2014-08-01,1,turska lira,ME,Turkish Lira
+2014-09-01,0,turska lira,ME,Turkish Lira
+2014-10-01,0,turska lira,ME,Turkish Lira
+2014-11-01,0,turska lira,ME,Turkish Lira
+2014-12-01,0,turska lira,ME,Turkish Lira
+2015-01-01,2,turska lira,ME,Turkish Lira
+2015-02-01,0,turska lira,ME,Turkish Lira
+2015-03-01,0,turska lira,ME,Turkish Lira
+2015-04-01,0,turska lira,ME,Turkish Lira
+2015-05-01,0,turska lira,ME,Turkish Lira
+2015-06-01,0,turska lira,ME,Turkish Lira
+2015-07-01,0,turska lira,ME,Turkish Lira
+2015-08-01,0,turska lira,ME,Turkish Lira
+2015-09-01,0,turska lira,ME,Turkish Lira
+2015-10-01,0,turska lira,ME,Turkish Lira
+2015-11-01,0,turska lira,ME,Turkish Lira
+2015-12-01,0,turska lira,ME,Turkish Lira
+2016-01-01,0,turska lira,ME,Turkish Lira
+2016-02-01,0,turska lira,ME,Turkish Lira
+2016-03-01,1,turska lira,ME,Turkish Lira
+2016-04-01,0,turska lira,ME,Turkish Lira
+2016-05-01,0,turska lira,ME,Turkish Lira
+2016-06-01,0,turska lira,ME,Turkish Lira
+2016-07-01,0,turska lira,ME,Turkish Lira
+2016-08-01,0,turska lira,ME,Turkish Lira
+2016-09-01,0,turska lira,ME,Turkish Lira
+2016-10-01,0,turska lira,ME,Turkish Lira
+2016-11-01,0,turska lira,ME,Turkish Lira
+2016-12-01,0,turska lira,ME,Turkish Lira
+2017-01-01,2,turska lira,ME,Turkish Lira
+2017-02-01,0,turska lira,ME,Turkish Lira
+2017-03-01,0,turska lira,ME,Turkish Lira
+2017-04-01,0,turska lira,ME,Turkish Lira
+2017-05-01,1,turska lira,ME,Turkish Lira
+2017-06-01,0,turska lira,ME,Turkish Lira
+2017-07-01,0,turska lira,ME,Turkish Lira
+2017-08-01,0,turska lira,ME,Turkish Lira
+2017-09-01,0,turska lira,ME,Turkish Lira
+2017-10-01,1,turska lira,ME,Turkish Lira
+2017-11-01,0,turska lira,ME,Turkish Lira
+2017-12-01,0,turska lira,ME,Turkish Lira
+2018-01-01,0,turska lira,ME,Turkish Lira
+2018-02-01,0,turska lira,ME,Turkish Lira
+2018-03-01,0,turska lira,ME,Turkish Lira
+2018-04-01,1,turska lira,ME,Turkish Lira
+2018-05-01,0,turska lira,ME,Turkish Lira
+2018-06-01,1,turska lira,ME,Turkish Lira
+2018-07-01,0,turska lira,ME,Turkish Lira
+2018-08-01,0,turska lira,ME,Turkish Lira
+2018-09-01,0,turska lira,ME,Turkish Lira
+2018-10-01,0,turska lira,ME,Turkish Lira
+2018-11-01,3,turska lira,ME,Turkish Lira
+2018-12-01,1,turska lira,ME,Turkish Lira
+2019-01-01,0,turska lira,ME,Turkish Lira
+2019-02-01,1,turska lira,ME,Turkish Lira
+2019-03-01,2,turska lira,ME,Turkish Lira
+2019-04-01,0,turska lira,ME,Turkish Lira
+2019-05-01,2,turska lira,ME,Turkish Lira
+2019-06-01,0,turska lira,ME,Turkish Lira
+2019-07-01,1,turska lira,ME,Turkish Lira
+2019-08-01,0,turska lira,ME,Turkish Lira
+2019-09-01,1,turska lira,ME,Turkish Lira
+2019-10-01,3,turska lira,ME,Turkish Lira
+2019-11-01,1,turska lira,ME,Turkish Lira
+2019-12-01,0,turska lira,ME,Turkish Lira
+2020-01-01,0,turska lira,ME,Turkish Lira
+2020-02-01,1,turska lira,ME,Turkish Lira
+2020-03-01,1,turska lira,ME,Turkish Lira
+2020-04-01,1,turska lira,ME,Turkish Lira
+2020-05-01,0,turska lira,ME,Turkish Lira
+2020-06-01,3,turska lira,ME,Turkish Lira
+2020-07-01,0,turska lira,ME,Turkish Lira
+2020-08-01,0,turska lira,ME,Turkish Lira
+2020-09-01,1,turska lira,ME,Turkish Lira
+2020-10-01,1,turska lira,ME,Turkish Lira
+2020-11-01,1,turska lira,ME,Turkish Lira
+2020-12-01,1,turska lira,ME,Turkish Lira
+2021-01-01,1,turska lira,ME,Turkish Lira
+2021-02-01,1,turska lira,ME,Turkish Lira
+2021-03-01,0,turska lira,ME,Turkish Lira
+2021-04-01,1,turska lira,ME,Turkish Lira
+2021-05-01,1,turska lira,ME,Turkish Lira
+2021-06-01,2,turska lira,ME,Turkish Lira
+2021-07-01,2,turska lira,ME,Turkish Lira
+2021-08-01,0,turska lira,ME,Turkish Lira
+2021-09-01,1,turska lira,ME,Turkish Lira
+2021-10-01,1,turska lira,ME,Turkish Lira
+2021-11-01,1,turska lira,ME,Turkish Lira
+2021-12-01,1,turska lira,ME,Turkish Lira
+2022-01-01,1,turska lira,ME,Turkish Lira
+2022-02-01,1,turska lira,ME,Turkish Lira
+2022-03-01,0,turska lira,ME,Turkish Lira
+2022-04-01,3,turska lira,ME,Turkish Lira
+2022-05-01,0,turska lira,ME,Turkish Lira
+2022-06-01,1,turska lira,ME,Turkish Lira
+2022-07-01,1,turska lira,ME,Turkish Lira
+2022-08-01,1,turska lira,ME,Turkish Lira
+2022-09-01,1,turska lira,ME,Turkish Lira
+2022-10-01,1,turska lira,ME,Turkish Lira
+2022-11-01,1,turska lira,ME,Turkish Lira
+2022-12-01,1,turska lira,ME,Turkish Lira
+2023-01-01,1,turska lira,ME,Turkish Lira
+2005-01-01,0,balboa,ME,Balboa
+2005-02-01,100,balboa,ME,Balboa
+2005-03-01,0,balboa,ME,Balboa
+2005-04-01,0,balboa,ME,Balboa
+2005-05-01,0,balboa,ME,Balboa
+2005-06-01,0,balboa,ME,Balboa
+2005-07-01,0,balboa,ME,Balboa
+2005-08-01,0,balboa,ME,Balboa
+2005-09-01,0,balboa,ME,Balboa
+2005-10-01,0,balboa,ME,Balboa
+2005-11-01,0,balboa,ME,Balboa
+2005-12-01,0,balboa,ME,Balboa
+2006-01-01,0,balboa,ME,Balboa
+2006-02-01,0,balboa,ME,Balboa
+2006-03-01,0,balboa,ME,Balboa
+2006-04-01,0,balboa,ME,Balboa
+2006-05-01,0,balboa,ME,Balboa
+2006-06-01,0,balboa,ME,Balboa
+2006-07-01,0,balboa,ME,Balboa
+2006-08-01,0,balboa,ME,Balboa
+2006-09-01,0,balboa,ME,Balboa
+2006-10-01,0,balboa,ME,Balboa
+2006-11-01,27,balboa,ME,Balboa
+2006-12-01,44,balboa,ME,Balboa
+2007-01-01,0,balboa,ME,Balboa
+2007-02-01,0,balboa,ME,Balboa
+2007-03-01,0,balboa,ME,Balboa
+2007-04-01,0,balboa,ME,Balboa
+2007-05-01,26,balboa,ME,Balboa
+2007-06-01,0,balboa,ME,Balboa
+2007-07-01,0,balboa,ME,Balboa
+2007-08-01,0,balboa,ME,Balboa
+2007-09-01,0,balboa,ME,Balboa
+2007-10-01,0,balboa,ME,Balboa
+2007-11-01,18,balboa,ME,Balboa
+2007-12-01,17,balboa,ME,Balboa
+2008-01-01,0,balboa,ME,Balboa
+2008-02-01,0,balboa,ME,Balboa
+2008-03-01,0,balboa,ME,Balboa
+2008-04-01,0,balboa,ME,Balboa
+2008-05-01,0,balboa,ME,Balboa
+2008-06-01,0,balboa,ME,Balboa
+2008-07-01,0,balboa,ME,Balboa
+2008-08-01,0,balboa,ME,Balboa
+2008-09-01,0,balboa,ME,Balboa
+2008-10-01,0,balboa,ME,Balboa
+2008-11-01,0,balboa,ME,Balboa
+2008-12-01,0,balboa,ME,Balboa
+2009-01-01,0,balboa,ME,Balboa
+2009-02-01,0,balboa,ME,Balboa
+2009-03-01,0,balboa,ME,Balboa
+2009-04-01,23,balboa,ME,Balboa
+2009-05-01,0,balboa,ME,Balboa
+2009-06-01,0,balboa,ME,Balboa
+2009-07-01,0,balboa,ME,Balboa
+2009-08-01,0,balboa,ME,Balboa
+2009-09-01,42,balboa,ME,Balboa
+2009-10-01,41,balboa,ME,Balboa
+2009-11-01,0,balboa,ME,Balboa
+2009-12-01,0,balboa,ME,Balboa
+2010-01-01,0,balboa,ME,Balboa
+2010-02-01,42,balboa,ME,Balboa
+2010-03-01,0,balboa,ME,Balboa
+2010-04-01,0,balboa,ME,Balboa
+2010-05-01,46,balboa,ME,Balboa
+2010-06-01,0,balboa,ME,Balboa
+2010-07-01,0,balboa,ME,Balboa
+2010-08-01,0,balboa,ME,Balboa
+2010-09-01,20,balboa,ME,Balboa
+2010-10-01,0,balboa,ME,Balboa
+2010-11-01,0,balboa,ME,Balboa
+2010-12-01,0,balboa,ME,Balboa
+2011-01-01,0,balboa,ME,Balboa
+2011-02-01,7,balboa,ME,Balboa
+2011-03-01,0,balboa,ME,Balboa
+2011-04-01,0,balboa,ME,Balboa
+2011-05-01,0,balboa,ME,Balboa
+2011-06-01,0,balboa,ME,Balboa
+2011-07-01,2,balboa,ME,Balboa
+2011-08-01,0,balboa,ME,Balboa
+2011-09-01,2,balboa,ME,Balboa
+2011-10-01,0,balboa,ME,Balboa
+2011-11-01,0,balboa,ME,Balboa
+2011-12-01,1,balboa,ME,Balboa
+2012-01-01,0,balboa,ME,Balboa
+2012-02-01,0,balboa,ME,Balboa
+2012-03-01,0,balboa,ME,Balboa
+2012-04-01,0,balboa,ME,Balboa
+2012-05-01,0,balboa,ME,Balboa
+2012-06-01,2,balboa,ME,Balboa
+2012-07-01,5,balboa,ME,Balboa
+2012-08-01,2,balboa,ME,Balboa
+2012-09-01,0,balboa,ME,Balboa
+2012-10-01,2,balboa,ME,Balboa
+2012-11-01,0,balboa,ME,Balboa
+2012-12-01,0,balboa,ME,Balboa
+2013-01-01,4,balboa,ME,Balboa
+2013-02-01,0,balboa,ME,Balboa
+2013-03-01,0,balboa,ME,Balboa
+2013-04-01,0,balboa,ME,Balboa
+2013-05-01,0,balboa,ME,Balboa
+2013-06-01,0,balboa,ME,Balboa
+2013-07-01,2,balboa,ME,Balboa
+2013-08-01,0,balboa,ME,Balboa
+2013-09-01,0,balboa,ME,Balboa
+2013-10-01,1,balboa,ME,Balboa
+2013-11-01,1,balboa,ME,Balboa
+2013-12-01,0,balboa,ME,Balboa
+2014-01-01,1,balboa,ME,Balboa
+2014-02-01,1,balboa,ME,Balboa
+2014-03-01,0,balboa,ME,Balboa
+2014-04-01,0,balboa,ME,Balboa
+2014-05-01,2,balboa,ME,Balboa
+2014-06-01,0,balboa,ME,Balboa
+2014-07-01,4,balboa,ME,Balboa
+2014-08-01,0,balboa,ME,Balboa
+2014-09-01,0,balboa,ME,Balboa
+2014-10-01,2,balboa,ME,Balboa
+2014-11-01,0,balboa,ME,Balboa
+2014-12-01,2,balboa,ME,Balboa
+2015-01-01,0,balboa,ME,Balboa
+2015-02-01,0,balboa,ME,Balboa
+2015-03-01,1,balboa,ME,Balboa
+2015-04-01,0,balboa,ME,Balboa
+2015-05-01,0,balboa,ME,Balboa
+2015-06-01,1,balboa,ME,Balboa
+2015-07-01,0,balboa,ME,Balboa
+2015-08-01,0,balboa,ME,Balboa
+2015-09-01,0,balboa,ME,Balboa
+2015-10-01,0,balboa,ME,Balboa
+2015-11-01,0,balboa,ME,Balboa
+2015-12-01,2,balboa,ME,Balboa
+2016-01-01,0,balboa,ME,Balboa
+2016-02-01,0,balboa,ME,Balboa
+2016-03-01,0,balboa,ME,Balboa
+2016-04-01,1,balboa,ME,Balboa
+2016-05-01,0,balboa,ME,Balboa
+2016-06-01,1,balboa,ME,Balboa
+2016-07-01,0,balboa,ME,Balboa
+2016-08-01,0,balboa,ME,Balboa
+2016-09-01,2,balboa,ME,Balboa
+2016-10-01,4,balboa,ME,Balboa
+2016-11-01,0,balboa,ME,Balboa
+2016-12-01,0,balboa,ME,Balboa
+2017-01-01,0,balboa,ME,Balboa
+2017-02-01,1,balboa,ME,Balboa
+2017-03-01,2,balboa,ME,Balboa
+2017-04-01,3,balboa,ME,Balboa
+2017-05-01,0,balboa,ME,Balboa
+2017-06-01,2,balboa,ME,Balboa
+2017-07-01,0,balboa,ME,Balboa
+2017-08-01,0,balboa,ME,Balboa
+2017-09-01,0,balboa,ME,Balboa
+2017-10-01,0,balboa,ME,Balboa
+2017-11-01,1,balboa,ME,Balboa
+2017-12-01,1,balboa,ME,Balboa
+2018-01-01,0,balboa,ME,Balboa
+2018-02-01,0,balboa,ME,Balboa
+2018-03-01,0,balboa,ME,Balboa
+2018-04-01,1,balboa,ME,Balboa
+2018-05-01,0,balboa,ME,Balboa
+2018-06-01,0,balboa,ME,Balboa
+2018-07-01,0,balboa,ME,Balboa
+2018-08-01,1,balboa,ME,Balboa
+2018-09-01,0,balboa,ME,Balboa
+2018-10-01,0,balboa,ME,Balboa
+2018-11-01,1,balboa,ME,Balboa
+2018-12-01,0,balboa,ME,Balboa
+2019-01-01,0,balboa,ME,Balboa
+2019-02-01,0,balboa,ME,Balboa
+2019-03-01,0,balboa,ME,Balboa
+2019-04-01,1,balboa,ME,Balboa
+2019-05-01,2,balboa,ME,Balboa
+2019-06-01,1,balboa,ME,Balboa
+2019-07-01,2,balboa,ME,Balboa
+2019-08-01,1,balboa,ME,Balboa
+2019-09-01,0,balboa,ME,Balboa
+2019-10-01,0,balboa,ME,Balboa
+2019-11-01,0,balboa,ME,Balboa
+2019-12-01,0,balboa,ME,Balboa
+2020-01-01,0,balboa,ME,Balboa
+2020-02-01,0,balboa,ME,Balboa
+2020-03-01,0,balboa,ME,Balboa
+2020-04-01,0,balboa,ME,Balboa
+2020-05-01,0,balboa,ME,Balboa
+2020-06-01,1,balboa,ME,Balboa
+2020-07-01,0,balboa,ME,Balboa
+2020-08-01,1,balboa,ME,Balboa
+2020-09-01,0,balboa,ME,Balboa
+2020-10-01,1,balboa,ME,Balboa
+2020-11-01,0,balboa,ME,Balboa
+2020-12-01,1,balboa,ME,Balboa
+2021-01-01,2,balboa,ME,Balboa
+2021-02-01,2,balboa,ME,Balboa
+2021-03-01,0,balboa,ME,Balboa
+2021-04-01,0,balboa,ME,Balboa
+2021-05-01,0,balboa,ME,Balboa
+2021-06-01,0,balboa,ME,Balboa
+2021-07-01,0,balboa,ME,Balboa
+2021-08-01,1,balboa,ME,Balboa
+2021-09-01,0,balboa,ME,Balboa
+2021-10-01,0,balboa,ME,Balboa
+2021-11-01,0,balboa,ME,Balboa
+2021-12-01,2,balboa,ME,Balboa
+2022-01-01,1,balboa,ME,Balboa
+2022-02-01,1,balboa,ME,Balboa
+2022-03-01,0,balboa,ME,Balboa
+2022-04-01,1,balboa,ME,Balboa
+2022-05-01,0,balboa,ME,Balboa
+2022-06-01,0,balboa,ME,Balboa
+2022-07-01,0,balboa,ME,Balboa
+2022-08-01,1,balboa,ME,Balboa
+2022-09-01,0,balboa,ME,Balboa
+2022-10-01,1,balboa,ME,Balboa
+2022-11-01,1,balboa,ME,Balboa
+2022-12-01,0,balboa,ME,Balboa
+2023-01-01,0,balboa,ME,Balboa
+2005-01-01,0,pogledaj,ME,Tala
+2005-02-01,79,pogledaj,ME,Tala
+2005-03-01,0,pogledaj,ME,Tala
+2005-04-01,0,pogledaj,ME,Tala
+2005-05-01,0,pogledaj,ME,Tala
+2005-06-01,0,pogledaj,ME,Tala
+2005-07-01,0,pogledaj,ME,Tala
+2005-08-01,0,pogledaj,ME,Tala
+2005-09-01,0,pogledaj,ME,Tala
+2005-10-01,0,pogledaj,ME,Tala
+2005-11-01,0,pogledaj,ME,Tala
+2005-12-01,0,pogledaj,ME,Tala
+2006-01-01,47,pogledaj,ME,Tala
+2006-02-01,36,pogledaj,ME,Tala
+2006-03-01,0,pogledaj,ME,Tala
+2006-04-01,0,pogledaj,ME,Tala
+2006-05-01,0,pogledaj,ME,Tala
+2006-06-01,0,pogledaj,ME,Tala
+2006-07-01,0,pogledaj,ME,Tala
+2006-08-01,0,pogledaj,ME,Tala
+2006-09-01,100,pogledaj,ME,Tala
+2006-10-01,0,pogledaj,ME,Tala
+2006-11-01,0,pogledaj,ME,Tala
+2006-12-01,0,pogledaj,ME,Tala
+2007-01-01,41,pogledaj,ME,Tala
+2007-02-01,0,pogledaj,ME,Tala
+2007-03-01,0,pogledaj,ME,Tala
+2007-04-01,0,pogledaj,ME,Tala
+2007-05-01,0,pogledaj,ME,Tala
+2007-06-01,0,pogledaj,ME,Tala
+2007-07-01,0,pogledaj,ME,Tala
+2007-08-01,0,pogledaj,ME,Tala
+2007-09-01,93,pogledaj,ME,Tala
+2007-10-01,19,pogledaj,ME,Tala
+2007-11-01,0,pogledaj,ME,Tala
+2007-12-01,0,pogledaj,ME,Tala
+2008-01-01,0,pogledaj,ME,Tala
+2008-02-01,0,pogledaj,ME,Tala
+2008-03-01,0,pogledaj,ME,Tala
+2008-04-01,0,pogledaj,ME,Tala
+2008-05-01,0,pogledaj,ME,Tala
+2008-06-01,0,pogledaj,ME,Tala
+2008-07-01,0,pogledaj,ME,Tala
+2008-08-01,0,pogledaj,ME,Tala
+2008-09-01,0,pogledaj,ME,Tala
+2008-10-01,0,pogledaj,ME,Tala
+2008-11-01,0,pogledaj,ME,Tala
+2008-12-01,0,pogledaj,ME,Tala
+2009-01-01,0,pogledaj,ME,Tala
+2009-02-01,0,pogledaj,ME,Tala
+2009-03-01,0,pogledaj,ME,Tala
+2009-04-01,0,pogledaj,ME,Tala
+2009-05-01,0,pogledaj,ME,Tala
+2009-06-01,0,pogledaj,ME,Tala
+2009-07-01,0,pogledaj,ME,Tala
+2009-08-01,0,pogledaj,ME,Tala
+2009-09-01,0,pogledaj,ME,Tala
+2009-10-01,0,pogledaj,ME,Tala
+2009-11-01,0,pogledaj,ME,Tala
+2009-12-01,0,pogledaj,ME,Tala
+2010-01-01,27,pogledaj,ME,Tala
+2010-02-01,0,pogledaj,ME,Tala
+2010-03-01,38,pogledaj,ME,Tala
+2010-04-01,0,pogledaj,ME,Tala
+2010-05-01,0,pogledaj,ME,Tala
+2010-06-01,0,pogledaj,ME,Tala
+2010-07-01,0,pogledaj,ME,Tala
+2010-08-01,0,pogledaj,ME,Tala
+2010-09-01,0,pogledaj,ME,Tala
+2010-10-01,0,pogledaj,ME,Tala
+2010-11-01,51,pogledaj,ME,Tala
+2010-12-01,0,pogledaj,ME,Tala
+2011-01-01,2,pogledaj,ME,Tala
+2011-02-01,0,pogledaj,ME,Tala
+2011-03-01,2,pogledaj,ME,Tala
+2011-04-01,2,pogledaj,ME,Tala
+2011-05-01,4,pogledaj,ME,Tala
+2011-06-01,0,pogledaj,ME,Tala
+2011-07-01,6,pogledaj,ME,Tala
+2011-08-01,0,pogledaj,ME,Tala
+2011-09-01,4,pogledaj,ME,Tala
+2011-10-01,0,pogledaj,ME,Tala
+2011-11-01,6,pogledaj,ME,Tala
+2011-12-01,0,pogledaj,ME,Tala
+2012-01-01,2,pogledaj,ME,Tala
+2012-02-01,0,pogledaj,ME,Tala
+2012-03-01,1,pogledaj,ME,Tala
+2012-04-01,2,pogledaj,ME,Tala
+2012-05-01,0,pogledaj,ME,Tala
+2012-06-01,4,pogledaj,ME,Tala
+2012-07-01,2,pogledaj,ME,Tala
+2012-08-01,4,pogledaj,ME,Tala
+2012-09-01,2,pogledaj,ME,Tala
+2012-10-01,3,pogledaj,ME,Tala
+2012-11-01,2,pogledaj,ME,Tala
+2012-12-01,3,pogledaj,ME,Tala
+2013-01-01,2,pogledaj,ME,Tala
+2013-02-01,2,pogledaj,ME,Tala
+2013-03-01,2,pogledaj,ME,Tala
+2013-04-01,0,pogledaj,ME,Tala
+2013-05-01,1,pogledaj,ME,Tala
+2013-06-01,5,pogledaj,ME,Tala
+2013-07-01,8,pogledaj,ME,Tala
+2013-08-01,4,pogledaj,ME,Tala
+2013-09-01,5,pogledaj,ME,Tala
+2013-10-01,4,pogledaj,ME,Tala
+2013-11-01,3,pogledaj,ME,Tala
+2013-12-01,3,pogledaj,ME,Tala
+2014-01-01,2,pogledaj,ME,Tala
+2014-02-01,3,pogledaj,ME,Tala
+2014-03-01,0,pogledaj,ME,Tala
+2014-04-01,3,pogledaj,ME,Tala
+2014-05-01,3,pogledaj,ME,Tala
+2014-06-01,2,pogledaj,ME,Tala
+2014-07-01,2,pogledaj,ME,Tala
+2014-08-01,2,pogledaj,ME,Tala
+2014-09-01,2,pogledaj,ME,Tala
+2014-10-01,2,pogledaj,ME,Tala
+2014-11-01,1,pogledaj,ME,Tala
+2014-12-01,3,pogledaj,ME,Tala
+2015-01-01,4,pogledaj,ME,Tala
+2015-02-01,3,pogledaj,ME,Tala
+2015-03-01,2,pogledaj,ME,Tala
+2015-04-01,1,pogledaj,ME,Tala
+2015-05-01,3,pogledaj,ME,Tala
+2015-06-01,1,pogledaj,ME,Tala
+2015-07-01,2,pogledaj,ME,Tala
+2015-08-01,1,pogledaj,ME,Tala
+2015-09-01,0,pogledaj,ME,Tala
+2015-10-01,2,pogledaj,ME,Tala
+2015-11-01,0,pogledaj,ME,Tala
+2015-12-01,1,pogledaj,ME,Tala
+2016-01-01,0,pogledaj,ME,Tala
+2016-02-01,1,pogledaj,ME,Tala
+2016-03-01,1,pogledaj,ME,Tala
+2016-04-01,0,pogledaj,ME,Tala
+2016-05-01,0,pogledaj,ME,Tala
+2016-06-01,1,pogledaj,ME,Tala
+2016-07-01,0,pogledaj,ME,Tala
+2016-08-01,2,pogledaj,ME,Tala
+2016-09-01,0,pogledaj,ME,Tala
+2016-10-01,0,pogledaj,ME,Tala
+2016-11-01,1,pogledaj,ME,Tala
+2016-12-01,1,pogledaj,ME,Tala
+2017-01-01,2,pogledaj,ME,Tala
+2017-02-01,2,pogledaj,ME,Tala
+2017-03-01,2,pogledaj,ME,Tala
+2017-04-01,1,pogledaj,ME,Tala
+2017-05-01,0,pogledaj,ME,Tala
+2017-06-01,0,pogledaj,ME,Tala
+2017-07-01,0,pogledaj,ME,Tala
+2017-08-01,1,pogledaj,ME,Tala
+2017-09-01,0,pogledaj,ME,Tala
+2017-10-01,0,pogledaj,ME,Tala
+2017-11-01,2,pogledaj,ME,Tala
+2017-12-01,2,pogledaj,ME,Tala
+2018-01-01,2,pogledaj,ME,Tala
+2018-02-01,1,pogledaj,ME,Tala
+2018-03-01,0,pogledaj,ME,Tala
+2018-04-01,0,pogledaj,ME,Tala
+2018-05-01,1,pogledaj,ME,Tala
+2018-06-01,0,pogledaj,ME,Tala
+2018-07-01,1,pogledaj,ME,Tala
+2018-08-01,1,pogledaj,ME,Tala
+2018-09-01,1,pogledaj,ME,Tala
+2018-10-01,0,pogledaj,ME,Tala
+2018-11-01,3,pogledaj,ME,Tala
+2018-12-01,2,pogledaj,ME,Tala
+2019-01-01,1,pogledaj,ME,Tala
+2019-02-01,2,pogledaj,ME,Tala
+2019-03-01,1,pogledaj,ME,Tala
+2019-04-01,1,pogledaj,ME,Tala
+2019-05-01,1,pogledaj,ME,Tala
+2019-06-01,2,pogledaj,ME,Tala
+2019-07-01,0,pogledaj,ME,Tala
+2019-08-01,1,pogledaj,ME,Tala
+2019-09-01,0,pogledaj,ME,Tala
+2019-10-01,0,pogledaj,ME,Tala
+2019-11-01,1,pogledaj,ME,Tala
+2019-12-01,0,pogledaj,ME,Tala
+2020-01-01,0,pogledaj,ME,Tala
+2020-02-01,2,pogledaj,ME,Tala
+2020-03-01,2,pogledaj,ME,Tala
+2020-04-01,3,pogledaj,ME,Tala
+2020-05-01,1,pogledaj,ME,Tala
+2020-06-01,0,pogledaj,ME,Tala
+2020-07-01,1,pogledaj,ME,Tala
+2020-08-01,0,pogledaj,ME,Tala
+2020-09-01,2,pogledaj,ME,Tala
+2020-10-01,1,pogledaj,ME,Tala
+2020-11-01,0,pogledaj,ME,Tala
+2020-12-01,1,pogledaj,ME,Tala
+2021-01-01,0,pogledaj,ME,Tala
+2021-02-01,1,pogledaj,ME,Tala
+2021-03-01,1,pogledaj,ME,Tala
+2021-04-01,3,pogledaj,ME,Tala
+2021-05-01,0,pogledaj,ME,Tala
+2021-06-01,0,pogledaj,ME,Tala
+2021-07-01,0,pogledaj,ME,Tala
+2021-08-01,0,pogledaj,ME,Tala
+2021-09-01,1,pogledaj,ME,Tala
+2021-10-01,1,pogledaj,ME,Tala
+2021-11-01,0,pogledaj,ME,Tala
+2021-12-01,0,pogledaj,ME,Tala
+2022-01-01,1,pogledaj,ME,Tala
+2022-02-01,0,pogledaj,ME,Tala
+2022-03-01,0,pogledaj,ME,Tala
+2022-04-01,2,pogledaj,ME,Tala
+2022-05-01,0,pogledaj,ME,Tala
+2022-06-01,0,pogledaj,ME,Tala
+2022-07-01,0,pogledaj,ME,Tala
+2022-08-01,1,pogledaj,ME,Tala
+2022-09-01,1,pogledaj,ME,Tala
+2022-10-01,0,pogledaj,ME,Tala
+2022-11-01,3,pogledaj,ME,Tala
+2022-12-01,0,pogledaj,ME,Tala
+2023-01-01,0,pogledaj,ME,Tala
+2005-01-01,96,dong,ME,Dong
+2005-02-01,0,dong,ME,Dong
+2005-03-01,0,dong,ME,Dong
+2005-04-01,0,dong,ME,Dong
+2005-05-01,0,dong,ME,Dong
+2005-06-01,0,dong,ME,Dong
+2005-07-01,0,dong,ME,Dong
+2005-08-01,0,dong,ME,Dong
+2005-09-01,0,dong,ME,Dong
+2005-10-01,0,dong,ME,Dong
+2005-11-01,0,dong,ME,Dong
+2005-12-01,0,dong,ME,Dong
+2006-01-01,0,dong,ME,Dong
+2006-02-01,0,dong,ME,Dong
+2006-03-01,81,dong,ME,Dong
+2006-04-01,0,dong,ME,Dong
+2006-05-01,0,dong,ME,Dong
+2006-06-01,67,dong,ME,Dong
+2006-07-01,0,dong,ME,Dong
+2006-08-01,0,dong,ME,Dong
+2006-09-01,0,dong,ME,Dong
+2006-10-01,0,dong,ME,Dong
+2006-11-01,0,dong,ME,Dong
+2006-12-01,37,dong,ME,Dong
+2007-01-01,0,dong,ME,Dong
+2007-02-01,0,dong,ME,Dong
+2007-03-01,0,dong,ME,Dong
+2007-04-01,0,dong,ME,Dong
+2007-05-01,53,dong,ME,Dong
+2007-06-01,0,dong,ME,Dong
+2007-07-01,0,dong,ME,Dong
+2007-08-01,36,dong,ME,Dong
+2007-09-01,0,dong,ME,Dong
+2007-10-01,35,dong,ME,Dong
+2007-11-01,0,dong,ME,Dong
+2007-12-01,0,dong,ME,Dong
+2008-01-01,0,dong,ME,Dong
+2008-02-01,0,dong,ME,Dong
+2008-03-01,0,dong,ME,Dong
+2008-04-01,0,dong,ME,Dong
+2008-05-01,0,dong,ME,Dong
+2008-06-01,0,dong,ME,Dong
+2008-07-01,38,dong,ME,Dong
+2008-08-01,0,dong,ME,Dong
+2008-09-01,0,dong,ME,Dong
+2008-10-01,0,dong,ME,Dong
+2008-11-01,100,dong,ME,Dong
+2008-12-01,38,dong,ME,Dong
+2009-01-01,0,dong,ME,Dong
+2009-02-01,0,dong,ME,Dong
+2009-03-01,0,dong,ME,Dong
+2009-04-01,0,dong,ME,Dong
+2009-05-01,0,dong,ME,Dong
+2009-06-01,0,dong,ME,Dong
+2009-07-01,0,dong,ME,Dong
+2009-08-01,0,dong,ME,Dong
+2009-09-01,73,dong,ME,Dong
+2009-10-01,23,dong,ME,Dong
+2009-11-01,0,dong,ME,Dong
+2009-12-01,0,dong,ME,Dong
+2010-01-01,0,dong,ME,Dong
+2010-02-01,0,dong,ME,Dong
+2010-03-01,0,dong,ME,Dong
+2010-04-01,0,dong,ME,Dong
+2010-05-01,0,dong,ME,Dong
+2010-06-01,0,dong,ME,Dong
+2010-07-01,40,dong,ME,Dong
+2010-08-01,0,dong,ME,Dong
+2010-09-01,0,dong,ME,Dong
+2010-10-01,0,dong,ME,Dong
+2010-11-01,0,dong,ME,Dong
+2010-12-01,0,dong,ME,Dong
+2011-01-01,0,dong,ME,Dong
+2011-02-01,5,dong,ME,Dong
+2011-03-01,0,dong,ME,Dong
+2011-04-01,0,dong,ME,Dong
+2011-05-01,0,dong,ME,Dong
+2011-06-01,0,dong,ME,Dong
+2011-07-01,0,dong,ME,Dong
+2011-08-01,0,dong,ME,Dong
+2011-09-01,2,dong,ME,Dong
+2011-10-01,0,dong,ME,Dong
+2011-11-01,0,dong,ME,Dong
+2011-12-01,2,dong,ME,Dong
+2012-01-01,0,dong,ME,Dong
+2012-02-01,2,dong,ME,Dong
+2012-03-01,0,dong,ME,Dong
+2012-04-01,0,dong,ME,Dong
+2012-05-01,0,dong,ME,Dong
+2012-06-01,0,dong,ME,Dong
+2012-07-01,2,dong,ME,Dong
+2012-08-01,0,dong,ME,Dong
+2012-09-01,5,dong,ME,Dong
+2012-10-01,0,dong,ME,Dong
+2012-11-01,0,dong,ME,Dong
+2012-12-01,0,dong,ME,Dong
+2013-01-01,0,dong,ME,Dong
+2013-02-01,0,dong,ME,Dong
+2013-03-01,0,dong,ME,Dong
+2013-04-01,0,dong,ME,Dong
+2013-05-01,6,dong,ME,Dong
+2013-06-01,1,dong,ME,Dong
+2013-07-01,0,dong,ME,Dong
+2013-08-01,0,dong,ME,Dong
+2013-09-01,0,dong,ME,Dong
+2013-10-01,1,dong,ME,Dong
+2013-11-01,0,dong,ME,Dong
+2013-12-01,0,dong,ME,Dong
+2014-01-01,0,dong,ME,Dong
+2014-02-01,1,dong,ME,Dong
+2014-03-01,0,dong,ME,Dong
+2014-04-01,0,dong,ME,Dong
+2014-05-01,0,dong,ME,Dong
+2014-06-01,0,dong,ME,Dong
+2014-07-01,0,dong,ME,Dong
+2014-08-01,0,dong,ME,Dong
+2014-09-01,0,dong,ME,Dong
+2014-10-01,0,dong,ME,Dong
+2014-11-01,3,dong,ME,Dong
+2014-12-01,1,dong,ME,Dong
+2015-01-01,0,dong,ME,Dong
+2015-02-01,2,dong,ME,Dong
+2015-03-01,0,dong,ME,Dong
+2015-04-01,0,dong,ME,Dong
+2015-05-01,0,dong,ME,Dong
+2015-06-01,0,dong,ME,Dong
+2015-07-01,0,dong,ME,Dong
+2015-08-01,0,dong,ME,Dong
+2015-09-01,0,dong,ME,Dong
+2015-10-01,0,dong,ME,Dong
+2015-11-01,0,dong,ME,Dong
+2015-12-01,2,dong,ME,Dong
+2016-01-01,1,dong,ME,Dong
+2016-02-01,2,dong,ME,Dong
+2016-03-01,0,dong,ME,Dong
+2016-04-01,2,dong,ME,Dong
+2016-05-01,0,dong,ME,Dong
+2016-06-01,0,dong,ME,Dong
+2016-07-01,0,dong,ME,Dong
+2016-08-01,2,dong,ME,Dong
+2016-09-01,3,dong,ME,Dong
+2016-10-01,0,dong,ME,Dong
+2016-11-01,3,dong,ME,Dong
+2016-12-01,0,dong,ME,Dong
+2017-01-01,3,dong,ME,Dong
+2017-02-01,0,dong,ME,Dong
+2017-03-01,0,dong,ME,Dong
+2017-04-01,0,dong,ME,Dong
+2017-05-01,7,dong,ME,Dong
+2017-06-01,2,dong,ME,Dong
+2017-07-01,1,dong,ME,Dong
+2017-08-01,1,dong,ME,Dong
+2017-09-01,0,dong,ME,Dong
+2017-10-01,0,dong,ME,Dong
+2017-11-01,1,dong,ME,Dong
+2017-12-01,2,dong,ME,Dong
+2018-01-01,1,dong,ME,Dong
+2018-02-01,0,dong,ME,Dong
+2018-03-01,0,dong,ME,Dong
+2018-04-01,0,dong,ME,Dong
+2018-05-01,2,dong,ME,Dong
+2018-06-01,0,dong,ME,Dong
+2018-07-01,2,dong,ME,Dong
+2018-08-01,0,dong,ME,Dong
+2018-09-01,1,dong,ME,Dong
+2018-10-01,0,dong,ME,Dong
+2018-11-01,0,dong,ME,Dong
+2018-12-01,0,dong,ME,Dong
+2019-01-01,3,dong,ME,Dong
+2019-02-01,0,dong,ME,Dong
+2019-03-01,0,dong,ME,Dong
+2019-04-01,0,dong,ME,Dong
+2019-05-01,0,dong,ME,Dong
+2019-06-01,0,dong,ME,Dong
+2019-07-01,0,dong,ME,Dong
+2019-08-01,1,dong,ME,Dong
+2019-09-01,1,dong,ME,Dong
+2019-10-01,0,dong,ME,Dong
+2019-11-01,0,dong,ME,Dong
+2019-12-01,1,dong,ME,Dong
+2020-01-01,0,dong,ME,Dong
+2020-02-01,0,dong,ME,Dong
+2020-03-01,1,dong,ME,Dong
+2020-04-01,0,dong,ME,Dong
+2020-05-01,1,dong,ME,Dong
+2020-06-01,0,dong,ME,Dong
+2020-07-01,0,dong,ME,Dong
+2020-08-01,0,dong,ME,Dong
+2020-09-01,0,dong,ME,Dong
+2020-10-01,1,dong,ME,Dong
+2020-11-01,0,dong,ME,Dong
+2020-12-01,2,dong,ME,Dong
+2021-01-01,0,dong,ME,Dong
+2021-02-01,0,dong,ME,Dong
+2021-03-01,0,dong,ME,Dong
+2021-04-01,0,dong,ME,Dong
+2021-05-01,0,dong,ME,Dong
+2021-06-01,3,dong,ME,Dong
+2021-07-01,0,dong,ME,Dong
+2021-08-01,3,dong,ME,Dong
+2021-09-01,1,dong,ME,Dong
+2021-10-01,0,dong,ME,Dong
+2021-11-01,1,dong,ME,Dong
+2021-12-01,0,dong,ME,Dong
+2022-01-01,0,dong,ME,Dong
+2022-02-01,0,dong,ME,Dong
+2022-03-01,0,dong,ME,Dong
+2022-04-01,0,dong,ME,Dong
+2022-05-01,1,dong,ME,Dong
+2022-06-01,0,dong,ME,Dong
+2022-07-01,1,dong,ME,Dong
+2022-08-01,1,dong,ME,Dong
+2022-09-01,1,dong,ME,Dong
+2022-10-01,0,dong,ME,Dong
+2022-11-01,3,dong,ME,Dong
+2022-12-01,2,dong,ME,Dong
+2023-01-01,0,dong,ME,Dong
