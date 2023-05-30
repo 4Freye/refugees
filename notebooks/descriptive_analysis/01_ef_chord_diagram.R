@@ -1,6 +1,7 @@
-# setwd("/Users/ericfrey/Documents/thesis/")
-# read data
-data = read.csv("../data/data.csv")
+setwd("/Users/ericfrey/Documents/thesis/")
+
+# Load migration data
+data <- read.csv("data.csv")
 data = data[!duplicated(data[c('Country_o', 'Country_d', 'year')]),]
 
 map_to_region <- function(country_column) {
@@ -129,20 +130,26 @@ world_map <- map_data("world")
 # Convert to a data.table and set key columns
 world_map_dt <- setDT(world_map, key = c("region", "order"))
 
-# Load migration data
-migration_data <- fread("migration_data.csv")
+data <- setDT(data, key=c('Country_o','Country_d','year'))
 
 # Merge with world map data
-merged_data <- merge(migration_data, world_map_dt, by.x = "Country_o", by.y = "region", all.x = TRUE)
+merged_data <- merge(world_map_dt, data[data$year==2010  & data$newarrival > 100][, sum(newarrival), by=Country_o], by.x = "region", by.y = "Country_o", all.x = TRUE, allow.cartesian=TRUE)
 
-# Plot the data
-ggplot(merged_data, aes(x = long, y = lat, group = group)) +
-  geom_polygon(aes(fill = newarrival), colour = "black", size = 0.1) +
-  coord_equal() +
-  scale_fill_gradient(low = "white", high = "red") +
-  labs(title = "Migration Flows", fill = "New Arrivals") +
-  theme_void()
+# Create a base map centered on the US
+leaflet() %>% setView(lng = -6, lat = 41.574886, zoom = 2) %>% 
+  # Add a tile layer from Mapbox
+  addTiles() %>%
+  addPolygons(fillColor = ~colorQuantile("YlOrRd", pop)(pop),
+              fillOpacity = 0.7, color = "#BDBDC3",
+              weight = 1)
+
+library(maps)
+mapCountries = map("world", fill = TRUE, plot = FALSE)
+leaflet(data = mapCountries) %>% addTiles() %>%
+  addPolygons(fillColor = topo.colors(5, alpha = NULL), stroke = FALSE)
+
+trends_strings = c('asesores+asesores', 'agente', 'extraterrestres', 'solicitante+solicitantes+solicitud+aplicar', 'cita', 'llegada+llegadas', 'asimilar+asimilación', 'asilo', 'solicitante de asilo', 'austeridad', 'rescate', 'beneficio+beneficios', 'bilateral', 'biométrico', 'nacimientos', 'controles fronterizos+control de fronteras', 'oficina de inmigración', 'negocio+negocios', 'tarjeta', 'certificado', 'controlar', 'control+puntos de control', 'ciudadano', 'ciudadanía+ciudadanías', 'compensación+compensaciones', 'competitividad', 'consulado+consulados', 'contrato+contratos', 'cooperación', 'crisis+crisis', 'acortar', 'aduanas', 'cíclico', 'descentralización+descentralización', 'disminuido', 'déficits', 'democratización+democratización', 'demográfico+demografía', 'departamento', 'deportación+deportaciones+deportado', 'desregulación', 'detener+detenido+detención', 'determinantes', 'devaluación', 'diáspora', 'discriminar+discriminatorio', 'disparidades', 'diversificación', 'diversidad', 'documentos', 'recesión', 'la doble nacionalidad', 'doble nacionalidad', 'ganador+ganancias', 'económicamente', 'economista+economistas', 'economía+economías', 'élites', 'embajada+embajadas', 'emigrante+emigrantes', 'emigrar+emigró', 'emigración', 'empleador+empleadores', 'empleo', 'empoderamiento', 'aplicación+hace cumplir', 'exclusión', 'exportaciones', 'extensión', 'extranjero+extranjeros', 'forma', 'pib', 'geopolítico', 'globalización+globalización', 'crecimiento', 'hora.+hora', 'privación+dificultades', 'contratación', 'patria', 'postergación', 'ilegal+ilegalmente', 'inmigrante+inmigrantes', 'inmigrar+inmigró', 'inmigración', 'incentivos', 'ingreso+ingresos', 'contratado', 'indicadores', 'individualismo', 'industrialización+industrialización', 'industrializado+industrializado', 'ineficacia', 'desigualdades+desigualdad', 'inflación', 'afluencia', 'inestabilidad', 'seguro', 'matrimonio mixto', 'pasantía+pasantías', 'entrevista', 'trabajo+trabajos', 'mano de obra+mano de obra+obreros+obreros', 'suspender+despidos', 'legalización+legalización+legalizaciones+legalizaciones', 'liberalización+liberalización', 'lotería', 'macro+macroeconómico', 'casamiento', 'inmigrante+migrantes', 'emigrar', 'migración', 'mínimo', 'mala administración', 'monetario', 'monopolios', 'multicultural+multiculturalismo', 'nacionalidad+nacionalidades', 'nacionalización+nacionalización', 'naturalización+naturalización+naturalizaciones+naturalizaciones', 'noticias', 'pasaporte+pasaportes', 'nómina de sueldos+nóminas', 'pensión+pensiones', 'permiso', 'pogromos', 'políticas', 'responsables políticos', 'asilo político', 'refugiado político', 'poblar', 'privatización+privatización', 'productividad', 'prosperidad', 'cuarentena', 'cuota+cuotas', 'recesión+recesiones', 'reclutamiento+contrataciones', 'reformas', 'refugiado+refugiados', 'remuneración+remuneraciones', 'renovación', 'repatriación', 'documentos requeridos+documento requerido', 'requisitos', 'restablecimiento', 'restringir+restringiendo', 'restricción', 'restrictivo', 'reunificación', 'revitalización+revitalización', 'salario+sueldos', 'sanciones', 'schengen', 'sectores', 'buscadores', 'depresión', 'contrabandista+contrabandistas+contrabando', 'seguridad social', 'patrocinador', 'esposos', 'estabilización+estabilización', 'estancamiento', 'apátrida', 'estado', 'estímulo', 'visa de estudiante', 'suficiencia', 'aranceles', 'impuesto+impuestos', 'prueba', 'apretado+apretando', 'turista+turistas', 'traficado+tráfico', 'no autorizado+no autorizado', 'subdesarrollado', 'indocumentado', 'desempleo', 'unión+sindicatos', 'no capacitado', 'insostenible', 'vacante+vacantes', 'viabilidad', 'sin visa', 'visa+visas', 'salario+salarios', 'exención+renuncias', 'bienestar', 'bienestar', 'aflicciones', 'visa de trabajo', 'obrero', 'empeoramiento')
 
 
-
+gtrendsR::gtrends(keyword="Cúcuta", geo=  "VE", time="2018-01-01 2019-01-01", low_search_volume = TRUE, compared_breakdown = FALSE, )$interest_over_time
 
