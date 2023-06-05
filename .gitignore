@@ -1,5 +1,8 @@
 data/raw/data.csv
 data/clean/unhcr.csv
+data/raw/final_gdelt_bycountry.txt
+data/clean/gdelt.csv
+data/clean/gdelt.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
