@@ -116,3 +116,37 @@ def adjust_trend(df, columns_to_adjust:list, start_date=None, end_date=None):
     return dataset
 
 
+def update_column_names(data_list, original_lang_code, wide:bool, df):
+    
+    mapping_dict = dict(zip(df[original_lang_code], df['en']))
+
+    new_data_list = []
+    for data in data_list:
+        new_data = data.copy()  # Make a copy of the DataFrame
+        new_columns = []
+
+        if wide==True:
+
+            for column in new_data.columns:
+                if column in mapping_dict:
+                    new_column = f"{mapping_dict[column]}_{original_lang_code}"
+                else:
+                    new_column = column
+                new_columns.append(new_column)
+            new_data.columns = new_columns
+        
+        else:
+
+            for column in new_data.columns:
+                if column in mapping_dict:
+                    new_column = f"{mapping_dict[column]}"
+                else:
+                    new_column = column
+                new_columns.append(new_column)
+            new_data.columns = new_columns
+
+
+        new_data_list.append(new_data)  # Add the modified DataFrame to the new list
+
+
+    return new_data_list
