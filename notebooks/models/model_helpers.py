@@ -68,9 +68,9 @@ def country_to_continent(iso3):
     country_continent_code = pc.country_alpha2_to_continent_code(country_alpha2)
     return country_continent_code
 
-def mapper(series, converter):
+def mapper(series, converter, **kwargs):
     unique_keys = series.drop_duplicates()
-    unique_vals = unique_keys.apply(converter)
+    unique_vals = unique_keys.apply(converter, **kwargs)
     mapper_dict = dict(zip(unique_keys, unique_vals))
     series = series.map(mapper_dict)
     series.name = series.name + '_continent'
@@ -184,3 +184,43 @@ def cos_similarity(keywords_list, similarity_threshold):
 
     return column_groups
 
+def degrees_of_separation(graph, source_name, target_name):
+    """
+    Returns the number of degrees of separation between two nodes in a graph.
+    
+    Parameters:
+    graph (igraph.Graph): The graph to compute the degrees of separation in.
+    source_name (str): The name of the source node.
+    target_name (str): The name of the target node.
+    
+    Returns:
+    int: The number of degrees of separation between the source and target nodes.
+          Returns None if the nodes are not connected.
+    """
+
+    source_idx = graph.vs.find(name=source_name).index
+    target_idx = graph.vs.find(name=target_name).index
+    shortest_path = graph.distances(source_idx,target_idx)[0][0]
+    if shortest_path == np.Inf:
+        return -1
+    else:
+        return shortest_path
+
+
+class LogExpModelWrapper:
+    def __init__(self, model, transform=True):
+        self.model = model
+        self.transform = transform
+        
+    def fit(self, X, y):
+        transformed_y = np.log1p(y) if self.transform else y
+        self.model.fit(X, transformed_y)
+        
+    def predict(self, X):
+        transformed_predictions = self.model.predict(X)
+        predictions = np.expm1(transformed_predictions) if self.transform else transformed_predictions
+        return predictions
+    
+    def fit_predict(self, X, y):
+        self.fit(X, y)
+        return self.predict(X)
