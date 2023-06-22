@@ -1,5 +1,8 @@
 data/raw/data.csv
 data/clean/unhcr.csv
+data/raw/final_gdelt_bycountry.txt
+data/clean/gdelt.csv
+data/clean/gdelt.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -160,3 +163,24 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+notebooks/trends/trends_downloads/currency_partial results/original_lang/CH_it.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/CZ_cs.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/DK_da.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/EE_et.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/ET_am.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/FI_fi.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/ID_id.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/IE_ga.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/IL_he.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/IN_hi.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/IR_fa.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/IT_it.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/JP_ja.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/LI_it.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/MT_it.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/SI_it.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/SM_it.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/SO_it.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/TL_id.csv
+data/data.csv
+notebooks/trends/trends_downloads/currency_partial results/original_lang/CZ_cs.csv
