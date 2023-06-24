@@ -224,3 +224,73 @@ class LogExpModelWrapper:
     def fit_predict(self, X, y):
         self.fit(X, y)
         return self.predict(X)
+
+
+def is_spike(series, aggressive=True, threshold=100):
+    """
+    Determines if a spike is present in the given series.
+
+    Args:
+        series (pd.Series): The input series to check for spikes.
+        aggressive (bool, optional): If True, uses aggressive spike detection criteria. Defaults to False.
+        threshold (float, optional): The threshold value to consider as a spike. Defaults to 100.
+
+    Returns:
+        bool: True if a spike is present, False otherwise.
+    """
+
+    max_val_index = np.argmax(series)
+    max_val = np.max(series)
+
+    # Check for spike conditions based on aggressive mode
+    if (max_val == threshold) and (max_val_index == 0) and (series.iloc[max_val_index : max_val_index + 2].sum() == threshold):
+        return True
+    elif (max_val == threshold) and (max_val_index > 0):
+        if aggressive:
+            if (series.iloc[max_val_index - 1 : max_val_index + 1].sum() == threshold) or (series.iloc[max_val_index + 1 : max_val_index + 3].sum() == 0):
+                return True
+        else:
+            if series.iloc[max_val_index - 1 : max_val_index + 2].sum() == threshold:
+                return True
+    
+    return False
+
+def smooth_spikes(series, aggressive=True, threshold=100, max_iter=10):
+    """
+    Smooths out spikes in the given series.
+
+    Args:
+        series (pd.Series): The input series to smooth.
+        aggressive (bool, optional): If True, uses aggressive spike detection criteria. Defaults to False.
+        threshold (float, optional): The threshold value to consider as a spike. Defaults to 100.
+        max_iter (int, optional): Maximum number of iterations for spike smoothing. Defaults to 10.
+
+    Returns:
+        pd.Series: The smoothed series with spikes removed.
+    """
+
+    series = series.copy()
+    an_iter = 0
+
+    # Iterate until no more spikes or maximum iterations reached
+    while is_spike(series, aggressive, threshold) and (an_iter <= max_iter):
+        max_val_index = np.argmax(series)
+        next_largest_val = np.partition(series, -2)[-2]
+
+        # Calculate the scaling factor to maintain the overall magnitude
+        if next_largest_val == 0:
+            scale_factor = 0
+        else:
+            scale_factor = 100 / next_largest_val
+
+        # Replace the spike value with the average of neighboring values
+        if max_val_index < 2:
+            series.iloc[max_val_index] = series.iloc[max_val_index : max_val_index + 3].mean()
+        else:
+            series.iloc[max_val_index] = series.iloc[max_val_index - 2 : max_val_index + 3].mean()
+
+        # Scale the series to maintain the overall magnitude
+        series *= scale_factor
+        an_iter += 1
+
+    return series
