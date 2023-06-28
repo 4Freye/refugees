@@ -294,3 +294,12 @@ def smooth_spikes(series, aggressive=True, threshold=100, max_iter=10):
         an_iter += 1
 
     return series
+
+# Function to convert country name to ISO-3 code
+def name_to_iso3(country):
+    try:
+        country_obj = pycountry.countries.search_fuzzy(country)[0]
+        return country_obj.alpha_3
+    except LookupError:
+        return ''
+
