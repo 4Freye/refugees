@@ -68,9 +68,9 @@ def country_to_continent(iso3):
     country_continent_code = pc.country_alpha2_to_continent_code(country_alpha2)
     return country_continent_code
 
-def mapper(series, converter):
+def mapper(series, converter, **kwargs):
     unique_keys = series.drop_duplicates()
-    unique_vals = unique_keys.apply(converter)
+    unique_vals = unique_keys.apply(converter, **kwargs)
     mapper_dict = dict(zip(unique_keys, unique_vals))
     series = series.map(mapper_dict)
     series.name = series.name + '_continent'
@@ -184,3 +184,113 @@ def cos_similarity(keywords_list, similarity_threshold):
 
     return column_groups
 
+def degrees_of_separation(graph, source_name, target_name):
+    """
+    Returns the number of degrees of separation between two nodes in a graph.
+    
+    Parameters:
+    graph (igraph.Graph): The graph to compute the degrees of separation in.
+    source_name (str): The name of the source node.
+    target_name (str): The name of the target node.
+    
+    Returns:
+    int: The number of degrees of separation between the source and target nodes.
+          Returns None if the nodes are not connected.
+    """
+
+    source_idx = graph.vs.find(name=source_name).index
+    target_idx = graph.vs.find(name=target_name).index
+    shortest_path = graph.distances(source_idx,target_idx)[0][0]
+    if shortest_path == np.Inf:
+        return -1
+    else:
+        return shortest_path
+
+
+class LogExpModelWrapper:
+    def __init__(self, model, transform=True):
+        self.model = model
+        self.transform = transform
+        
+    def fit(self, X, y):
+        transformed_y = np.log1p(y) if self.transform else y
+        self.model.fit(X, transformed_y)
+        
+    def predict(self, X):
+        transformed_predictions = self.model.predict(X)
+        predictions = np.expm1(transformed_predictions) if self.transform else transformed_predictions
+        return predictions
+    
+    def fit_predict(self, X, y):
+        self.fit(X, y)
+        return self.predict(X)
+
+
+def is_spike(series, aggressive=True, threshold=100):
+    """
+    Determines if a spike is present in the given series.
+
+    Args:
+        series (pd.Series): The input series to check for spikes.
+        aggressive (bool, optional): If True, uses aggressive spike detection criteria. Defaults to False.
+        threshold (float, optional): The threshold value to consider as a spike. Defaults to 100.
+
+    Returns:
+        bool: True if a spike is present, False otherwise.
+    """
+
+    max_val_index = np.argmax(series)
+    max_val = np.max(series)
+
+    # Check for spike conditions based on aggressive mode
+    if (max_val == threshold) and (max_val_index == 0) and (series.iloc[max_val_index : max_val_index + 2].sum() == threshold):
+        return True
+    elif (max_val == threshold) and (max_val_index > 0):
+        if aggressive:
+            if (series.iloc[max_val_index - 1 : max_val_index + 1].sum() == threshold) or (series.iloc[max_val_index + 1 : max_val_index + 3].sum() == 0):
+                return True
+        else:
+            if series.iloc[max_val_index - 1 : max_val_index + 2].sum() == threshold:
+                return True
+    
+    return False
+
+def smooth_spikes(series, aggressive=True, threshold=100, max_iter=10):
+    """
+    Smooths out spikes in the given series.
+
+    Args:
+        series (pd.Series): The input series to smooth.
+        aggressive (bool, optional): If True, uses aggressive spike detection criteria. Defaults to False.
+        threshold (float, optional): The threshold value to consider as a spike. Defaults to 100.
+        max_iter (int, optional): Maximum number of iterations for spike smoothing. Defaults to 10.
+
+    Returns:
+        pd.Series: The smoothed series with spikes removed.
+    """
+
+    series = series.copy()
+    an_iter = 0
+
+    # Iterate until no more spikes or maximum iterations reached
+    while is_spike(series, aggressive, threshold) and (an_iter <= max_iter):
+        max_val_index = np.argmax(series)
+        next_largest_val = np.partition(series, -2)[-2]
+
+        # Calculate the scaling factor to maintain the overall magnitude
+        if next_largest_val == 0:
+            scale_factor = 0
+        else:
+            scale_factor = 100 / next_largest_val
+
+        # Replace the spike value with the average of neighboring values
+        if max_val_index < 2:
+            series.iloc[max_val_index] = series.iloc[max_val_index : max_val_index + 3].mean()
+        else:
+            series.iloc[max_val_index] = series.iloc[max_val_index - 2 : max_val_index + 3].mean()
+
+        # Scale the series to maintain the overall magnitude
+        series *= scale_factor
+        an_iter += 1
+
+    return series
