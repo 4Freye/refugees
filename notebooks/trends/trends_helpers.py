@@ -56,6 +56,7 @@ def translate_keywords_list(lst, lang):
 
 # Function to get ISO2 country code
 def get_iso2_country_code(country_name):
+    print("Converting " + country)
     try:
         country = pycountry.countries.search_fuzzy(country_name)[0]
         return country.alpha_2
