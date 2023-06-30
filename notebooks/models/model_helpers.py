@@ -91,6 +91,28 @@ def train_test_split(data, target_col, test_time_start, test_time_end, date_var)
     
     return X_train, X_test, y_train, y_test
 
+# Rolling window
+def train_test_split_rw(data, target_col, start_year, end_year, date_var):
+    
+    X_train_list = []
+    y_train_list = []
+    X_test_list = []
+    y_test_list = []
+    
+    for year in range(start_year, end_year + 1):
+        
+        X_train_year = data.loc[data[date_var] < year]
+        y_train_year = X_train_year[target_col]
+        X_train_list.append(X_train_year.drop(columns=target_col))
+        y_train_list.append(y_train_year)
+        
+        X_test_year = data.loc[data[date_var] == year]
+        y_test_year = X_test_year[target_col]
+        X_test_list.append(X_test_year.drop(columns=target_col))
+        y_test_list.append(y_test_year)
+    
+    return X_train_list, X_test_list, y_train_list, y_test_list
+
 # Feature importance - graph with 20 main features
 def feature_imp_more(feature_importances):
     imp = np.array(list(feature_importances.values()))
