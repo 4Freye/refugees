@@ -200,6 +200,7 @@ def cos_similarity(keywords_list, similarity_threshold):
         if not merged:
             merged_groups.append(group)
 
+           
     # Convert groups to list
     column_groups = [list(group) for group in merged_groups]
 
