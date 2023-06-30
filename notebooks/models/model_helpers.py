@@ -77,7 +77,6 @@ def mapper(series, converter, **kwargs):
     return series
 
 
-
 ## Test/Train split, 
 def train_test_split(data, target_col, test_time_start, test_time_end, date_var):
     train = data.loc[data[date_var] < test_time_start]
@@ -310,6 +309,47 @@ def smooth_spikes(series, aggressive=True, threshold=100, max_iter=10):
             series.iloc[max_val_index] = series.iloc[max_val_index : max_val_index + 3].mean()
         else:
             series.iloc[max_val_index] = series.iloc[max_val_index - 2 : max_val_index + 3].mean()
+
+        # Scale the series to maintain the overall magnitude
+        series *= scale_factor
+        an_iter += 1
+
+    return series
+
+# this does the same thing except reduces the spike even more
+def smooth_spikes_2(series, aggressive=True, threshold=100, max_iter=10):
+    """
+    Smooths out spikes in the given series.
+
+    Args:
+        series (pd.Series): The input series to smooth.
+        aggressive (bool, optional): If True, uses aggressive spike detection criteria. Defaults to False.
+        threshold (float, optional): The threshold value to consider as a spike. Defaults to 100.
+        max_iter (int, optional): Maximum number of iterations for spike smoothing. Defaults to 10.
+
+    Returns:
+        pd.Series: The smoothed series with spikes removed.
+    """
+
+    series = series.copy()
+    an_iter = 0
+
+    # Iterate until no more spikes or maximum iterations reached
+    while is_spike(series, aggressive, threshold) and (an_iter <= max_iter):
+        max_val_index = np.argmax(series)
+        next_largest_val = np.partition(series, -2)[-2]
+
+        # Calculate the scaling factor to maintain the overall magnitude
+        if next_largest_val == 0:
+            scale_factor = 0
+        else:
+            scale_factor = 100 / next_largest_val
+
+        # Replace the spike value with the average of neighboring values, times .1
+        if max_val_index < 2:
+            series.iloc[max_val_index] = series.iloc[max_val_index : max_val_index + 3].mean()*.1
+        else:
+            series.iloc[max_val_index] = series.iloc[max_val_index - 2 : max_val_index + 3].mean()*.1
 
         # Scale the series to maintain the overall magnitude
         series *= scale_factor
