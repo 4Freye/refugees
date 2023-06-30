@@ -200,6 +200,7 @@ def cos_similarity(keywords_list, similarity_threshold):
         if not merged:
             merged_groups.append(group)
 
+           
     # Convert groups to list
     column_groups = [list(group) for group in merged_groups]
 
@@ -356,6 +357,7 @@ def smooth_spikes_2(series, aggressive=True, threshold=100, max_iter=10):
         an_iter += 1
 
     return series
+
 
 # Function to convert country name to ISO-3 code
 def name_to_iso3(country):
