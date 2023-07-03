@@ -367,3 +367,65 @@ def name_to_iso3(country):
     except LookupError:
         return ''
 
+### PIPELINE FOR TREE MODELS
+
+from category_encoders import BinaryEncoder
+from sklearn.preprocessing import RobustScaler
+from sklearn.pipeline import Pipeline
+
+def pipeline_tree(model, binary_cols, df):
+    be = BinaryEncoder()
+    cont_scaler = RobustScaler()
+
+    numerical_cols = list(set(df.columns) - set(binary_cols  + ['year', 'target']))
+
+    from sklearn.compose import ColumnTransformer
+
+    transform_cols = ColumnTransformer(
+        [
+            ('cat1', be, binary_cols),
+    #     ('cat2', ohe, ohe_cols),
+            ('num', cont_scaler, numerical_cols)
+        ],
+        remainder='passthrough'
+    )
+
+    pipe = Pipeline([('preprocessing', transform_cols),
+                        ('rf', model)])
+    return pipe
+
+
+## Feature importance by year
+
+def feature_years(feature_importances_dict):
+        # List of years
+    years = [2018, 2019, 2020, 2021]
+
+    # Create a 2x2 grid of subplots
+    fig, axes = plt.subplots(2, 2, figsize=(12, 10))
+
+    # Flatten the axes to iterate over them easily
+    axes = axes.flatten()
+
+    # Iterate over the years and plot the bar plots in the grid
+    for i, year in enumerate(years):
+        ax = axes[i]
+        ax.set_title(f"Year {year}")  # Set title for each subplot with the corresponding year
+        
+        
+        # Sort the feature importances in descending order and get the top 20 features
+        top_features = sorted(feature_importances_dict[year].items(), key=lambda x: x[1], reverse=True)[:20]
+        top_features = list(reversed(top_features))
+        top_features_names, top_features_importances = zip(*top_features)
+        
+        # Plot the bar chart
+        ax.barh(range(len(top_features_names)), top_features_importances, align='center')
+        ax.set_yticks(range(len(top_features_names)))
+        ax.set_yticklabels(top_features_names)
+        ax.set_xlabel('Importance')
+
+    # Adjust the layout and spacing
+    plt.tight_layout()
+
+    # Show the plots
+    plt.show()
