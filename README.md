@@ -1,7 +1,7 @@
 # Forecasting Global Refugee Flows: A Machine Learning Approach using Non-conventional Data
 
-### Daniela de los Santos, Eric Frey and Renato Vasallo
-#### Barcelona School of Economics - MSc in Data Science for Decision Making
+## Daniela de los Santos, Eric Frey and Renato Vasallo
+### Barcelona School of Economics - MSc in Data Science for Decision Making
 This repository contains the data and code used for our master's thesis submission for Data Science Decision Making 2023. The project, conducted in partnership with the United Nations High Commissioner for Refugees (UNHCR) is a prediction task for predicting yearly refugee flows between dyads of countries.
 
 ### How to navigate this repository:
