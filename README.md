@@ -6,7 +6,9 @@ This repository contains the data and code used for our master's thesis submissi
 
 ### How to navigate this repository:
 + `data`: The data folder contains all the data sources that were used for this project, with the exception of UNHCR data, which was shared under discretion. It contains a `clean_data.ipynb` file, which is how the `raw` data is processed and subsequently moved to the `clean` folder.
-+ `models`: This folder contains the three main notebooks that implement refugee outflows and flow predictions, along with helper functions files.
++ `notebooks/models`: This folder contains the three main notebooks that implement refugee outflows and flow predictions, along with helper functions files. It is the key part of the repository.
++ `notebooks/trends`: Within this folder all of the Google Trends downloading and pretesting takes place. You will find different notebooks, helper functions files and helper csv files as well. As this was done in different stages, we recommend approaching the folder with caution. Feel free to consult the authors for specific queries if you need to.
++ `notebooks/descriptive_analysis`: Some initial descriptive analysis notebooks can be found here.
 + `document`: Here you will find the final document of our master's thesis.
   
 ### About the project
