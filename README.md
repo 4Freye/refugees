@@ -15,5 +15,7 @@ This study presents a novel forecasting framework for global refugee flows, inco
 
 ### Contact the authors:
 Daniela De los Santos - Barcelona School of Economics - daniela.de@bse.eu
+
 Eric Frey - Barcelona School of Economics - eric.frey@bse.eu
+
 Renato Vassallo - Barcelona School of Economics renato.vassallo@bse.eu
