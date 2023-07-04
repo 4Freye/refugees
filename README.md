@@ -2,7 +2,7 @@
 
 ## Daniela de los Santos, Eric Frey and Renato Vasallo
 ### Barcelona School of Economics - MSc in Data Science for Decision Making
-This repository contains the data and code used for our master's thesis submission for Data Science Decision Making 2023. The project, conducted in partnership with the United Nations High Commissioner for Refugees (UNHCR) is a prediction task for predicting yearly refugee flows between dyads of countries.
+This repository contains the data and code used for our master's thesis submission for Data Science Decision Making 2023. The project, conducted in partnership with the United Nations High Commissioner for Refugees (UNHCR), is a prediction task for predicting yearly refugee flows between dyads of countries.
 
 ### How to navigate this repository:
 + `data`: The data folder contains all the data sources that were used for this project, with the exception of UNHCR data, which was shared under discretion. It contains a `clean_data.ipynb` file, which is how the `raw` data is processed and subsequently moved to the `clean` folder.
